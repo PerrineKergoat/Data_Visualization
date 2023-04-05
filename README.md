@@ -75,8 +75,8 @@ We would like to explore three main axis. First display a [map](https://github.c
 To imagine our project, we got inspiration from different sources : 
 - [Natural catastrophes project (2020)](https://github.com/com-480-data-visualization/com-480-project-big-yoshi-club)
 - [Covid cases evolution in Switzerland project (2020)](https://github.com/com-480-data-visualization/com-480-project-lcelo)
-- [IUCN Map display](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iucnredlist.org%2Fresources%2Fother-spatial-downloads&psig=AOvVaw2XdrDmtSIREME-rphzKfPM&ust=1680795364094000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCPCP3uaIk_4CFQAAAAAdAAAAABAI)
-
+- [IUCN Map of threatened species](https://www.iucnredlist.org/resources/other-spatial-downloads)
+- [IUCN Map of endagered ecosystems](http://assessments.iucnrle.org/)
 
 ## Milestone 2 (7th May, 5pm)
 

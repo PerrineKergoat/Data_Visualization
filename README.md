@@ -9,6 +9,7 @@
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
 ## Milestone 1 (7th April, 5pm)
+
 **10% of the final grade**
 
 This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
@@ -64,11 +65,16 @@ This project is intended for all those who are interested in understanding the i
 
 ### Related work
 
+The row IUCN Red Lists datasets [[1](https://www.iucnredlist.org/resources/spatial-data-download)] are largley used as reference by governmental and non-governmental institutions to create reports about taxa conservation. These data are often used to create plots and visualy interpretable figures in those technical documents. 
+Those data, provided by searchers in biology and conservation are also used in a lot of publications in in renowned scientific journals. 
+
+For this project, we have chosen to use a condensed version of these huge data. In this way, we want to compare phylogenetic taxa and focus on the comparison between countries rather than on the type of life form. 
 
 > - What others have already done with the data?
 > - Why is your approach original?
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+
+
 
 ## Milestone 2 (7th May, 5pm)
 

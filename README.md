@@ -1,10 +1,10 @@
 # Project of Data Visualization (COM-480)
 
-| Student's name | SCIPER |
-| -------------- | ------ |
-| Colin Hofmann  | 301952 |
-| Ludovic Burnier| 301308 |
-| Perrine Kergoat| 295892 |
+| Student's name  | SCIPER |
+| --------------- | ------ |
+| Colin Hofmann   | 301952 |
+| Ludovic Burnier | 301308 |
+| Perrine Kergoat | 295892 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
@@ -19,9 +19,38 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+#### Composition
+
+Our dataset is composed of 5 files and can be found in the [`data`](./data) folder. The different files are:
+- [country_marine_protected_area.csv](./data/country_marine_protected_area.csv)
+- [country_terrestrial_protected_area.csv](./data/country_terrestrial_protected_area.csv)
+- [country_vulnerable.csv](./data/country_vulnerable.csv)
+- [red_list_index_country_timeseries.csv](./data/red_list_index_country_timeseries.csv)
+- [species.csv](./data/species.csv)
+  
+Those files are all CSV files and were downloaded on Kaggle from [here](https://www.kaggle.com/datasets/johnharshith/number-of-species-in-each-iucn-red-list-category) and [here](https://www.kaggle.com/datasets/sarthakvajpayee/global-species-extinction).
+
+#### Description
+Note that this dataset is, as specified and Kaggle, not official data but rather a new dataset created based on [IUCN Red List's](https://www.iucnredlist.org/) data.
+
+The IUCN Red List is an indicator world’s biodiversity health. This tool is used to design and measure conservation action and policy and it helps inform conservation decisions. It regroups information about species’ range of distribution, population size, habitats and ecology, use and trade, threats, and conservation actions.
+
+##### [Country marine protected area](./data/country_marine_protected_area.csv)
+This file contains information about the size of marine protected areas in different countries. It includes
+an evolution of those areas over time.
+
+##### [Country terrestrial protected area](./data/country_terrestrial_protected_area.csv)
+This file contains information about the size of terrestrial protected areas in different countries. It includes an evolution of those areas over time.
+
+##### [Country vulnerable](./data/country_vulnerable.csv)
+This file contains information about the vulnerable species in different countries and repartition of those species in different categories.
+
+##### [Red list index country timeseries](./data/red_list_index_country_timeseries.csv)
+This file contains the evolution of the red list index in different countries.
+
+##### [Species](./data/species.csv)
+This file contains information about the different species and their categories of vulnerability.
+
 
 ### Problematic
 

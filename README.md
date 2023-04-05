@@ -56,7 +56,7 @@ This file contains information about the different species and their categories 
 
 Our visualization of the datasets aims to highlight the biodiversity hotspots that are most in need of conservation policy and action. Looking at the number of threatened, vulnerable, or even extinct species in different countries would show the overall state of biodiversity in the world while moving away from the flag species we often hear about in the media. 
 
-This project is intended for all those who are interested in understanding the importtancy of the conservation of the species all around the world. 
+This project is intended for all those who are interested in understanding the importancy of the conservation of the species all around the world. 
 
 ### Exploratory Data Analysis
 

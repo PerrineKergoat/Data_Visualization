@@ -65,7 +65,7 @@ This project is intended for all those who are interested in understanding the i
 
 ### Related work
 
-The row [[IUCN Red Lists datasets](https://www.iucnredlist.org/resources/spatial-data-download)] are largley used as reference by governmental and non-governmental institutions to create reports about taxa conservation. These data are often used to create plots and visualy interpretable figures in those technical documents. 
+The row [IUCN Red Lists datasets](https://www.iucnredlist.org/resources/spatial-data-download) are largley used as reference by governmental and non-governmental institutions to create reports about taxa conservation. These data are often used to create plots and visualy interpretable figures in those technical documents. 
 Those data, provided by searchers in biology and conservation are also used in a lot of publications in in renowned scientific journals. 
 
 For this project, we have chosen to use a condensed version of these huge data. In this way, we want to compare phylogenetic taxa and focus on the comparison between countries rather than on the type of life form. 

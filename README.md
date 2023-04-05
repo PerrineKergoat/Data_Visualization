@@ -65,11 +65,18 @@ This project is intended for all those who are interested in understanding the i
 
 ### Related work
 
+The row [IUCN Red Lists datasets](https://www.iucnredlist.org/resources/spatial-data-download) are largley used as reference by governmental and non-governmental institutions to create [reports](https://nc.iucnredlist.org/redlist/resources/files/1630480997-IUCN_RED_LIST_QUADRENNIAL_REPORT_2017-2020.pdf) about taxa conservation. These data are often used to create plots and visualy interpretable figures in those technical documents. 
+Those data, provided by searchers in biology and conservation are also used in a lot of publications in in renowned scientific journals. These data are used to asess [biodiversity threats](https://www.nature.com/articles/s41559-021-01542-9), [anthropogenic impacts on species](https://www.nature.com/articles/s41467-023-37089-5), evolution of the [headcounts of certain monitored species](https://www.nature.com/articles/s41467-022-35091-x), ...
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+For this project, we have chosen to use a condensed version of these huge data. In this way, we want to compare phylogenetic taxa and focus on the comparison between countries rather than on the type of life form or species. 
+
+We would like to explore three main axis. First display a [map](https://github.com/com-480-data-visualization/com-480-project-lcelo) that would show for each country the number of species present on the different categories of the IUCN lists. Second, it would be interesting to show the [evolution](https://github.com/com-480-data-visualization/com-480-project-lcelo) of the number of theatened species since 1950 in these countries. Finally, we would like to look at the species present in the Red List for the different phylogenetic taxa.
+
+To imagine our project, we got inspiration from different sources : 
+- [Natural catastrophes project (2020)](https://github.com/com-480-data-visualization/com-480-project-big-yoshi-club)
+- [Covid cases evolution in Switzerland project (2020)](https://github.com/com-480-data-visualization/com-480-project-lcelo)
+- [IUCN Map of threatened species](https://www.iucnredlist.org/resources/other-spatial-downloads)
+- [IUCN Map of endagered ecosystems](http://assessments.iucnrle.org/)
 
 ## Milestone 2 (7th May, 5pm)
 

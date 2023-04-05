@@ -69,6 +69,13 @@ The row [IUCN Red Lists datasets](https://www.iucnredlist.org/resources/spatial-
 Those data, provided by searchers in biology and conservation are also used in a lot of publications in in renowned scientific journals. These data are used to asess [biodiversity threats](https://www.nature.com/articles/s41559-021-01542-9), [anthropogenic impacts on species](https://www.nature.com/articles/s41467-023-37089-5), evolution of the [headcounts of certain monitored species](https://www.nature.com/articles/s41467-022-35091-x), ...
 
 For this project, we have chosen to use a condensed version of these huge data. In this way, we want to compare phylogenetic taxa and focus on the comparison between countries rather than on the type of life form or species. 
+We would like to explore three main axis. First display a [map](https://github.com/com-480-data-visualization/com-480-project-lcelo) that would show for each country the number of species present on IUCN lists. Then, we would be interested in showing the [evolution](https://github.com/com-480-data-visualization/com-480-project-lcelo) of the number of theatened species since 1950 in these countries. Finally, it would be interesting to look at the speceis present in the Red List for the different phylogenetic taxa. 
+
+To imagine our project, we got inspiration from different sources : 
+- [Natural catastrophes project (2020)](https://github.com/com-480-data-visualization/com-480-project-big-yoshi-club)
+- [Covid cases evolution in Switzerland project (2020)](https://github.com/com-480-data-visualization/com-480-project-lcelo)
+- [IUCN Map display](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iucnredlist.org%2Fresources%2Fother-spatial-downloads&psig=AOvVaw2XdrDmtSIREME-rphzKfPM&ust=1680795364094000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCPCP3uaIk_4CFQAAAAAdAAAAABAI)
+
 
 > - What others have already done with the data?
 > - Why is your approach original?

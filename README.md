@@ -77,12 +77,6 @@ To imagine our project, we got inspiration from different sources :
 - [IUCN Map display](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iucnredlist.org%2Fresources%2Fother-spatial-downloads&psig=AOvVaw2XdrDmtSIREME-rphzKfPM&ust=1680795364094000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCPCP3uaIk_4CFQAAAAAdAAAAABAI)
 
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-
-
-
 ## Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**

@@ -70,7 +70,7 @@ Those data, provided by searchers in biology and conservation are also used in a
 
 For this project, we have chosen to use a condensed version of these huge data. In this way, we want to compare phylogenetic taxa and focus on the comparison between countries rather than on the type of life form or species. 
 
-We would like to explore three main axis. First display a [map](https://github.com/com-480-data-visualization/com-480-project-lcelo) that would show for each country the number of species present on the different categories of the IUCN lists. Second, it would be interesting to show the [evolution](https://github.com/com-480-data-visualization/com-480-project-lcelo) of the number of theatened species since 1950 in these countries. Finally, we would like to look at the species present in the Red List for the different phylogenetic taxa.
+We would like to explore three main axis. First display a map that would show for each country the number of species present on the different categories of the IUCN lists. Second, it would be interesting to show the evolution of the number of theatened species since 1950 in these countries. Finally, we would like to look at the species present in the Red List for the different phylogenetic taxa.
 
 To imagine our project, we got inspiration from different sources : 
 - [Natural catastrophes project (2020)](https://github.com/com-480-data-visualization/com-480-project-big-yoshi-club)

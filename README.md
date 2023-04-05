@@ -9,14 +9,13 @@
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
 ## Milestone 1 (7th April, 5pm)
-
-**10% of the final grade**
+<span style="color: grey; opacity: 0.5;">**10% of the final grade**
 
 This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
 Please, fill the following sections about your project.
 
 *(max. 2000 characters per section)*
-
+</span>
 ### Dataset
 
 #### Composition

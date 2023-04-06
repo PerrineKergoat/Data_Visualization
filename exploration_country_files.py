@@ -50,24 +50,26 @@ plot_evolution(df_country_terrestrial, ['France', 'United Kingdom', 'Spain', 'It
 
 
 # %%
-pivot = df_country_vulnerable.pivot_table(index=['Country'], columns=['IUCN Category'], values='Value')
+# list all IUCN Category
+df_country_vulnerable['IUCN Category'].unique()
 
-pivot = pivot[['Threatened species as % of known species']]
+# %%
+to_plot = df_country_vulnerable[
+    df_country_vulnerable['IUCN Category']
+    .isin(['Number of endangered species', 'Number of critically endangered species', 'Number of vulnerable species'])]
 
-#remove rows with NaN values
-pivot = pivot.dropna()
 
-# plot a bar graph of the pivot table
-pivot.plot(kind='bar', stacked=True, figsize=(10, 6))
+# groupby SPEC
+to_plot = to_plot.groupby(['Country', 'IUCN Category']).sum().reset_index()
 
-# add axis labels and a title
-plt.xlabel('Country')
-plt.ylabel('% of known species')
-plt.title('Threatened species as % of known species for each country')
-# remove legend 
-plt.legend().remove()
+display(to_plot)
 
-# display the plot
+# #remove rows with NaN values
+to_plot = to_plot.dropna()
+
+# for each country plot stacked IUCN Category (x = countries, y = values stacked)
+to_plot = to_plot.pivot(index='Country', columns='IUCN Category', values='Value')
+to_plot.plot(kind='bar', stacked=True)
 plt.show()
 
 # %%

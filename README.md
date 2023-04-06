@@ -1,4 +1,4 @@
-# Project of Data Visualization (COM-480) : The IUCN Red List
+# Project of Data Visualization (COM-480) : IUCN Red List
 
 | Student's name  | SCIPER |
 | --------------- | ------ |

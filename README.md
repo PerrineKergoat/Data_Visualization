@@ -59,9 +59,9 @@ Our visualization of the datasets aims to highlight the biodiversity hotspots th
 This project is intended for all those who are interested in understanding the importancy of the conservation of the species all around the world. 
 
 ### Exploratory Data Analysis
-The dataset is already cleaned and ready to be used. We don't need to do any data cleaning or a lot of pre-processing. Some columns might be dropped for the final visualization, but we will keep them for now.
+The dataset is already cleaned and ready to be used. We don't need to do any data cleaning or a lot of pre-processing. Some columns and rows might be dropped for the final visualization, but we will keep them for now.
 
-To get a first idea of the data, we will use the `pandas` library to load the data and display some basic statistics. We will also use the `matplotlib` library to plot some graphs to get a better understanding of the data.
+To get a first idea of the data, we will use the `pandas` library to load the data and display some basic statistics. We will also use the `matplotlib` and `plotly` libraries to plot some graphs to get a better understanding of the data.
 
 For now, we'll limit the exploration to some basic graphs, but it already give us an idea of what we can do with the data.
 
@@ -80,9 +80,30 @@ The data is similar to the previous graph, the two files contain the same data b
 
 This graph shows the number of threatened species per country and the repartition of those species in different categories. With this file we'll be able to have a better understanding of the different categories of the IUCN Red List and how they are distributed in different countries.
 
+#### Red list index country timeseries
+![Red list index country timeseries](./assets/red_list_index_over_time.png) 
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
+This graph shows the evolution of the Red List Index over time. The Red List Index is a measure of the overall extinction risk of all species in a country. The dataset contains the index for all countries, but here we only focus on some of them for a better visualization.
+
+#### Species
+![Species](./assets/species_per_extinct_category.png) 
+
+Here we show the number of species per category of extinction. We can see for each category the repartition of the species. We kept the top 10 species and merged all others into a "Others" category for a better visualization.
+
+Here is a list of the categories abbreviations:
+- `CR`: Critically Endangered
+- `CR(PE)`: Critically Endangered (Possibly Extinct)
+- `CR(PEW)`: Critically Endangered (Possibly Extinct in the Wild)
+- `DD`: Data Deficient
+- `EN`: Endangered
+- `EW`: Extinct in the Wild
+- `EX`: Extinct
+- `LC or LR/lc`: Least Concern (includes Lower Risk/least concern)
+- `LR/cd`: Lower Risk/Conservation Dependent
+- `NT or LR/nt`: Never Threatened (includes Lower Risk/never threatened)
+- `VU`: Vulnerable
+
+
 
 ### Related work
 

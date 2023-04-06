@@ -67,14 +67,17 @@ For now, we'll limit the exploration to some basic graphs, but it already give u
 
 #### Country marine protected area
 ![Country marine protected area](./assets/evolution_marine_protected.png)
+
 Note that the data is not available for all countries, so the graph is not complete.
 
 #### Country terrestrial protected area
 ![Country terrestrial protected area](./assets/evolution_terrestrial_protected.png)
+
 The data is similar to the previous graph, the two files contain the same data but for different types of protected areas.
 
 #### Country vulnerable
-![Country vulnerable](./assets/threatened_species_per_country.png)
+![Country vulnerable](./assets/threatened_species_per_country.png) 
+
 This graph shows the number of threatened species per country and the repartition of those species in different categories. With this file we'll be able to have a better understanding of the different categories of the IUCN Red List and how they are distributed in different countries.
 
 

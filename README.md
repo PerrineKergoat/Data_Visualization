@@ -88,7 +88,7 @@ This graph shows the evolution of the Red List Index over time. The Red List Ind
 #### Species
 ![Species](./assets/species_per_extinct_category.png) 
 
-Here we show the number of species per category of extinction. We can see for each category the repartition of the species. We kept the top 10 species and merged all others into a "Others" category for a better visualization.
+Here we show the number of species per category of extinction. We can see for each category the repartition of the species. We kept the top 10 species and merged all others into a "Other" category for a better visualization.
 
 Here is a list of the categories abbreviations:
 - `CR`: Critically Endangered

@@ -59,6 +59,24 @@ Our visualization of the datasets aims to highlight the biodiversity hotspots th
 This project is intended for all those who are interested in understanding the importancy of the conservation of the species all around the world. 
 
 ### Exploratory Data Analysis
+The dataset is already cleaned and ready to be used. We don't need to do any data cleaning or a lot of pre-processing. Some columns might be dropped for the final visualization, but we will keep them for now.
+
+To get a first idea of the data, we will use the `pandas` library to load the data and display some basic statistics. We will also use the `matplotlib` library to plot some graphs to get a better understanding of the data.
+
+For now, we'll limit the exploration to some basic graphs, but it already give us an idea of what we can do with the data.
+
+#### Country marine protected area
+![Country marine protected area](./assets/evolution_marine_protected.png)
+Note that the data is not available for all countries, so the graph is not complete.
+
+#### Country terrestrial protected area
+![Country terrestrial protected area](./assets/evolution_terrestrial_protected.png)
+The data is similar to the previous graph, the two files contain the same data but for different types of protected areas.
+
+#### Country vulnerable
+![Country vulnerable](./assets/threatened_species_per_country.png)
+This graph shows the number of threatened species per country and the repartition of those species in different categories. With this file we'll be able to have a better understanding of the different categories of the IUCN Red List and how they are distributed in different countries.
+
 
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data

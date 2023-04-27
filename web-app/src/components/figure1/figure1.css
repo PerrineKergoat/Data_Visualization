@@ -1,0 +1,10 @@
+.figure1__card{
+    background-color: firebrick;
+    width: 90%;
+    height: 700px;
+    line-height: 700px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

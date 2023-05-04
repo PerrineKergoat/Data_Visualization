@@ -8,10 +8,10 @@ const Navbar = () => {
                 <img src={logo} alt="logo"/>
             </div>
             <div className="navbar__navbar-links">
-                <p><a href="#figure1"> Figure 1 </a></p>
-                <p><a href="#figure2"> Figure 2 </a></p>
+                <p><a href="#figureMap"> Map </a></p>
+                <p><a href="#figure2"> Protected areas </a></p>
+                <p><a href="#figure2"> Species tree </a></p>
             </div>
-            Charting the Endangered
         </div>
     );
 };

@@ -1,0 +1,21 @@
+.figureTreeWorld__card {
+    width: 600px;
+    height: 250px;
+    line-height: 250px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+}
+
+#imgTreeWorld {
+    width: 93%;
+    height: 93%;
+    border-radius: 50px;
+    margin: auto;
+    vertical-align: middle;
+}

@@ -1,5 +1,6 @@
 import './App.css';
-import {Figure1, Figure2, Header, Navbar} from "./components";
+import {Header, Navbar, FigureMap, FigureVulnerabilities, FigureTerrestrial, FigureMarine, FigureTree, FigureDistrib, FigureTreeCountry, FigureTreeWorld} from "./components";
+import React from "react";
 
 function App() {
     return (
@@ -8,8 +9,60 @@ function App() {
                 <Navbar/>
                 <Header/>
             </div>
-            <Figure1/>
-            <Figure2/>
+            <div id="content">
+                <div className='figures'>
+                    <div>
+                        <FigureMap/>
+                    </div>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <FigureDistrib/>
+                                    </td>
+                                    <td>
+                                        <FigureVulnerabilities/>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div className='figures'>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <FigureTerrestrial/>
+                                </td>
+                                <td>
+                                    <FigureMarine/>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div className='figures'>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowSpan="2">
+                                    <FigureTree/>
+                                </td>
+                                <td>
+                                    <FigureTreeWorld/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <FigureTreeCountry/>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     );
 }

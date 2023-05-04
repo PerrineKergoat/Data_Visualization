@@ -1,0 +1,19 @@
+.figureMarine__card{ 
+    width: 750px;
+    height: 500px;
+    line-height: 500px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#imgMarine {
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    margin: auto;
+}

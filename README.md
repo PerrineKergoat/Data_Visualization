@@ -126,6 +126,7 @@ To imagine our project, we got inspiration from different sources :
 
 ### Sketch
 
+![Imagined structure of the project](./assets/Sketch.png)
 
 ### Tools and lectures 
 

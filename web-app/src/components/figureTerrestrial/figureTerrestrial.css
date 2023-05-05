@@ -1,6 +1,7 @@
-.figureTerrestrial__card{ 
+.figureTerrestrial__card {
     width: 90%;
-    margin: 0px;
+    padding: 10px 0px 10px 0px;
+    margin: 10px auto 10px auto;
     border-radius: 30px;
     border-color: black;
     border-width: 5px;

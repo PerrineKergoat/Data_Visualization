@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0ac3fe617eda6f5c4c38",
-    "url": "/project-2023-lcp-data-wizards/static/css/main.57340a6f.chunk.css"
+    "revision": "8c4865fb5067f371f9eb",
+    "url": "/project-2023-lcp-data-wizards/static/css/main.b1ed9f41.chunk.css"
   },
   {
-    "revision": "0ac3fe617eda6f5c4c38",
-    "url": "/project-2023-lcp-data-wizards/static/js/main.0ac3fe61.chunk.js"
+    "revision": "8c4865fb5067f371f9eb",
+    "url": "/project-2023-lcp-data-wizards/static/js/main.8c4865fb.chunk.js"
   },
   {
     "revision": "03d3cddbd4bb69226339",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/project-2023-lcp-data-wizards/static/media/logo.7b390023.svg"
   },
   {
-    "revision": "67d352e09c69a1eb21a5ba7d804c9d33",
+    "revision": "05fc6da2d21ce056724b4c3581f4bde7",
     "url": "/project-2023-lcp-data-wizards/index.html"
   }
 ];

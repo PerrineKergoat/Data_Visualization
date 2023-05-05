@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/project-2023-lcp-data-wizards/precache-manifest.fa2ed5369a3eb7b84978248e04cc1552.js"
+  "/project-2023-lcp-data-wizards/precache-manifest.216549554d40bd8f0d7c9b3ae1e0d004.js"
 );
 
 workbox.clientsClaim();

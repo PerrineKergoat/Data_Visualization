@@ -136,6 +136,9 @@ To imagine our project, we got inspiration from different sources :
 ### Future ideas
 
 
+### Project prototype
+
+
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**

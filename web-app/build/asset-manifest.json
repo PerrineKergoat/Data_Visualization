@@ -1,22 +1,22 @@
 {
-  "files": {
-    "main.css": "./static/css/main.88f80026.css",
-    "main.js": "./static/js/main.73f57728.js",
-    "static/media/distrib.jpg": "./static/media/distrib.9227f3db43002bb5cb92.jpg",
-    "static/media/map.jpg": "./static/media/map.38b84bb4813d8bab5199.jpg",
-    "static/media/terrestrial.jpg": "./static/media/terrestrial.0d3f07f9bf3d4433147c.jpg",
-    "static/media/vulnerabilities.jpg": "./static/media/vulnerabilities.f8379191f90c844d3b08.jpg",
-    "static/media/marine.jpg": "./static/media/marine.2c94a24a00976cc54b1c.jpg",
-    "static/media/treeWorld.jpg": "./static/media/treeWorld.e9393ce61154373eefc5.jpg",
-    "static/media/treeCountry.jpg": "./static/media/treeCountry.5e6bba9361129961fc39.jpg",
-    "static/media/tree.jpg": "./static/media/tree.aafba1e48afb8001913e.jpg",
-    "static/media/logo.svg": "./static/media/logo.03df4644467b07f4c9fc02f1a3e03152.svg",
-    "index.html": "./index.html",
-    "main.88f80026.css.map": "./static/css/main.88f80026.css.map",
-    "main.73f57728.js.map": "./static/js/main.73f57728.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.88f80026.css",
-    "static/js/main.73f57728.js"
-  ]
+  "main.css": "/web-app/build/static/css/main.57340a6f.chunk.css",
+  "main.js": "/web-app/build/static/js/main.0ac3fe61.chunk.js",
+  "main.js.map": "/web-app/build/static/js/main.0ac3fe61.chunk.js.map",
+  "static/js/1.03d3cddb.chunk.js": "/web-app/build/static/js/1.03d3cddb.chunk.js",
+  "static/js/1.03d3cddb.chunk.js.map": "/web-app/build/static/js/1.03d3cddb.chunk.js.map",
+  "runtime~main.js": "/web-app/build/static/js/runtime~main.374cd24c.js",
+  "runtime~main.js.map": "/web-app/build/static/js/runtime~main.374cd24c.js.map",
+  "static/media/map.jpg": "/web-app/build/static/media/map.9d56c7b6.jpg",
+  "static/media/vulnerabilities.jpg": "/web-app/build/static/media/vulnerabilities.79b993f9.jpg",
+  "static/media/distrib.jpg": "/web-app/build/static/media/distrib.69e840e3.jpg",
+  "static/media/terrestrial.jpg": "/web-app/build/static/media/terrestrial.35c63913.jpg",
+  "static/media/marine.jpg": "/web-app/build/static/media/marine.d54b9fe9.jpg",
+  "static/media/tree.jpg": "/web-app/build/static/media/tree.919446b3.jpg",
+  "static/media/treeCountry.jpg": "/web-app/build/static/media/treeCountry.ea2c1183.jpg",
+  "static/media/treeWorld.jpg": "/web-app/build/static/media/treeWorld.0c40474d.jpg",
+  "static/media/logo.svg": "/web-app/build/static/media/logo.7b390023.svg",
+  "static/css/main.57340a6f.chunk.css.map": "/web-app/build/static/css/main.57340a6f.chunk.css.map",
+  "index.html": "/web-app/build/index.html",
+  "precache-manifest.05eccac277cbbc6f251844c92c972c7c.js": "/web-app/build/precache-manifest.05eccac277cbbc6f251844c92c972c7c.js",
+  "service-worker.js": "/web-app/build/service-worker.js"
 }

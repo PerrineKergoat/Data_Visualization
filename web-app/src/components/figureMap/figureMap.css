@@ -1,11 +1,8 @@
 .figureMap__card{   
     width: 90%;
-    max-width: 1590px;
-    height: 600px;
-    line-height: 600px;
     padding: 10px 0px 10px 0px;
     margin: 10px auto 10px auto;
-    border-radius: 100px;
+    border-radius: 30px;
     border-color: black;
     border-width: 5px;
     border-style: solid;
@@ -15,6 +12,6 @@
 #imgMap {
     width: 100%;
     height: 100%;
-    border-radius: 100px;
+    border-radius: 30px;
     margin: auto;
 }

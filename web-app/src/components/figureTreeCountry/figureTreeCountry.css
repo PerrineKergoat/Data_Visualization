@@ -1,11 +1,7 @@
 .figureTreeCountry__card {
-    width: 600px;
-    height: 250px;
-    line-height: 250px;
+    width: 90%;
     margin: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-radius: 100px;
+    border-radius: 30px;
     border-color: black;
     border-width: 5px;
     border-style: solid;
@@ -13,9 +9,8 @@
 }
 
 #imgTreeCountry {
-    width: 93%;
-    height: 93%;
-    border-radius: 50px;
+    width: 90%;
+    border-radius: 30px;
     margin: auto;
     vertical-align: middle;
 }

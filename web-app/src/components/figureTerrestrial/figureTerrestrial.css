@@ -1,11 +1,7 @@
 .figureTerrestrial__card{ 
-    width: 750px;
-    height: 500px;
-    line-height: 500px;
+    width: 90%;
     margin: 0px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-radius: 100px;
+    border-radius: 30px;
     border-color: black;
     border-width: 5px;
     border-style: solid;
@@ -13,7 +9,6 @@
 
 #imgTerrestrial {
     width: 100%;
-    height: 100%;
-    border-radius: 100px;
+    border-radius: 30px;
     margin: auto;
 }

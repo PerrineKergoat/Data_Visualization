@@ -1,18 +1,26 @@
 .App {
-  text-align: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #db382b;
+    color: white;
+}
+
+a {
+    color: white;
 }
 
 #content {
-  width: 1600px;
-  padding: 0 20px;
-  position:relative; 
-  top:-30px; 
-  margin: 0px auto 0px auto;
+    padding: 0 20px;
+    position: relative;
+    margin: 0px auto 0px auto;
 }
 
 .figures {
-  width:100%;
-  background-color: aqua;
-  border-radius: 50px;
-  margin-top: 30px;
+    width: 80%;
+    background-color: #ffffff;
+    border-radius: 50px;
+    margin: 40px auto;
 }

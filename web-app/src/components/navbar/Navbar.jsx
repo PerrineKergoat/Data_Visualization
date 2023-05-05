@@ -9,9 +9,9 @@ const Navbar = () => {
                 <img src={logo} alt="logo"/>
             </div>
             <div className="navbar__navbar-links">
-                <p><a href="#figureMap"> Map </a></p>
-                <p><a href="#figure2"> Protected areas </a></p>
-                <p><a href="#figure2"> Species tree </a></p>
+                <p><a href="#map_related_figures"> Map </a></p>
+                <p><a href="#protected_areas_figures"> Protected areas </a></p>
+                <p><a href="#species_tree_figures"> Species tree </a></p>
             </div>
         </div>
     );

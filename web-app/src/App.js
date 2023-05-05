@@ -21,7 +21,7 @@ function App() {
                 <Header/>
             </div>
             <div id="content">
-                <div className='figures'>
+                <div className='figures' id="map_related_figures">
                     <div>
                         <FigureMap/>
                     </div>
@@ -40,7 +40,7 @@ function App() {
                         </table>
                     </div>
                 </div>
-                <div className='figures'>
+                <div className='figures' id="protected_areas_figures">
                     <table>
                         <tbody>
                         <tr>
@@ -54,7 +54,7 @@ function App() {
                         </tbody>
                     </table>
                 </div>
-                <div className='figures'>
+                <div className='figures' id="species_tree_figures">
                     <table>
                         <tbody>
                         <tr>

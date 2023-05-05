@@ -124,6 +124,17 @@ To imagine our project, we got inspiration from different sources :
 
 **10% of the final grade**
 
+### Sketch
+
+
+### Tools and lectures 
+
+
+### Pieces to implement
+
+
+### Future ideas
+
 
 ## Milestone 3 (4th June, 5pm)
 

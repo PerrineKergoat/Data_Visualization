@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88f80026.css",
+    "main.js": "/static/js/main.4a8236a7.js",
+    "static/media/distrib.jpg": "/static/media/distrib.9227f3db43002bb5cb92.jpg",
+    "static/media/map.jpg": "/static/media/map.38b84bb4813d8bab5199.jpg",
+    "static/media/terrestrial.jpg": "/static/media/terrestrial.0d3f07f9bf3d4433147c.jpg",
+    "static/media/vulnerabilities.jpg": "/static/media/vulnerabilities.f8379191f90c844d3b08.jpg",
+    "static/media/marine.jpg": "/static/media/marine.2c94a24a00976cc54b1c.jpg",
+    "static/media/treeWorld.jpg": "/static/media/treeWorld.e9393ce61154373eefc5.jpg",
+    "static/media/treeCountry.jpg": "/static/media/treeCountry.5e6bba9361129961fc39.jpg",
+    "static/media/tree.jpg": "/static/media/tree.aafba1e48afb8001913e.jpg",
+    "static/media/logo.svg": "/static/media/logo.03df4644467b07f4c9fc02f1a3e03152.svg",
+    "index.html": "/index.html",
+    "main.88f80026.css.map": "/static/css/main.88f80026.css.map",
+    "main.4a8236a7.js.map": "/static/js/main.4a8236a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88f80026.css",
+    "static/js/main.4a8236a7.js"
+  ]
+}

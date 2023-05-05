@@ -6,7 +6,7 @@ const FigureVulnerabilities = () => {
     return (
         <div className="figureVulnerabilities" id="figureVulnerabilities">
             <div className="figureVulnerabilities__card">
-                <img src={vulnerabilities} alt="vulnerabilities" id="imgVulnerabilities" />
+                <img src={vulnerabilities} alt="vulnerabilities" id="imgVulnerabilities"/>
             </div>
         </div>
     );

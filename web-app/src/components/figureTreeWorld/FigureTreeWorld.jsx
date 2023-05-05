@@ -6,7 +6,7 @@ const FigureTreeWorld = () => {
     return (
         <div className="figureTreeWorld" id="figureTreeWorld">
             <div className="figureTreeWorld__card">
-                <img src={treeWorld} alt="treeWorld" id="imgTreeWorld" />
+                <img src={treeWorld} alt="treeWorld" id="imgTreeWorld"/>
             </div>
         </div>
     );

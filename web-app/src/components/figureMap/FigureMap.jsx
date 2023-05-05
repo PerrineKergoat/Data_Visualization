@@ -6,7 +6,7 @@ const FigureMap = () => {
     return (
         <div className="figureMap" id="figureMap">
             <div className="figureMap__card">
-                <img src={map} alt="map" id="imgMap" />
+                <img src={map} alt="map" id="imgMap"/>
             </div>
         </div>
     );

@@ -6,7 +6,7 @@ const FigureDistrib = () => {
     return (
         <div className="figureDistrib" id="figureDistrib">
             <div className="figureDistrib__card">
-                <img src={distrib} alt="distrib" id='imgDistrib' />
+                <img src={distrib} alt="distrib" id='imgDistrib'/>
             </div>
         </div>
     );

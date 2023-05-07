@@ -130,6 +130,16 @@ To imagine our project, we got inspiration from different sources :
 
 ![Imagined structure of the project](./assets/Sketch.png)
 
+Our website is composed of 1 page, composed of 3 different sections. 
+
+All the sections are linked together, and the user can interact with the different plots to get more information about a specific country (or a specific category of species). Also the website will have a year slider, to let the user choose the year he wants to see the data for.
+
+The first section will be a map of the world, with the countries colored according to the IUCN Red List Index. The user will be able to hover over a country to get more information about it (name, Red List Index, number of species in each category). The user will also be able to click on a country to get more information about it in the other sections. Also bellow this map there will be 2 graphs, one showing the repartition of the all species in the different IUCN categories, and the other showing the same thing but detailed for each species. All of this linked to the map, so that when the user clicks on a country, the graphs will show the data for this country.
+
+The second section will be composed of two line charts showing the evolution of protected areas of the selected country over the years. The first graph will show this evolution on the terestrial protected areas, and the second one will show the evolution of the marine protected areas.
+
+The third section will be a phylogenetic tree on the left, showing the different species present in the selected country. On the right side, we will have a bar chart showing the number of species in each category of the IUCN Red List according to the selected species (on the left side).
+
 ### Tools and lectures 
 
 Obviously the three main tools we will use are d3.js, React and github pages. 

@@ -124,21 +124,16 @@ To imagine our project, we got inspiration from different sources :
 
 **10% of the final grade**
 
-### Sketch
+### Sketch - Pieces to implement - ideas
 
 ![Imagined structure of the project](./assets/Sketch.png)
 
 ### Tools and lectures 
 
-
-### Pieces to implement
-
-
-### Future ideas
-
+TODO
 
 ### Project prototype
-
+[Website](https://com-480-data-visualization.github.io/project-2023-lcp-data-wizards/)
 
 ## Milestone 3 (4th June, 5pm)
 

@@ -132,7 +132,14 @@ To imagine our project, we got inspiration from different sources :
 
 ### Tools and lectures 
 
-TODO
+Obviously the three main tools we will use are d3.js, React and github pages. 
+More specifically for d3.js, we will use geoPath to draw the map as seen in the lectures, as well as basic histograms, bar and line charts. Finally for the tree we think about using the d3 hierarchy tree layout. 
+
+This should cover our most important needs, but some other tools might become handy along the way. Finally we will refer to the lecture on interactivity in d3.js to try to make our project as interactive as possible. 
+
+To help doing this we want to make some plots change according to the user's interaction with another plot (showing a histogram for a chosen country on the map for example). We won't forget to chose our colors wisely according to the lecture on color perception to let the data be as clear as possible.
+
+All of this while of course keeping in mind the do's and don'ts of data visualization (hence for example the use of bar charts instead of pie charts).
 
 ### Project prototype
 [Website](https://com-480-data-visualization.github.io/project-2023-lcp-data-wizards/)

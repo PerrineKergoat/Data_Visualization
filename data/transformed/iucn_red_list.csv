@@ -1,0 +1,5041 @@
+Country,VAR,Year,Value
+World,INDEX,2001,0.794
+World,INDEX,2002,0.791
+World,INDEX,2003,0.787
+World,INDEX,2004,0.784
+World,INDEX,2005,0.781
+World,INDEX,2006,0.777
+World,INDEX,2007,0.774
+World,INDEX,2008,0.771
+World,INDEX,2009,0.768
+World,INDEX,2010,0.765
+World,INDEX,2011,0.761
+World,INDEX,2012,0.758
+World,INDEX,2013,0.754
+World,INDEX,2014,0.75
+World,INDEX,2015,0.747
+World,INDEX,2016,0.744
+World,INDEX,2017,0.74
+World,INDEX,2018,0.737
+World,INDEX,2019,0.732
+World,INDEX,2020,0.729
+World,INDEX,2021,0.726
+Liechtenstein,INDEX,2001,0.991
+Liechtenstein,INDEX,2002,0.991
+Liechtenstein,INDEX,2003,0.991
+Liechtenstein,INDEX,2004,0.991
+Liechtenstein,INDEX,2005,0.991
+Liechtenstein,INDEX,2006,0.991
+Liechtenstein,INDEX,2007,0.991
+Liechtenstein,INDEX,2008,0.991
+Liechtenstein,INDEX,2009,0.991
+Liechtenstein,INDEX,2010,0.991
+Liechtenstein,INDEX,2011,0.991
+Liechtenstein,INDEX,2012,0.991
+Liechtenstein,INDEX,2013,0.991
+Liechtenstein,INDEX,2014,0.991
+Liechtenstein,INDEX,2015,0.991
+Liechtenstein,INDEX,2016,0.991
+Liechtenstein,INDEX,2017,0.991
+Liechtenstein,INDEX,2018,0.991
+Liechtenstein,INDEX,2019,0.991
+Liechtenstein,INDEX,2020,0.991
+Liechtenstein,INDEX,2021,0.991
+Samoa,INDEX,2001,0.784
+Samoa,INDEX,2002,0.783
+Samoa,INDEX,2003,0.782
+Samoa,INDEX,2004,0.781
+Samoa,INDEX,2005,0.78
+Samoa,INDEX,2006,0.779
+Samoa,INDEX,2007,0.779
+Samoa,INDEX,2008,0.778
+Samoa,INDEX,2009,0.777
+Samoa,INDEX,2010,0.775
+Samoa,INDEX,2011,0.773
+Samoa,INDEX,2012,0.773
+Samoa,INDEX,2013,0.771
+Samoa,INDEX,2014,0.77
+Samoa,INDEX,2015,0.769
+Samoa,INDEX,2016,0.767
+Samoa,INDEX,2017,0.765
+Samoa,INDEX,2018,0.763
+Samoa,INDEX,2019,0.764
+Samoa,INDEX,2020,0.762
+Samoa,INDEX,2021,0.761
+American Samoa,INDEX,2001,0.869
+American Samoa,INDEX,2002,0.869
+American Samoa,INDEX,2003,0.868
+American Samoa,INDEX,2004,0.867
+American Samoa,INDEX,2005,0.867
+American Samoa,INDEX,2006,0.868
+American Samoa,INDEX,2007,0.868
+American Samoa,INDEX,2008,0.868
+American Samoa,INDEX,2009,0.867
+American Samoa,INDEX,2010,0.868
+American Samoa,INDEX,2011,0.867
+American Samoa,INDEX,2012,0.867
+American Samoa,INDEX,2013,0.867
+American Samoa,INDEX,2014,0.866
+American Samoa,INDEX,2015,0.865
+American Samoa,INDEX,2016,0.864
+American Samoa,INDEX,2017,0.864
+American Samoa,INDEX,2018,0.865
+American Samoa,INDEX,2019,0.864
+American Samoa,INDEX,2020,0.863
+American Samoa,INDEX,2021,0.863
+Luxembourg,INDEX,2001,0.983
+Luxembourg,INDEX,2002,0.984
+Luxembourg,INDEX,2003,0.984
+Luxembourg,INDEX,2004,0.984
+Luxembourg,INDEX,2005,0.984
+Luxembourg,INDEX,2006,0.984
+Luxembourg,INDEX,2007,0.984
+Luxembourg,INDEX,2008,0.984
+Luxembourg,INDEX,2009,0.984
+Luxembourg,INDEX,2010,0.984
+Luxembourg,INDEX,2011,0.984
+Luxembourg,INDEX,2012,0.984
+Luxembourg,INDEX,2013,0.984
+Luxembourg,INDEX,2014,0.984
+Luxembourg,INDEX,2015,0.984
+Luxembourg,INDEX,2016,0.984
+Luxembourg,INDEX,2017,0.985
+Luxembourg,INDEX,2018,0.985
+Luxembourg,INDEX,2019,0.985
+Luxembourg,INDEX,2020,0.985
+Luxembourg,INDEX,2021,0.985
+Croatia,INDEX,2001,0.897
+Croatia,INDEX,2002,0.897
+Croatia,INDEX,2003,0.896
+Croatia,INDEX,2004,0.896
+Croatia,INDEX,2005,0.896
+Croatia,INDEX,2006,0.896
+Croatia,INDEX,2007,0.896
+Croatia,INDEX,2008,0.896
+Croatia,INDEX,2009,0.896
+Croatia,INDEX,2010,0.896
+Croatia,INDEX,2011,0.896
+Croatia,INDEX,2012,0.896
+Croatia,INDEX,2013,0.896
+Croatia,INDEX,2014,0.896
+Croatia,INDEX,2015,0.896
+Croatia,INDEX,2016,0.896
+Croatia,INDEX,2017,0.896
+Croatia,INDEX,2018,0.896
+Croatia,INDEX,2019,0.896
+Croatia,INDEX,2020,0.896
+Croatia,INDEX,2021,0.896
+Sudan,INDEX,2001,0.968
+Sudan,INDEX,2002,0.965
+Sudan,INDEX,2003,0.962
+Sudan,INDEX,2004,0.96
+Sudan,INDEX,2005,0.958
+Sudan,INDEX,2006,0.955
+Sudan,INDEX,2007,0.953
+Sudan,INDEX,2008,0.951
+Sudan,INDEX,2009,0.948
+Sudan,INDEX,2010,0.946
+Sudan,INDEX,2011,0.943
+Sudan,INDEX,2012,0.941
+Sudan,INDEX,2013,0.939
+Sudan,INDEX,2014,0.936
+Sudan,INDEX,2015,0.933
+Sudan,INDEX,2016,0.931
+Sudan,INDEX,2017,0.929
+Sudan,INDEX,2018,0.927
+Sudan,INDEX,2019,0.924
+Sudan,INDEX,2020,0.921
+Sudan,INDEX,2021,0.919
+Nigeria,INDEX,2001,0.854
+Nigeria,INDEX,2002,0.854
+Nigeria,INDEX,2003,0.854
+Nigeria,INDEX,2004,0.854
+Nigeria,INDEX,2005,0.854
+Nigeria,INDEX,2006,0.854
+Nigeria,INDEX,2007,0.854
+Nigeria,INDEX,2008,0.853
+Nigeria,INDEX,2009,0.853
+Nigeria,INDEX,2010,0.853
+Nigeria,INDEX,2011,0.853
+Nigeria,INDEX,2012,0.853
+Nigeria,INDEX,2013,0.853
+Nigeria,INDEX,2014,0.853
+Nigeria,INDEX,2015,0.853
+Nigeria,INDEX,2016,0.852
+Nigeria,INDEX,2017,0.852
+Nigeria,INDEX,2018,0.852
+Nigeria,INDEX,2019,0.852
+Nigeria,INDEX,2020,0.852
+Nigeria,INDEX,2021,0.852
+Tuvalu,INDEX,2001,0.897
+Tuvalu,INDEX,2002,0.892
+Tuvalu,INDEX,2003,0.889
+Tuvalu,INDEX,2004,0.885
+Tuvalu,INDEX,2005,0.882
+Tuvalu,INDEX,2006,0.878
+Tuvalu,INDEX,2007,0.875
+Tuvalu,INDEX,2008,0.873
+Tuvalu,INDEX,2009,0.87
+Tuvalu,INDEX,2010,0.867
+Tuvalu,INDEX,2011,0.862
+Tuvalu,INDEX,2012,0.859
+Tuvalu,INDEX,2013,0.855
+Tuvalu,INDEX,2014,0.851
+Tuvalu,INDEX,2015,0.848
+Tuvalu,INDEX,2016,0.845
+Tuvalu,INDEX,2017,0.841
+Tuvalu,INDEX,2018,0.837
+Tuvalu,INDEX,2019,0.833
+Tuvalu,INDEX,2020,0.829
+Tuvalu,INDEX,2021,0.827
+Cayman Islands,INDEX,2001,0.84
+Cayman Islands,INDEX,2002,0.839
+Cayman Islands,INDEX,2003,0.838
+Cayman Islands,INDEX,2004,0.837
+Cayman Islands,INDEX,2005,0.836
+Cayman Islands,INDEX,2006,0.835
+Cayman Islands,INDEX,2007,0.834
+Cayman Islands,INDEX,2008,0.833
+Cayman Islands,INDEX,2009,0.832
+Cayman Islands,INDEX,2010,0.831
+Cayman Islands,INDEX,2011,0.83
+Cayman Islands,INDEX,2012,0.829
+Cayman Islands,INDEX,2013,0.828
+Cayman Islands,INDEX,2014,0.826
+Cayman Islands,INDEX,2015,0.826
+Cayman Islands,INDEX,2016,0.824
+Cayman Islands,INDEX,2017,0.823
+Cayman Islands,INDEX,2018,0.822
+Cayman Islands,INDEX,2019,0.821
+Cayman Islands,INDEX,2020,0.82
+Cayman Islands,INDEX,2021,0.818
+Ethiopia,INDEX,2001,0.849
+Ethiopia,INDEX,2002,0.849
+Ethiopia,INDEX,2003,0.849
+Ethiopia,INDEX,2004,0.85
+Ethiopia,INDEX,2005,0.849
+Ethiopia,INDEX,2006,0.849
+Ethiopia,INDEX,2007,0.849
+Ethiopia,INDEX,2008,0.849
+Ethiopia,INDEX,2009,0.849
+Ethiopia,INDEX,2010,0.849
+Ethiopia,INDEX,2011,0.849
+Ethiopia,INDEX,2012,0.849
+Ethiopia,INDEX,2013,0.849
+Ethiopia,INDEX,2014,0.849
+Ethiopia,INDEX,2015,0.849
+Ethiopia,INDEX,2016,0.849
+Ethiopia,INDEX,2017,0.849
+Ethiopia,INDEX,2018,0.849
+Ethiopia,INDEX,2019,0.849
+Ethiopia,INDEX,2020,0.849
+Ethiopia,INDEX,2021,0.849
+Bermuda,INDEX,2001,0.628
+Bermuda,INDEX,2002,0.627
+Bermuda,INDEX,2003,0.626
+Bermuda,INDEX,2004,0.625
+Bermuda,INDEX,2005,0.626
+Bermuda,INDEX,2006,0.626
+Bermuda,INDEX,2007,0.626
+Bermuda,INDEX,2008,0.626
+Bermuda,INDEX,2009,0.625
+Bermuda,INDEX,2010,0.625
+Bermuda,INDEX,2011,0.624
+Bermuda,INDEX,2012,0.622
+Bermuda,INDEX,2013,0.621
+Bermuda,INDEX,2014,0.619
+Bermuda,INDEX,2015,0.617
+Bermuda,INDEX,2016,0.617
+Bermuda,INDEX,2017,0.616
+Bermuda,INDEX,2018,0.614
+Bermuda,INDEX,2019,0.614
+Bermuda,INDEX,2020,0.611
+Bermuda,INDEX,2021,0.61
+Guinea,INDEX,2001,0.892
+Guinea,INDEX,2002,0.892
+Guinea,INDEX,2003,0.892
+Guinea,INDEX,2004,0.892
+Guinea,INDEX,2005,0.892
+Guinea,INDEX,2006,0.893
+Guinea,INDEX,2007,0.892
+Guinea,INDEX,2008,0.892
+Guinea,INDEX,2009,0.892
+Guinea,INDEX,2010,0.892
+Guinea,INDEX,2011,0.892
+Guinea,INDEX,2012,0.892
+Guinea,INDEX,2013,0.892
+Guinea,INDEX,2014,0.892
+Guinea,INDEX,2015,0.892
+Guinea,INDEX,2016,0.892
+Guinea,INDEX,2017,0.892
+Guinea,INDEX,2018,0.893
+Guinea,INDEX,2019,0.893
+Guinea,INDEX,2020,0.893
+Guinea,INDEX,2021,0.893
+Latvia,INDEX,2001,0.989
+Latvia,INDEX,2002,0.989
+Latvia,INDEX,2003,0.989
+Latvia,INDEX,2004,0.989
+Latvia,INDEX,2005,0.989
+Latvia,INDEX,2006,0.989
+Latvia,INDEX,2007,0.989
+Latvia,INDEX,2008,0.989
+Latvia,INDEX,2009,0.989
+Latvia,INDEX,2010,0.989
+Latvia,INDEX,2011,0.989
+Latvia,INDEX,2012,0.989
+Latvia,INDEX,2013,0.989
+Latvia,INDEX,2014,0.989
+Latvia,INDEX,2015,0.989
+Latvia,INDEX,2016,0.989
+Latvia,INDEX,2017,0.989
+Latvia,INDEX,2018,0.989
+Latvia,INDEX,2019,0.989
+Latvia,INDEX,2020,0.989
+Latvia,INDEX,2021,0.989
+Eritrea,INDEX,2001,0.939
+Eritrea,INDEX,2002,0.937
+Eritrea,INDEX,2003,0.934
+Eritrea,INDEX,2004,0.931
+Eritrea,INDEX,2005,0.929
+Eritrea,INDEX,2006,0.927
+Eritrea,INDEX,2007,0.924
+Eritrea,INDEX,2008,0.922
+Eritrea,INDEX,2009,0.919
+Eritrea,INDEX,2010,0.917
+Eritrea,INDEX,2011,0.914
+Eritrea,INDEX,2012,0.912
+Eritrea,INDEX,2013,0.91
+Eritrea,INDEX,2014,0.908
+Eritrea,INDEX,2015,0.905
+Eritrea,INDEX,2016,0.902
+Eritrea,INDEX,2017,0.899
+Eritrea,INDEX,2018,0.898
+Eritrea,INDEX,2019,0.894
+Eritrea,INDEX,2020,0.893
+Eritrea,INDEX,2021,0.891
+Saint Helena,INDEX,2001,0.645
+Saint Helena,INDEX,2002,0.645
+Saint Helena,INDEX,2003,0.644
+Saint Helena,INDEX,2004,0.645
+Saint Helena,INDEX,2005,0.646
+Saint Helena,INDEX,2006,0.649
+Saint Helena,INDEX,2007,0.651
+Saint Helena,INDEX,2008,0.653
+Saint Helena,INDEX,2009,0.655
+Saint Helena,INDEX,2010,0.656
+Saint Helena,INDEX,2011,0.657
+Saint Helena,INDEX,2012,0.657
+Saint Helena,INDEX,2013,0.657
+Saint Helena,INDEX,2014,0.658
+Saint Helena,INDEX,2015,0.658
+Saint Helena,INDEX,2016,0.658
+Saint Helena,INDEX,2017,0.659
+Saint Helena,INDEX,2018,0.66
+Saint Helena,INDEX,2019,0.66
+Saint Helena,INDEX,2020,0.66
+Saint Helena,INDEX,2021,0.661
+Iceland,INDEX,2001,0.872
+Iceland,INDEX,2002,0.872
+Iceland,INDEX,2003,0.872
+Iceland,INDEX,2004,0.871
+Iceland,INDEX,2005,0.872
+Iceland,INDEX,2006,0.874
+Iceland,INDEX,2007,0.875
+Iceland,INDEX,2008,0.877
+Iceland,INDEX,2009,0.877
+Iceland,INDEX,2010,0.878
+Iceland,INDEX,2011,0.877
+Iceland,INDEX,2012,0.875
+Iceland,INDEX,2013,0.871
+Iceland,INDEX,2014,0.87
+Iceland,INDEX,2015,0.867
+Iceland,INDEX,2016,0.866
+Iceland,INDEX,2017,0.865
+Iceland,INDEX,2018,0.865
+Iceland,INDEX,2019,0.865
+Iceland,INDEX,2020,0.865
+Iceland,INDEX,2021,0.866
+Mauritius,INDEX,2001,0.512
+Mauritius,INDEX,2002,0.507
+Mauritius,INDEX,2003,0.502
+Mauritius,INDEX,2004,0.496
+Mauritius,INDEX,2005,0.491
+Mauritius,INDEX,2006,0.485
+Mauritius,INDEX,2007,0.481
+Mauritius,INDEX,2008,0.476
+Mauritius,INDEX,2009,0.473
+Mauritius,INDEX,2010,0.468
+Mauritius,INDEX,2011,0.464
+Mauritius,INDEX,2012,0.458
+Mauritius,INDEX,2013,0.452
+Mauritius,INDEX,2014,0.444
+Mauritius,INDEX,2015,0.439
+Mauritius,INDEX,2016,0.433
+Mauritius,INDEX,2017,0.428
+Mauritius,INDEX,2018,0.419
+Mauritius,INDEX,2019,0.417
+Mauritius,INDEX,2020,0.411
+Mauritius,INDEX,2021,0.403
+Palau,INDEX,2001,0.874
+Palau,INDEX,2002,0.864
+Palau,INDEX,2003,0.855
+Palau,INDEX,2004,0.846
+Palau,INDEX,2005,0.838
+Palau,INDEX,2006,0.828
+Palau,INDEX,2007,0.817
+Palau,INDEX,2008,0.809
+Palau,INDEX,2009,0.8
+Palau,INDEX,2010,0.788
+Palau,INDEX,2011,0.779
+Palau,INDEX,2012,0.77
+Palau,INDEX,2013,0.76
+Palau,INDEX,2014,0.75
+Palau,INDEX,2015,0.742
+Palau,INDEX,2016,0.733
+Palau,INDEX,2017,0.723
+Palau,INDEX,2018,0.713
+Palau,INDEX,2019,0.706
+Palau,INDEX,2020,0.698
+Palau,INDEX,2021,0.685
+Venezuela,INDEX,2001,0.848
+Venezuela,INDEX,2002,0.847
+Venezuela,INDEX,2003,0.845
+Venezuela,INDEX,2004,0.844
+Venezuela,INDEX,2005,0.843
+Venezuela,INDEX,2006,0.841
+Venezuela,INDEX,2007,0.84
+Venezuela,INDEX,2008,0.839
+Venezuela,INDEX,2009,0.837
+Venezuela,INDEX,2010,0.836
+Venezuela,INDEX,2011,0.835
+Venezuela,INDEX,2012,0.833
+Venezuela,INDEX,2013,0.832
+Venezuela,INDEX,2014,0.831
+Venezuela,INDEX,2015,0.829
+Venezuela,INDEX,2016,0.828
+Venezuela,INDEX,2017,0.827
+Venezuela,INDEX,2018,0.825
+Venezuela,INDEX,2019,0.824
+Venezuela,INDEX,2020,0.823
+Venezuela,INDEX,2021,0.821
+Comoros,INDEX,2001,0.829
+Comoros,INDEX,2002,0.823
+Comoros,INDEX,2003,0.819
+Comoros,INDEX,2004,0.816
+Comoros,INDEX,2005,0.811
+Comoros,INDEX,2006,0.809
+Comoros,INDEX,2007,0.805
+Comoros,INDEX,2008,0.801
+Comoros,INDEX,2009,0.794
+Comoros,INDEX,2010,0.791
+Comoros,INDEX,2011,0.786
+Comoros,INDEX,2012,0.783
+Comoros,INDEX,2013,0.777
+Comoros,INDEX,2014,0.774
+Comoros,INDEX,2015,0.771
+Comoros,INDEX,2016,0.765
+Comoros,INDEX,2017,0.761
+Comoros,INDEX,2018,0.757
+Comoros,INDEX,2019,0.751
+Comoros,INDEX,2020,0.748
+Comoros,INDEX,2021,0.744
+Albania,INDEX,2001,0.886
+Albania,INDEX,2002,0.883
+Albania,INDEX,2003,0.881
+Albania,INDEX,2004,0.878
+Albania,INDEX,2005,0.876
+Albania,INDEX,2006,0.874
+Albania,INDEX,2007,0.872
+Albania,INDEX,2008,0.869
+Albania,INDEX,2009,0.866
+Albania,INDEX,2010,0.863
+Albania,INDEX,2011,0.86
+Albania,INDEX,2012,0.858
+Albania,INDEX,2013,0.856
+Albania,INDEX,2014,0.853
+Albania,INDEX,2015,0.851
+Albania,INDEX,2016,0.849
+Albania,INDEX,2017,0.847
+Albania,INDEX,2018,0.843
+Albania,INDEX,2019,0.841
+Albania,INDEX,2020,0.838
+Albania,INDEX,2021,0.835
+Cameroon,INDEX,2001,0.84
+Cameroon,INDEX,2002,0.84
+Cameroon,INDEX,2003,0.84
+Cameroon,INDEX,2004,0.84
+Cameroon,INDEX,2005,0.84
+Cameroon,INDEX,2006,0.84
+Cameroon,INDEX,2007,0.839
+Cameroon,INDEX,2008,0.839
+Cameroon,INDEX,2009,0.839
+Cameroon,INDEX,2010,0.839
+Cameroon,INDEX,2011,0.839
+Cameroon,INDEX,2012,0.839
+Cameroon,INDEX,2013,0.839
+Cameroon,INDEX,2014,0.839
+Cameroon,INDEX,2015,0.839
+Cameroon,INDEX,2016,0.839
+Cameroon,INDEX,2017,0.839
+Cameroon,INDEX,2018,0.839
+Cameroon,INDEX,2019,0.839
+Cameroon,INDEX,2020,0.838
+Cameroon,INDEX,2021,0.839
+Nepal,INDEX,2001,0.835
+Nepal,INDEX,2002,0.835
+Nepal,INDEX,2003,0.835
+Nepal,INDEX,2004,0.835
+Nepal,INDEX,2005,0.834
+Nepal,INDEX,2006,0.835
+Nepal,INDEX,2007,0.835
+Nepal,INDEX,2008,0.834
+Nepal,INDEX,2009,0.834
+Nepal,INDEX,2010,0.835
+Nepal,INDEX,2011,0.834
+Nepal,INDEX,2012,0.834
+Nepal,INDEX,2013,0.835
+Nepal,INDEX,2014,0.835
+Nepal,INDEX,2015,0.835
+Nepal,INDEX,2016,0.835
+Nepal,INDEX,2017,0.835
+Nepal,INDEX,2018,0.835
+Nepal,INDEX,2019,0.835
+Nepal,INDEX,2020,0.835
+Nepal,INDEX,2021,0.835
+Israel,INDEX,2001,0.725
+Israel,INDEX,2002,0.725
+Israel,INDEX,2003,0.724
+Israel,INDEX,2004,0.724
+Israel,INDEX,2005,0.724
+Israel,INDEX,2006,0.724
+Israel,INDEX,2007,0.724
+Israel,INDEX,2008,0.724
+Israel,INDEX,2009,0.724
+Israel,INDEX,2010,0.724
+Israel,INDEX,2011,0.724
+Israel,INDEX,2012,0.724
+Israel,INDEX,2013,0.724
+Israel,INDEX,2014,0.724
+Israel,INDEX,2015,0.725
+Israel,INDEX,2016,0.724
+Israel,INDEX,2017,0.724
+Israel,INDEX,2018,0.724
+Israel,INDEX,2019,0.724
+Israel,INDEX,2020,0.724
+Israel,INDEX,2021,0.724
+Tonga,INDEX,2001,0.76
+Tonga,INDEX,2002,0.758
+Tonga,INDEX,2003,0.756
+Tonga,INDEX,2004,0.754
+Tonga,INDEX,2005,0.752
+Tonga,INDEX,2006,0.75
+Tonga,INDEX,2007,0.749
+Tonga,INDEX,2008,0.747
+Tonga,INDEX,2009,0.745
+Tonga,INDEX,2010,0.744
+Tonga,INDEX,2011,0.742
+Tonga,INDEX,2012,0.74
+Tonga,INDEX,2013,0.737
+Tonga,INDEX,2014,0.735
+Tonga,INDEX,2015,0.734
+Tonga,INDEX,2016,0.732
+Tonga,INDEX,2017,0.73
+Tonga,INDEX,2018,0.727
+Tonga,INDEX,2019,0.727
+Tonga,INDEX,2020,0.725
+Tonga,INDEX,2021,0.723
+South Africa,INDEX,2001,0.818
+South Africa,INDEX,2002,0.816
+South Africa,INDEX,2003,0.813
+South Africa,INDEX,2004,0.811
+South Africa,INDEX,2005,0.808
+South Africa,INDEX,2006,0.806
+South Africa,INDEX,2007,0.803
+South Africa,INDEX,2008,0.801
+South Africa,INDEX,2009,0.799
+South Africa,INDEX,2010,0.796
+South Africa,INDEX,2011,0.794
+South Africa,INDEX,2012,0.791
+South Africa,INDEX,2013,0.789
+South Africa,INDEX,2014,0.787
+South Africa,INDEX,2015,0.785
+South Africa,INDEX,2016,0.782
+South Africa,INDEX,2017,0.781
+South Africa,INDEX,2018,0.778
+South Africa,INDEX,2019,0.775
+South Africa,INDEX,2020,0.772
+South Africa,INDEX,2021,0.77
+Barbados,INDEX,2001,0.918
+Barbados,INDEX,2002,0.916
+Barbados,INDEX,2003,0.915
+Barbados,INDEX,2004,0.914
+Barbados,INDEX,2005,0.913
+Barbados,INDEX,2006,0.912
+Barbados,INDEX,2007,0.911
+Barbados,INDEX,2008,0.91
+Barbados,INDEX,2009,0.909
+Barbados,INDEX,2010,0.908
+Barbados,INDEX,2011,0.907
+Barbados,INDEX,2012,0.905
+Barbados,INDEX,2013,0.904
+Barbados,INDEX,2014,0.903
+Barbados,INDEX,2015,0.902
+Barbados,INDEX,2016,0.901
+Barbados,INDEX,2017,0.9
+Barbados,INDEX,2018,0.899
+Barbados,INDEX,2019,0.897
+Barbados,INDEX,2020,0.896
+Barbados,INDEX,2021,0.895
+United Kingdom,INDEX,2001,0.965
+United Kingdom,INDEX,2002,0.964
+United Kingdom,INDEX,2003,0.964
+United Kingdom,INDEX,2004,0.963
+United Kingdom,INDEX,2005,0.963
+United Kingdom,INDEX,2006,0.963
+United Kingdom,INDEX,2007,0.963
+United Kingdom,INDEX,2008,0.963
+United Kingdom,INDEX,2009,0.963
+United Kingdom,INDEX,2010,0.964
+United Kingdom,INDEX,2011,0.963
+United Kingdom,INDEX,2012,0.963
+United Kingdom,INDEX,2013,0.963
+United Kingdom,INDEX,2014,0.962
+United Kingdom,INDEX,2015,0.962
+United Kingdom,INDEX,2016,0.962
+United Kingdom,INDEX,2017,0.962
+United Kingdom,INDEX,2018,0.962
+United Kingdom,INDEX,2019,0.962
+United Kingdom,INDEX,2020,0.962
+United Kingdom,INDEX,2021,0.962
+Greenland,INDEX,2001,0.939
+Greenland,INDEX,2002,0.937
+Greenland,INDEX,2003,0.936
+Greenland,INDEX,2004,0.935
+Greenland,INDEX,2005,0.933
+Greenland,INDEX,2006,0.932
+Greenland,INDEX,2007,0.93
+Greenland,INDEX,2008,0.929
+Greenland,INDEX,2009,0.928
+Greenland,INDEX,2010,0.927
+Greenland,INDEX,2011,0.926
+Greenland,INDEX,2012,0.924
+Greenland,INDEX,2013,0.921
+Greenland,INDEX,2014,0.919
+Greenland,INDEX,2015,0.916
+Greenland,INDEX,2016,0.914
+Greenland,INDEX,2017,0.912
+Greenland,INDEX,2018,0.911
+Greenland,INDEX,2019,0.911
+Greenland,INDEX,2020,0.91
+Greenland,INDEX,2021,0.91
+Greece,INDEX,2001,0.84
+Greece,INDEX,2002,0.84
+Greece,INDEX,2003,0.84
+Greece,INDEX,2004,0.841
+Greece,INDEX,2005,0.842
+Greece,INDEX,2006,0.842
+Greece,INDEX,2007,0.842
+Greece,INDEX,2008,0.842
+Greece,INDEX,2009,0.842
+Greece,INDEX,2010,0.843
+Greece,INDEX,2011,0.842
+Greece,INDEX,2012,0.842
+Greece,INDEX,2013,0.841
+Greece,INDEX,2014,0.84
+Greece,INDEX,2015,0.839
+Greece,INDEX,2016,0.838
+Greece,INDEX,2017,0.837
+Greece,INDEX,2018,0.836
+Greece,INDEX,2019,0.835
+Greece,INDEX,2020,0.835
+Greece,INDEX,2021,0.834
+Dominican Republic,INDEX,2001,0.76
+Dominican Republic,INDEX,2002,0.759
+Dominican Republic,INDEX,2003,0.758
+Dominican Republic,INDEX,2004,0.756
+Dominican Republic,INDEX,2005,0.754
+Dominican Republic,INDEX,2006,0.753
+Dominican Republic,INDEX,2007,0.752
+Dominican Republic,INDEX,2008,0.75
+Dominican Republic,INDEX,2009,0.748
+Dominican Republic,INDEX,2010,0.747
+Dominican Republic,INDEX,2011,0.746
+Dominican Republic,INDEX,2012,0.744
+Dominican Republic,INDEX,2013,0.742
+Dominican Republic,INDEX,2014,0.741
+Dominican Republic,INDEX,2015,0.739
+Dominican Republic,INDEX,2016,0.738
+Dominican Republic,INDEX,2017,0.736
+Dominican Republic,INDEX,2018,0.735
+Dominican Republic,INDEX,2019,0.733
+Dominican Republic,INDEX,2020,0.732
+Dominican Republic,INDEX,2021,0.73
+Bahrain,INDEX,2001,0.808
+Bahrain,INDEX,2002,0.805
+Bahrain,INDEX,2003,0.802
+Bahrain,INDEX,2004,0.799
+Bahrain,INDEX,2005,0.796
+Bahrain,INDEX,2006,0.793
+Bahrain,INDEX,2007,0.79
+Bahrain,INDEX,2008,0.787
+Bahrain,INDEX,2009,0.785
+Bahrain,INDEX,2010,0.783
+Bahrain,INDEX,2011,0.779
+Bahrain,INDEX,2012,0.777
+Bahrain,INDEX,2013,0.773
+Bahrain,INDEX,2014,0.77
+Bahrain,INDEX,2015,0.767
+Bahrain,INDEX,2016,0.764
+Bahrain,INDEX,2017,0.761
+Bahrain,INDEX,2018,0.758
+Bahrain,INDEX,2019,0.754
+Bahrain,INDEX,2020,0.751
+Bahrain,INDEX,2021,0.749
+Mali,INDEX,2001,0.984
+Mali,INDEX,2002,0.984
+Mali,INDEX,2003,0.983
+Mali,INDEX,2004,0.983
+Mali,INDEX,2005,0.983
+Mali,INDEX,2006,0.982
+Mali,INDEX,2007,0.982
+Mali,INDEX,2008,0.982
+Mali,INDEX,2009,0.981
+Mali,INDEX,2010,0.981
+Mali,INDEX,2011,0.981
+Mali,INDEX,2012,0.981
+Mali,INDEX,2013,0.98
+Mali,INDEX,2014,0.98
+Mali,INDEX,2015,0.98
+Mali,INDEX,2016,0.98
+Mali,INDEX,2017,0.98
+Mali,INDEX,2018,0.98
+Mali,INDEX,2019,0.98
+Mali,INDEX,2020,0.98
+Mali,INDEX,2021,0.979
+Norfolk Island,INDEX,2001,0.762
+Norfolk Island,INDEX,2002,0.76
+Norfolk Island,INDEX,2003,0.756
+Norfolk Island,INDEX,2004,0.753
+Norfolk Island,INDEX,2005,0.749
+Norfolk Island,INDEX,2006,0.747
+Norfolk Island,INDEX,2007,0.745
+Norfolk Island,INDEX,2008,0.743
+Norfolk Island,INDEX,2009,0.74
+Norfolk Island,INDEX,2010,0.737
+Norfolk Island,INDEX,2011,0.734
+Norfolk Island,INDEX,2012,0.73
+Norfolk Island,INDEX,2013,0.727
+Norfolk Island,INDEX,2014,0.723
+Norfolk Island,INDEX,2015,0.719
+Norfolk Island,INDEX,2016,0.717
+Norfolk Island,INDEX,2017,0.713
+Norfolk Island,INDEX,2018,0.711
+Norfolk Island,INDEX,2019,0.705
+Norfolk Island,INDEX,2020,0.704
+Norfolk Island,INDEX,2021,0.699
+Christmas Islands,INDEX,2001,0.59
+Christmas Islands,INDEX,2002,0.591
+Christmas Islands,INDEX,2003,0.591
+Christmas Islands,INDEX,2004,0.59
+Christmas Islands,INDEX,2005,0.584
+Christmas Islands,INDEX,2006,0.578
+Christmas Islands,INDEX,2007,0.568
+Christmas Islands,INDEX,2008,0.56
+Christmas Islands,INDEX,2009,0.55
+Christmas Islands,INDEX,2010,0.542
+Christmas Islands,INDEX,2011,0.533
+Christmas Islands,INDEX,2012,0.524
+Christmas Islands,INDEX,2013,0.516
+Christmas Islands,INDEX,2014,0.505
+Christmas Islands,INDEX,2015,0.497
+Christmas Islands,INDEX,2016,0.488
+Christmas Islands,INDEX,2017,0.477
+Christmas Islands,INDEX,2018,0.469
+Christmas Islands,INDEX,2019,0.46
+Christmas Islands,INDEX,2020,0.449
+Christmas Islands,INDEX,2021,0.441
+Kyrgyzstan,INDEX,2001,0.988
+Kyrgyzstan,INDEX,2002,0.987
+Kyrgyzstan,INDEX,2003,0.987
+Kyrgyzstan,INDEX,2004,0.987
+Kyrgyzstan,INDEX,2005,0.986
+Kyrgyzstan,INDEX,2006,0.986
+Kyrgyzstan,INDEX,2007,0.986
+Kyrgyzstan,INDEX,2008,0.986
+Kyrgyzstan,INDEX,2009,0.985
+Kyrgyzstan,INDEX,2010,0.985
+Kyrgyzstan,INDEX,2011,0.985
+Kyrgyzstan,INDEX,2012,0.985
+Kyrgyzstan,INDEX,2013,0.985
+Kyrgyzstan,INDEX,2014,0.984
+Kyrgyzstan,INDEX,2015,0.984
+Kyrgyzstan,INDEX,2016,0.984
+Kyrgyzstan,INDEX,2017,0.984
+Kyrgyzstan,INDEX,2018,0.984
+Kyrgyzstan,INDEX,2019,0.983
+Kyrgyzstan,INDEX,2020,0.983
+Kyrgyzstan,INDEX,2021,0.983
+Ukraine,INDEX,2001,0.932
+Ukraine,INDEX,2002,0.932
+Ukraine,INDEX,2003,0.932
+Ukraine,INDEX,2004,0.932
+Ukraine,INDEX,2005,0.933
+Ukraine,INDEX,2006,0.933
+Ukraine,INDEX,2007,0.933
+Ukraine,INDEX,2008,0.934
+Ukraine,INDEX,2009,0.934
+Ukraine,INDEX,2010,0.934
+Ukraine,INDEX,2011,0.934
+Ukraine,INDEX,2012,0.934
+Ukraine,INDEX,2013,0.935
+Ukraine,INDEX,2014,0.935
+Ukraine,INDEX,2015,0.935
+Ukraine,INDEX,2016,0.935
+Ukraine,INDEX,2017,0.936
+Ukraine,INDEX,2018,0.936
+Ukraine,INDEX,2019,0.936
+Ukraine,INDEX,2020,0.936
+Ukraine,INDEX,2021,0.936
+Russia,INDEX,2001,0.957
+Russia,INDEX,2002,0.956
+Russia,INDEX,2003,0.956
+Russia,INDEX,2004,0.956
+Russia,INDEX,2005,0.955
+Russia,INDEX,2006,0.955
+Russia,INDEX,2007,0.954
+Russia,INDEX,2008,0.954
+Russia,INDEX,2009,0.954
+Russia,INDEX,2010,0.953
+Russia,INDEX,2011,0.953
+Russia,INDEX,2012,0.953
+Russia,INDEX,2013,0.953
+Russia,INDEX,2014,0.952
+Russia,INDEX,2015,0.952
+Russia,INDEX,2016,0.952
+Russia,INDEX,2017,0.952
+Russia,INDEX,2018,0.952
+Russia,INDEX,2019,0.952
+Russia,INDEX,2020,0.952
+Russia,INDEX,2021,0.952
+Brunei Darussalam,INDEX,2001,0.862
+Brunei Darussalam,INDEX,2002,0.861
+Brunei Darussalam,INDEX,2003,0.861
+Brunei Darussalam,INDEX,2004,0.86
+Brunei Darussalam,INDEX,2005,0.86
+Brunei Darussalam,INDEX,2006,0.86
+Brunei Darussalam,INDEX,2007,0.859
+Brunei Darussalam,INDEX,2008,0.859
+Brunei Darussalam,INDEX,2009,0.858
+Brunei Darussalam,INDEX,2010,0.858
+Brunei Darussalam,INDEX,2011,0.858
+Brunei Darussalam,INDEX,2012,0.857
+Brunei Darussalam,INDEX,2013,0.857
+Brunei Darussalam,INDEX,2014,0.857
+Brunei Darussalam,INDEX,2015,0.856
+Brunei Darussalam,INDEX,2016,0.856
+Brunei Darussalam,INDEX,2017,0.856
+Brunei Darussalam,INDEX,2018,0.855
+Brunei Darussalam,INDEX,2019,0.855
+Brunei Darussalam,INDEX,2020,0.855
+Brunei Darussalam,INDEX,2021,0.855
+India,INDEX,2001,0.746
+India,INDEX,2002,0.741
+India,INDEX,2003,0.738
+India,INDEX,2004,0.734
+India,INDEX,2005,0.73
+India,INDEX,2006,0.726
+India,INDEX,2007,0.722
+India,INDEX,2008,0.719
+India,INDEX,2009,0.715
+India,INDEX,2010,0.712
+India,INDEX,2011,0.709
+India,INDEX,2012,0.704
+India,INDEX,2013,0.7
+India,INDEX,2014,0.696
+India,INDEX,2015,0.693
+India,INDEX,2016,0.689
+India,INDEX,2017,0.686
+India,INDEX,2018,0.683
+India,INDEX,2019,0.679
+India,INDEX,2020,0.675
+India,INDEX,2021,0.671
+Ghana,INDEX,2001,0.839
+Ghana,INDEX,2002,0.839
+Ghana,INDEX,2003,0.839
+Ghana,INDEX,2004,0.839
+Ghana,INDEX,2005,0.839
+Ghana,INDEX,2006,0.839
+Ghana,INDEX,2007,0.839
+Ghana,INDEX,2008,0.839
+Ghana,INDEX,2009,0.839
+Ghana,INDEX,2010,0.839
+Ghana,INDEX,2011,0.839
+Ghana,INDEX,2012,0.839
+Ghana,INDEX,2013,0.839
+Ghana,INDEX,2014,0.839
+Ghana,INDEX,2015,0.839
+Ghana,INDEX,2016,0.839
+Ghana,INDEX,2017,0.839
+Ghana,INDEX,2018,0.839
+Ghana,INDEX,2019,0.839
+Ghana,INDEX,2020,0.839
+Ghana,INDEX,2021,0.839
+Saint Barthélemy,INDEX,2001,0.985
+Saint Barthélemy,INDEX,2002,0.985
+Saint Barthélemy,INDEX,2003,0.986
+Saint Barthélemy,INDEX,2004,0.986
+Saint Barthélemy,INDEX,2005,0.986
+Saint Barthélemy,INDEX,2006,0.987
+Saint Barthélemy,INDEX,2007,0.987
+Saint Barthélemy,INDEX,2008,0.987
+Saint Barthélemy,INDEX,2009,0.988
+Saint Barthélemy,INDEX,2010,0.988
+Saint Barthélemy,INDEX,2011,0.988
+Saint Barthélemy,INDEX,2012,0.988
+Saint Barthélemy,INDEX,2013,0.989
+Saint Barthélemy,INDEX,2014,0.989
+Saint Barthélemy,INDEX,2015,0.989
+Saint Barthélemy,INDEX,2016,0.99
+Saint Barthélemy,INDEX,2017,0.99
+Saint Barthélemy,INDEX,2018,0.99
+Saint Barthélemy,INDEX,2019,0.991
+Saint Barthélemy,INDEX,2020,0.991
+Saint Barthélemy,INDEX,2021,0.991
+Sierra Leone,INDEX,2001,0.928
+Sierra Leone,INDEX,2002,0.928
+Sierra Leone,INDEX,2003,0.928
+Sierra Leone,INDEX,2004,0.928
+Sierra Leone,INDEX,2005,0.929
+Sierra Leone,INDEX,2006,0.929
+Sierra Leone,INDEX,2007,0.929
+Sierra Leone,INDEX,2008,0.929
+Sierra Leone,INDEX,2009,0.929
+Sierra Leone,INDEX,2010,0.929
+Sierra Leone,INDEX,2011,0.929
+Sierra Leone,INDEX,2012,0.929
+Sierra Leone,INDEX,2013,0.929
+Sierra Leone,INDEX,2014,0.93
+Sierra Leone,INDEX,2015,0.93
+Sierra Leone,INDEX,2016,0.93
+Sierra Leone,INDEX,2017,0.93
+Sierra Leone,INDEX,2018,0.93
+Sierra Leone,INDEX,2019,0.93
+Sierra Leone,INDEX,2020,0.93
+Sierra Leone,INDEX,2021,0.93
+Slovak Republic,INDEX,2001,0.951
+Slovak Republic,INDEX,2002,0.951
+Slovak Republic,INDEX,2003,0.951
+Slovak Republic,INDEX,2004,0.951
+Slovak Republic,INDEX,2005,0.951
+Slovak Republic,INDEX,2006,0.951
+Slovak Republic,INDEX,2007,0.951
+Slovak Republic,INDEX,2008,0.952
+Slovak Republic,INDEX,2009,0.952
+Slovak Republic,INDEX,2010,0.952
+Slovak Republic,INDEX,2011,0.952
+Slovak Republic,INDEX,2012,0.952
+Slovak Republic,INDEX,2013,0.952
+Slovak Republic,INDEX,2014,0.952
+Slovak Republic,INDEX,2015,0.952
+Slovak Republic,INDEX,2016,0.952
+Slovak Republic,INDEX,2017,0.952
+Slovak Republic,INDEX,2018,0.952
+Slovak Republic,INDEX,2019,0.952
+Slovak Republic,INDEX,2020,0.952
+Slovak Republic,INDEX,2021,0.952
+Czech Republic,INDEX,2001,0.969
+Czech Republic,INDEX,2002,0.969
+Czech Republic,INDEX,2003,0.969
+Czech Republic,INDEX,2004,0.969
+Czech Republic,INDEX,2005,0.969
+Czech Republic,INDEX,2006,0.969
+Czech Republic,INDEX,2007,0.969
+Czech Republic,INDEX,2008,0.969
+Czech Republic,INDEX,2009,0.969
+Czech Republic,INDEX,2010,0.97
+Czech Republic,INDEX,2011,0.97
+Czech Republic,INDEX,2012,0.97
+Czech Republic,INDEX,2013,0.97
+Czech Republic,INDEX,2014,0.97
+Czech Republic,INDEX,2015,0.97
+Czech Republic,INDEX,2016,0.97
+Czech Republic,INDEX,2017,0.97
+Czech Republic,INDEX,2018,0.97
+Czech Republic,INDEX,2019,0.971
+Czech Republic,INDEX,2020,0.971
+Czech Republic,INDEX,2021,0.971
+Malaysia,INDEX,2001,0.782
+Malaysia,INDEX,2002,0.777
+Malaysia,INDEX,2003,0.774
+Malaysia,INDEX,2004,0.77
+Malaysia,INDEX,2005,0.766
+Malaysia,INDEX,2006,0.763
+Malaysia,INDEX,2007,0.758
+Malaysia,INDEX,2008,0.755
+Malaysia,INDEX,2009,0.752
+Malaysia,INDEX,2010,0.748
+Malaysia,INDEX,2011,0.744
+Malaysia,INDEX,2012,0.741
+Malaysia,INDEX,2013,0.736
+Malaysia,INDEX,2014,0.731
+Malaysia,INDEX,2015,0.728
+Malaysia,INDEX,2016,0.724
+Malaysia,INDEX,2017,0.72
+Malaysia,INDEX,2018,0.716
+Malaysia,INDEX,2019,0.713
+Malaysia,INDEX,2020,0.708
+Malaysia,INDEX,2021,0.704
+Argentina,INDEX,2001,0.848
+Argentina,INDEX,2002,0.848
+Argentina,INDEX,2003,0.847
+Argentina,INDEX,2004,0.847
+Argentina,INDEX,2005,0.847
+Argentina,INDEX,2006,0.846
+Argentina,INDEX,2007,0.846
+Argentina,INDEX,2008,0.846
+Argentina,INDEX,2009,0.845
+Argentina,INDEX,2010,0.845
+Argentina,INDEX,2011,0.845
+Argentina,INDEX,2012,0.845
+Argentina,INDEX,2013,0.845
+Argentina,INDEX,2014,0.844
+Argentina,INDEX,2015,0.844
+Argentina,INDEX,2016,0.844
+Argentina,INDEX,2017,0.844
+Argentina,INDEX,2018,0.843
+Argentina,INDEX,2019,0.843
+Argentina,INDEX,2020,0.843
+Argentina,INDEX,2021,0.843
+Heard Island and McDonald Islands,INDEX,2001,0.911
+Heard Island and McDonald Islands,INDEX,2002,0.911
+Heard Island and McDonald Islands,INDEX,2003,0.911
+Heard Island and McDonald Islands,INDEX,2004,0.911
+Heard Island and McDonald Islands,INDEX,2005,0.911
+Heard Island and McDonald Islands,INDEX,2006,0.911
+Heard Island and McDonald Islands,INDEX,2007,0.912
+Heard Island and McDonald Islands,INDEX,2008,0.913
+Heard Island and McDonald Islands,INDEX,2009,0.913
+Heard Island and McDonald Islands,INDEX,2010,0.914
+Heard Island and McDonald Islands,INDEX,2011,0.914
+Heard Island and McDonald Islands,INDEX,2012,0.915
+Heard Island and McDonald Islands,INDEX,2013,0.916
+Heard Island and McDonald Islands,INDEX,2014,0.915
+Heard Island and McDonald Islands,INDEX,2015,0.916
+Heard Island and McDonald Islands,INDEX,2016,0.917
+Heard Island and McDonald Islands,INDEX,2017,0.917
+Heard Island and McDonald Islands,INDEX,2018,0.918
+Heard Island and McDonald Islands,INDEX,2019,0.918
+Heard Island and McDonald Islands,INDEX,2020,0.918
+Heard Island and McDonald Islands,INDEX,2021,0.919
+Jordan,INDEX,2001,0.967
+Jordan,INDEX,2002,0.966
+Jordan,INDEX,2003,0.966
+Jordan,INDEX,2004,0.966
+Jordan,INDEX,2005,0.966
+Jordan,INDEX,2006,0.966
+Jordan,INDEX,2007,0.966
+Jordan,INDEX,2008,0.966
+Jordan,INDEX,2009,0.966
+Jordan,INDEX,2010,0.966
+Jordan,INDEX,2011,0.966
+Jordan,INDEX,2012,0.966
+Jordan,INDEX,2013,0.966
+Jordan,INDEX,2014,0.966
+Jordan,INDEX,2015,0.966
+Jordan,INDEX,2016,0.966
+Jordan,INDEX,2017,0.966
+Jordan,INDEX,2018,0.966
+Jordan,INDEX,2019,0.966
+Jordan,INDEX,2020,0.965
+Jordan,INDEX,2021,0.965
+Djibouti,INDEX,2001,0.856
+Djibouti,INDEX,2002,0.854
+Djibouti,INDEX,2003,0.852
+Djibouti,INDEX,2004,0.849
+Djibouti,INDEX,2005,0.846
+Djibouti,INDEX,2006,0.844
+Djibouti,INDEX,2007,0.842
+Djibouti,INDEX,2008,0.84
+Djibouti,INDEX,2009,0.837
+Djibouti,INDEX,2010,0.835
+Djibouti,INDEX,2011,0.832
+Djibouti,INDEX,2012,0.83
+Djibouti,INDEX,2013,0.826
+Djibouti,INDEX,2014,0.824
+Djibouti,INDEX,2015,0.821
+Djibouti,INDEX,2016,0.819
+Djibouti,INDEX,2017,0.815
+Djibouti,INDEX,2018,0.814
+Djibouti,INDEX,2019,0.81
+Djibouti,INDEX,2020,0.807
+Djibouti,INDEX,2021,0.805
+Bolivia,INDEX,2001,0.887
+Bolivia,INDEX,2002,0.887
+Bolivia,INDEX,2003,0.887
+Bolivia,INDEX,2004,0.886
+Bolivia,INDEX,2005,0.886
+Bolivia,INDEX,2006,0.886
+Bolivia,INDEX,2007,0.886
+Bolivia,INDEX,2008,0.885
+Bolivia,INDEX,2009,0.885
+Bolivia,INDEX,2010,0.884
+Bolivia,INDEX,2011,0.884
+Bolivia,INDEX,2012,0.883
+Bolivia,INDEX,2013,0.883
+Bolivia,INDEX,2014,0.883
+Bolivia,INDEX,2015,0.882
+Bolivia,INDEX,2016,0.882
+Bolivia,INDEX,2017,0.882
+Bolivia,INDEX,2018,0.882
+Bolivia,INDEX,2019,0.882
+Bolivia,INDEX,2020,0.882
+Bolivia,INDEX,2021,0.881
+Serbia,INDEX,2001,0.95
+Serbia,INDEX,2002,0.949
+Serbia,INDEX,2003,0.949
+Serbia,INDEX,2004,0.95
+Serbia,INDEX,2005,0.951
+Serbia,INDEX,2006,0.951
+Serbia,INDEX,2007,0.951
+Serbia,INDEX,2008,0.951
+Serbia,INDEX,2009,0.951
+Serbia,INDEX,2010,0.951
+Serbia,INDEX,2011,0.951
+Serbia,INDEX,2012,0.951
+Serbia,INDEX,2013,0.951
+Serbia,INDEX,2014,0.951
+Serbia,INDEX,2015,0.951
+Serbia,INDEX,2016,0.951
+Serbia,INDEX,2017,0.951
+Serbia,INDEX,2018,0.951
+Serbia,INDEX,2019,0.951
+Serbia,INDEX,2020,0.952
+Serbia,INDEX,2021,0.952
+Guyana,INDEX,2001,0.879
+Guyana,INDEX,2002,0.878
+Guyana,INDEX,2003,0.878
+Guyana,INDEX,2004,0.878
+Guyana,INDEX,2005,0.878
+Guyana,INDEX,2006,0.878
+Guyana,INDEX,2007,0.878
+Guyana,INDEX,2008,0.878
+Guyana,INDEX,2009,0.877
+Guyana,INDEX,2010,0.877
+Guyana,INDEX,2011,0.876
+Guyana,INDEX,2012,0.876
+Guyana,INDEX,2013,0.875
+Guyana,INDEX,2014,0.875
+Guyana,INDEX,2015,0.875
+Guyana,INDEX,2016,0.875
+Guyana,INDEX,2017,0.875
+Guyana,INDEX,2018,0.875
+Guyana,INDEX,2019,0.875
+Guyana,INDEX,2020,0.875
+Guyana,INDEX,2021,0.875
+Western Sahara,INDEX,2001,0.937
+Western Sahara,INDEX,2002,0.937
+Western Sahara,INDEX,2003,0.937
+Western Sahara,INDEX,2004,0.937
+Western Sahara,INDEX,2005,0.937
+Western Sahara,INDEX,2006,0.937
+Western Sahara,INDEX,2007,0.937
+Western Sahara,INDEX,2008,0.937
+Western Sahara,INDEX,2009,0.937
+Western Sahara,INDEX,2010,0.938
+Western Sahara,INDEX,2011,0.938
+Western Sahara,INDEX,2012,0.937
+Western Sahara,INDEX,2013,0.937
+Western Sahara,INDEX,2014,0.937
+Western Sahara,INDEX,2015,0.937
+Western Sahara,INDEX,2016,0.936
+Western Sahara,INDEX,2017,0.936
+Western Sahara,INDEX,2018,0.936
+Western Sahara,INDEX,2019,0.936
+Western Sahara,INDEX,2020,0.935
+Western Sahara,INDEX,2021,0.935
+China (People's Republic of),INDEX,2001,0.8
+China (People's Republic of),INDEX,2002,0.796
+China (People's Republic of),INDEX,2003,0.794
+China (People's Republic of),INDEX,2004,0.79
+China (People's Republic of),INDEX,2005,0.786
+China (People's Republic of),INDEX,2006,0.783
+China (People's Republic of),INDEX,2007,0.78
+China (People's Republic of),INDEX,2008,0.776
+China (People's Republic of),INDEX,2009,0.773
+China (People's Republic of),INDEX,2010,0.77
+China (People's Republic of),INDEX,2011,0.766
+China (People's Republic of),INDEX,2012,0.763
+China (People's Republic of),INDEX,2013,0.76
+China (People's Republic of),INDEX,2014,0.755
+China (People's Republic of),INDEX,2015,0.752
+China (People's Republic of),INDEX,2016,0.749
+China (People's Republic of),INDEX,2017,0.746
+China (People's Republic of),INDEX,2018,0.742
+China (People's Republic of),INDEX,2019,0.739
+China (People's Republic of),INDEX,2020,0.735
+China (People's Republic of),INDEX,2021,0.731
+South Sudan ,INDEX,2001,0.934
+South Sudan ,INDEX,2002,0.934
+South Sudan ,INDEX,2003,0.933
+South Sudan ,INDEX,2004,0.933
+South Sudan ,INDEX,2005,0.933
+South Sudan ,INDEX,2006,0.933
+South Sudan ,INDEX,2007,0.933
+South Sudan ,INDEX,2008,0.932
+South Sudan ,INDEX,2009,0.932
+South Sudan ,INDEX,2010,0.932
+South Sudan ,INDEX,2011,0.931
+South Sudan ,INDEX,2012,0.931
+South Sudan ,INDEX,2013,0.931
+South Sudan ,INDEX,2014,0.93
+South Sudan ,INDEX,2015,0.93
+South Sudan ,INDEX,2016,0.93
+South Sudan ,INDEX,2017,0.93
+South Sudan ,INDEX,2018,0.93
+South Sudan ,INDEX,2019,0.929
+South Sudan ,INDEX,2020,0.929
+South Sudan ,INDEX,2021,0.929
+French Polynesia,INDEX,2001,0.757
+French Polynesia,INDEX,2002,0.755
+French Polynesia,INDEX,2003,0.753
+French Polynesia,INDEX,2004,0.751
+French Polynesia,INDEX,2005,0.749
+French Polynesia,INDEX,2006,0.746
+French Polynesia,INDEX,2007,0.744
+French Polynesia,INDEX,2008,0.742
+French Polynesia,INDEX,2009,0.74
+French Polynesia,INDEX,2010,0.738
+French Polynesia,INDEX,2011,0.735
+French Polynesia,INDEX,2012,0.733
+French Polynesia,INDEX,2013,0.731
+French Polynesia,INDEX,2014,0.729
+French Polynesia,INDEX,2015,0.725
+French Polynesia,INDEX,2016,0.723
+French Polynesia,INDEX,2017,0.72
+French Polynesia,INDEX,2018,0.717
+French Polynesia,INDEX,2019,0.715
+French Polynesia,INDEX,2020,0.713
+French Polynesia,INDEX,2021,0.71
+Netherlands,INDEX,2001,0.966
+Netherlands,INDEX,2002,0.965
+Netherlands,INDEX,2003,0.963
+Netherlands,INDEX,2004,0.962
+Netherlands,INDEX,2005,0.96
+Netherlands,INDEX,2006,0.959
+Netherlands,INDEX,2007,0.957
+Netherlands,INDEX,2008,0.956
+Netherlands,INDEX,2009,0.955
+Netherlands,INDEX,2010,0.953
+Netherlands,INDEX,2011,0.952
+Netherlands,INDEX,2012,0.951
+Netherlands,INDEX,2013,0.949
+Netherlands,INDEX,2014,0.948
+Netherlands,INDEX,2015,0.947
+Netherlands,INDEX,2016,0.944
+Netherlands,INDEX,2017,0.943
+Netherlands,INDEX,2018,0.942
+Netherlands,INDEX,2019,0.94
+Netherlands,INDEX,2020,0.939
+Netherlands,INDEX,2021,0.938
+Mongolia,INDEX,2001,0.962
+Mongolia,INDEX,2002,0.962
+Mongolia,INDEX,2003,0.962
+Mongolia,INDEX,2004,0.961
+Mongolia,INDEX,2005,0.961
+Mongolia,INDEX,2006,0.961
+Mongolia,INDEX,2007,0.96
+Mongolia,INDEX,2008,0.96
+Mongolia,INDEX,2009,0.96
+Mongolia,INDEX,2010,0.96
+Mongolia,INDEX,2011,0.959
+Mongolia,INDEX,2012,0.959
+Mongolia,INDEX,2013,0.959
+Mongolia,INDEX,2014,0.959
+Mongolia,INDEX,2015,0.959
+Mongolia,INDEX,2016,0.958
+Mongolia,INDEX,2017,0.958
+Mongolia,INDEX,2018,0.958
+Mongolia,INDEX,2019,0.958
+Mongolia,INDEX,2020,0.958
+Mongolia,INDEX,2021,0.957
+Cook Islands,INDEX,2001,0.812
+Cook Islands,INDEX,2002,0.811
+Cook Islands,INDEX,2003,0.81
+Cook Islands,INDEX,2004,0.809
+Cook Islands,INDEX,2005,0.807
+Cook Islands,INDEX,2006,0.805
+Cook Islands,INDEX,2007,0.803
+Cook Islands,INDEX,2008,0.801
+Cook Islands,INDEX,2009,0.799
+Cook Islands,INDEX,2010,0.797
+Cook Islands,INDEX,2011,0.795
+Cook Islands,INDEX,2012,0.793
+Cook Islands,INDEX,2013,0.789
+Cook Islands,INDEX,2014,0.788
+Cook Islands,INDEX,2015,0.785
+Cook Islands,INDEX,2016,0.783
+Cook Islands,INDEX,2017,0.78
+Cook Islands,INDEX,2018,0.777
+Cook Islands,INDEX,2019,0.774
+Cook Islands,INDEX,2020,0.773
+Cook Islands,INDEX,2021,0.771
+United States Virgin Islands,INDEX,2001,0.832
+United States Virgin Islands,INDEX,2002,0.832
+United States Virgin Islands,INDEX,2003,0.831
+United States Virgin Islands,INDEX,2004,0.831
+United States Virgin Islands,INDEX,2005,0.831
+United States Virgin Islands,INDEX,2006,0.831
+United States Virgin Islands,INDEX,2007,0.831
+United States Virgin Islands,INDEX,2008,0.831
+United States Virgin Islands,INDEX,2009,0.831
+United States Virgin Islands,INDEX,2010,0.831
+United States Virgin Islands,INDEX,2011,0.831
+United States Virgin Islands,INDEX,2012,0.831
+United States Virgin Islands,INDEX,2013,0.831
+United States Virgin Islands,INDEX,2014,0.83
+United States Virgin Islands,INDEX,2015,0.83
+United States Virgin Islands,INDEX,2016,0.83
+United States Virgin Islands,INDEX,2017,0.83
+United States Virgin Islands,INDEX,2018,0.83
+United States Virgin Islands,INDEX,2019,0.83
+United States Virgin Islands,INDEX,2020,0.83
+United States Virgin Islands,INDEX,2021,0.829
+Lesotho,INDEX,2001,0.942
+Lesotho,INDEX,2002,0.942
+Lesotho,INDEX,2003,0.942
+Lesotho,INDEX,2004,0.942
+Lesotho,INDEX,2005,0.942
+Lesotho,INDEX,2006,0.942
+Lesotho,INDEX,2007,0.942
+Lesotho,INDEX,2008,0.942
+Lesotho,INDEX,2009,0.942
+Lesotho,INDEX,2010,0.942
+Lesotho,INDEX,2011,0.942
+Lesotho,INDEX,2012,0.942
+Lesotho,INDEX,2013,0.942
+Lesotho,INDEX,2014,0.942
+Lesotho,INDEX,2015,0.941
+Lesotho,INDEX,2016,0.941
+Lesotho,INDEX,2017,0.941
+Lesotho,INDEX,2018,0.941
+Lesotho,INDEX,2019,0.941
+Lesotho,INDEX,2020,0.941
+Lesotho,INDEX,2021,0.941
+Myanmar,INDEX,2001,0.851
+Myanmar,INDEX,2002,0.848
+Myanmar,INDEX,2003,0.846
+Myanmar,INDEX,2004,0.842
+Myanmar,INDEX,2005,0.84
+Myanmar,INDEX,2006,0.837
+Myanmar,INDEX,2007,0.834
+Myanmar,INDEX,2008,0.831
+Myanmar,INDEX,2009,0.829
+Myanmar,INDEX,2010,0.826
+Myanmar,INDEX,2011,0.823
+Myanmar,INDEX,2012,0.821
+Myanmar,INDEX,2013,0.817
+Myanmar,INDEX,2014,0.815
+Myanmar,INDEX,2015,0.812
+Myanmar,INDEX,2016,0.809
+Myanmar,INDEX,2017,0.806
+Myanmar,INDEX,2018,0.803
+Myanmar,INDEX,2019,0.801
+Myanmar,INDEX,2020,0.798
+Myanmar,INDEX,2021,0.795
+Iran,INDEX,2001,0.9
+Iran,INDEX,2002,0.897
+Iran,INDEX,2003,0.893
+Iran,INDEX,2004,0.89
+Iran,INDEX,2005,0.886
+Iran,INDEX,2006,0.883
+Iran,INDEX,2007,0.88
+Iran,INDEX,2008,0.877
+Iran,INDEX,2009,0.874
+Iran,INDEX,2010,0.871
+Iran,INDEX,2011,0.868
+Iran,INDEX,2012,0.864
+Iran,INDEX,2013,0.86
+Iran,INDEX,2014,0.857
+Iran,INDEX,2015,0.855
+Iran,INDEX,2016,0.852
+Iran,INDEX,2017,0.849
+Iran,INDEX,2018,0.845
+Iran,INDEX,2019,0.842
+Iran,INDEX,2020,0.838
+Iran,INDEX,2021,0.836
+Timor-Leste,INDEX,2001,0.915
+Timor-Leste,INDEX,2002,0.911
+Timor-Leste,INDEX,2003,0.908
+Timor-Leste,INDEX,2004,0.904
+Timor-Leste,INDEX,2005,0.902
+Timor-Leste,INDEX,2006,0.897
+Timor-Leste,INDEX,2007,0.894
+Timor-Leste,INDEX,2008,0.892
+Timor-Leste,INDEX,2009,0.887
+Timor-Leste,INDEX,2010,0.884
+Timor-Leste,INDEX,2011,0.882
+Timor-Leste,INDEX,2012,0.877
+Timor-Leste,INDEX,2013,0.874
+Timor-Leste,INDEX,2014,0.871
+Timor-Leste,INDEX,2015,0.867
+Timor-Leste,INDEX,2016,0.863
+Timor-Leste,INDEX,2017,0.86
+Timor-Leste,INDEX,2018,0.856
+Timor-Leste,INDEX,2019,0.852
+Timor-Leste,INDEX,2020,0.849
+Timor-Leste,INDEX,2021,0.846
+Papua New Guinea,INDEX,2001,0.895
+Papua New Guinea,INDEX,2002,0.892
+Papua New Guinea,INDEX,2003,0.889
+Papua New Guinea,INDEX,2004,0.886
+Papua New Guinea,INDEX,2005,0.883
+Papua New Guinea,INDEX,2006,0.879
+Papua New Guinea,INDEX,2007,0.876
+Papua New Guinea,INDEX,2008,0.873
+Papua New Guinea,INDEX,2009,0.87
+Papua New Guinea,INDEX,2010,0.867
+Papua New Guinea,INDEX,2011,0.864
+Papua New Guinea,INDEX,2012,0.861
+Papua New Guinea,INDEX,2013,0.858
+Papua New Guinea,INDEX,2014,0.854
+Papua New Guinea,INDEX,2015,0.851
+Papua New Guinea,INDEX,2016,0.848
+Papua New Guinea,INDEX,2017,0.845
+Papua New Guinea,INDEX,2018,0.841
+Papua New Guinea,INDEX,2019,0.837
+Papua New Guinea,INDEX,2020,0.836
+Papua New Guinea,INDEX,2021,0.832
+Mauritania,INDEX,2001,0.98
+Mauritania,INDEX,2002,0.98
+Mauritania,INDEX,2003,0.979
+Mauritania,INDEX,2004,0.979
+Mauritania,INDEX,2005,0.979
+Mauritania,INDEX,2006,0.979
+Mauritania,INDEX,2007,0.978
+Mauritania,INDEX,2008,0.978
+Mauritania,INDEX,2009,0.978
+Mauritania,INDEX,2010,0.978
+Mauritania,INDEX,2011,0.978
+Mauritania,INDEX,2012,0.977
+Mauritania,INDEX,2013,0.977
+Mauritania,INDEX,2014,0.977
+Mauritania,INDEX,2015,0.977
+Mauritania,INDEX,2016,0.976
+Mauritania,INDEX,2017,0.976
+Mauritania,INDEX,2018,0.976
+Mauritania,INDEX,2019,0.976
+Mauritania,INDEX,2020,0.976
+Mauritania,INDEX,2021,0.975
+Guadeloupe,INDEX,2001,0.628
+Guadeloupe,INDEX,2002,0.628
+Guadeloupe,INDEX,2003,0.627
+Guadeloupe,INDEX,2004,0.627
+Guadeloupe,INDEX,2005,0.627
+Guadeloupe,INDEX,2006,0.626
+Guadeloupe,INDEX,2007,0.626
+Guadeloupe,INDEX,2008,0.625
+Guadeloupe,INDEX,2009,0.625
+Guadeloupe,INDEX,2010,0.625
+Guadeloupe,INDEX,2011,0.624
+Guadeloupe,INDEX,2012,0.624
+Guadeloupe,INDEX,2013,0.624
+Guadeloupe,INDEX,2014,0.623
+Guadeloupe,INDEX,2015,0.623
+Guadeloupe,INDEX,2016,0.622
+Guadeloupe,INDEX,2017,0.622
+Guadeloupe,INDEX,2018,0.621
+Guadeloupe,INDEX,2019,0.621
+Guadeloupe,INDEX,2020,0.621
+Guadeloupe,INDEX,2021,0.62
+Somalia,INDEX,2001,0.953
+Somalia,INDEX,2002,0.95
+Somalia,INDEX,2003,0.947
+Somalia,INDEX,2004,0.944
+Somalia,INDEX,2005,0.942
+Somalia,INDEX,2006,0.939
+Somalia,INDEX,2007,0.936
+Somalia,INDEX,2008,0.933
+Somalia,INDEX,2009,0.931
+Somalia,INDEX,2010,0.928
+Somalia,INDEX,2011,0.925
+Somalia,INDEX,2012,0.922
+Somalia,INDEX,2013,0.919
+Somalia,INDEX,2014,0.917
+Somalia,INDEX,2015,0.913
+Somalia,INDEX,2016,0.91
+Somalia,INDEX,2017,0.908
+Somalia,INDEX,2018,0.905
+Somalia,INDEX,2019,0.902
+Somalia,INDEX,2020,0.9
+Somalia,INDEX,2021,0.896
+Afghanistan,INDEX,2001,0.838
+Afghanistan,INDEX,2002,0.837
+Afghanistan,INDEX,2003,0.837
+Afghanistan,INDEX,2004,0.837
+Afghanistan,INDEX,2005,0.837
+Afghanistan,INDEX,2006,0.837
+Afghanistan,INDEX,2007,0.837
+Afghanistan,INDEX,2008,0.837
+Afghanistan,INDEX,2009,0.837
+Afghanistan,INDEX,2010,0.837
+Afghanistan,INDEX,2011,0.837
+Afghanistan,INDEX,2012,0.837
+Afghanistan,INDEX,2013,0.837
+Afghanistan,INDEX,2014,0.836
+Afghanistan,INDEX,2015,0.836
+Afghanistan,INDEX,2016,0.836
+Afghanistan,INDEX,2017,0.836
+Afghanistan,INDEX,2018,0.836
+Afghanistan,INDEX,2019,0.836
+Afghanistan,INDEX,2020,0.836
+Afghanistan,INDEX,2021,0.836
+Saint Lucia,INDEX,2001,0.848
+Saint Lucia,INDEX,2002,0.846
+Saint Lucia,INDEX,2003,0.843
+Saint Lucia,INDEX,2004,0.842
+Saint Lucia,INDEX,2005,0.839
+Saint Lucia,INDEX,2006,0.837
+Saint Lucia,INDEX,2007,0.835
+Saint Lucia,INDEX,2008,0.833
+Saint Lucia,INDEX,2009,0.831
+Saint Lucia,INDEX,2010,0.828
+Saint Lucia,INDEX,2011,0.827
+Saint Lucia,INDEX,2012,0.824
+Saint Lucia,INDEX,2013,0.822
+Saint Lucia,INDEX,2014,0.82
+Saint Lucia,INDEX,2015,0.818
+Saint Lucia,INDEX,2016,0.816
+Saint Lucia,INDEX,2017,0.813
+Saint Lucia,INDEX,2018,0.811
+Saint Lucia,INDEX,2019,0.809
+Saint Lucia,INDEX,2020,0.807
+Saint Lucia,INDEX,2021,0.805
+Italy,INDEX,2001,0.904
+Italy,INDEX,2002,0.903
+Italy,INDEX,2003,0.903
+Italy,INDEX,2004,0.903
+Italy,INDEX,2005,0.902
+Italy,INDEX,2006,0.902
+Italy,INDEX,2007,0.902
+Italy,INDEX,2008,0.902
+Italy,INDEX,2009,0.901
+Italy,INDEX,2010,0.901
+Italy,INDEX,2011,0.901
+Italy,INDEX,2012,0.9
+Italy,INDEX,2013,0.9
+Italy,INDEX,2014,0.899
+Italy,INDEX,2015,0.899
+Italy,INDEX,2016,0.898
+Italy,INDEX,2017,0.897
+Italy,INDEX,2018,0.896
+Italy,INDEX,2019,0.896
+Italy,INDEX,2020,0.895
+Italy,INDEX,2021,0.894
+Equatorial Guinea,INDEX,2001,0.802
+Equatorial Guinea,INDEX,2002,0.801
+Equatorial Guinea,INDEX,2003,0.801
+Equatorial Guinea,INDEX,2004,0.801
+Equatorial Guinea,INDEX,2005,0.801
+Equatorial Guinea,INDEX,2006,0.801
+Equatorial Guinea,INDEX,2007,0.801
+Equatorial Guinea,INDEX,2008,0.801
+Equatorial Guinea,INDEX,2009,0.801
+Equatorial Guinea,INDEX,2010,0.8
+Equatorial Guinea,INDEX,2011,0.8
+Equatorial Guinea,INDEX,2012,0.8
+Equatorial Guinea,INDEX,2013,0.8
+Equatorial Guinea,INDEX,2014,0.8
+Equatorial Guinea,INDEX,2015,0.8
+Equatorial Guinea,INDEX,2016,0.8
+Equatorial Guinea,INDEX,2017,0.799
+Equatorial Guinea,INDEX,2018,0.799
+Equatorial Guinea,INDEX,2019,0.799
+Equatorial Guinea,INDEX,2020,0.799
+Equatorial Guinea,INDEX,2021,0.799
+Chile,INDEX,2001,0.83
+Chile,INDEX,2002,0.826
+Chile,INDEX,2003,0.823
+Chile,INDEX,2004,0.82
+Chile,INDEX,2005,0.816
+Chile,INDEX,2006,0.812
+Chile,INDEX,2007,0.809
+Chile,INDEX,2008,0.806
+Chile,INDEX,2009,0.802
+Chile,INDEX,2010,0.799
+Chile,INDEX,2011,0.796
+Chile,INDEX,2012,0.792
+Chile,INDEX,2013,0.789
+Chile,INDEX,2014,0.785
+Chile,INDEX,2015,0.782
+Chile,INDEX,2016,0.778
+Chile,INDEX,2017,0.774
+Chile,INDEX,2018,0.77
+Chile,INDEX,2019,0.767
+Chile,INDEX,2020,0.763
+Chile,INDEX,2021,0.76
+Uruguay,INDEX,2001,0.863
+Uruguay,INDEX,2002,0.862
+Uruguay,INDEX,2003,0.862
+Uruguay,INDEX,2004,0.861
+Uruguay,INDEX,2005,0.861
+Uruguay,INDEX,2006,0.86
+Uruguay,INDEX,2007,0.86
+Uruguay,INDEX,2008,0.86
+Uruguay,INDEX,2009,0.859
+Uruguay,INDEX,2010,0.859
+Uruguay,INDEX,2011,0.859
+Uruguay,INDEX,2012,0.858
+Uruguay,INDEX,2013,0.857
+Uruguay,INDEX,2014,0.857
+Uruguay,INDEX,2015,0.857
+Uruguay,INDEX,2016,0.856
+Uruguay,INDEX,2017,0.856
+Uruguay,INDEX,2018,0.856
+Uruguay,INDEX,2019,0.855
+Uruguay,INDEX,2020,0.854
+Uruguay,INDEX,2021,0.854
+Kuwait,INDEX,2001,0.908
+Kuwait,INDEX,2002,0.902
+Kuwait,INDEX,2003,0.896
+Kuwait,INDEX,2004,0.891
+Kuwait,INDEX,2005,0.887
+Kuwait,INDEX,2006,0.883
+Kuwait,INDEX,2007,0.881
+Kuwait,INDEX,2008,0.878
+Kuwait,INDEX,2009,0.873
+Kuwait,INDEX,2010,0.872
+Kuwait,INDEX,2011,0.867
+Kuwait,INDEX,2012,0.864
+Kuwait,INDEX,2013,0.861
+Kuwait,INDEX,2014,0.857
+Kuwait,INDEX,2015,0.855
+Kuwait,INDEX,2016,0.853
+Kuwait,INDEX,2017,0.848
+Kuwait,INDEX,2018,0.845
+Kuwait,INDEX,2019,0.842
+Kuwait,INDEX,2020,0.838
+Kuwait,INDEX,2021,0.836
+Holy See,INDEX,2001,0.934
+Holy See,INDEX,2002,0.933
+Holy See,INDEX,2003,0.933
+Holy See,INDEX,2004,0.933
+Holy See,INDEX,2005,0.933
+Holy See,INDEX,2006,0.933
+Holy See,INDEX,2007,0.933
+Holy See,INDEX,2008,0.933
+Holy See,INDEX,2009,0.933
+Holy See,INDEX,2010,0.934
+Holy See,INDEX,2011,0.934
+Holy See,INDEX,2012,0.934
+Holy See,INDEX,2013,0.934
+Holy See,INDEX,2014,0.934
+Holy See,INDEX,2015,0.934
+Holy See,INDEX,2016,0.934
+Holy See,INDEX,2017,0.934
+Holy See,INDEX,2018,0.934
+Holy See,INDEX,2019,0.934
+Holy See,INDEX,2020,0.934
+Holy See,INDEX,2021,0.934
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2001,0.899
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2002,0.898
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2003,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2004,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2005,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2006,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2007,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2008,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2009,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2010,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2011,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2012,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2013,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2014,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2015,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2016,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2017,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2018,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2019,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2020,0.897
+Palestinian Authority or West Bank and Gaza Strip,INDEX,2021,0.897
+Slovenia,INDEX,2001,0.931
+Slovenia,INDEX,2002,0.931
+Slovenia,INDEX,2003,0.931
+Slovenia,INDEX,2004,0.93
+Slovenia,INDEX,2005,0.93
+Slovenia,INDEX,2006,0.93
+Slovenia,INDEX,2007,0.93
+Slovenia,INDEX,2008,0.93
+Slovenia,INDEX,2009,0.93
+Slovenia,INDEX,2010,0.93
+Slovenia,INDEX,2011,0.929
+Slovenia,INDEX,2012,0.929
+Slovenia,INDEX,2013,0.929
+Slovenia,INDEX,2014,0.929
+Slovenia,INDEX,2015,0.929
+Slovenia,INDEX,2016,0.929
+Slovenia,INDEX,2017,0.929
+Slovenia,INDEX,2018,0.928
+Slovenia,INDEX,2019,0.928
+Slovenia,INDEX,2020,0.928
+Slovenia,INDEX,2021,0.928
+Bahamas,INDEX,2001,0.726
+Bahamas,INDEX,2002,0.725
+Bahamas,INDEX,2003,0.724
+Bahamas,INDEX,2004,0.723
+Bahamas,INDEX,2005,0.721
+Bahamas,INDEX,2006,0.721
+Bahamas,INDEX,2007,0.719
+Bahamas,INDEX,2008,0.719
+Bahamas,INDEX,2009,0.717
+Bahamas,INDEX,2010,0.717
+Bahamas,INDEX,2011,0.715
+Bahamas,INDEX,2012,0.714
+Bahamas,INDEX,2013,0.712
+Bahamas,INDEX,2014,0.711
+Bahamas,INDEX,2015,0.709
+Bahamas,INDEX,2016,0.707
+Bahamas,INDEX,2017,0.705
+Bahamas,INDEX,2018,0.702
+Bahamas,INDEX,2019,0.7
+Bahamas,INDEX,2020,0.698
+Bahamas,INDEX,2021,0.695
+Sweden,INDEX,2001,0.993
+Sweden,INDEX,2002,0.993
+Sweden,INDEX,2003,0.993
+Sweden,INDEX,2004,0.993
+Sweden,INDEX,2005,0.993
+Sweden,INDEX,2006,0.993
+Sweden,INDEX,2007,0.993
+Sweden,INDEX,2008,0.993
+Sweden,INDEX,2009,0.993
+Sweden,INDEX,2010,0.993
+Sweden,INDEX,2011,0.993
+Sweden,INDEX,2012,0.993
+Sweden,INDEX,2013,0.993
+Sweden,INDEX,2014,0.992
+Sweden,INDEX,2015,0.992
+Sweden,INDEX,2016,0.992
+Sweden,INDEX,2017,0.992
+Sweden,INDEX,2018,0.992
+Sweden,INDEX,2019,0.992
+Sweden,INDEX,2020,0.992
+Sweden,INDEX,2021,0.992
+Georgia,INDEX,2001,0.904
+Georgia,INDEX,2002,0.903
+Georgia,INDEX,2003,0.903
+Georgia,INDEX,2004,0.903
+Georgia,INDEX,2005,0.9
+Georgia,INDEX,2006,0.896
+Georgia,INDEX,2007,0.892
+Georgia,INDEX,2008,0.889
+Georgia,INDEX,2009,0.889
+Georgia,INDEX,2010,0.889
+Georgia,INDEX,2011,0.889
+Georgia,INDEX,2012,0.889
+Georgia,INDEX,2013,0.889
+Georgia,INDEX,2014,0.888
+Georgia,INDEX,2015,0.888
+Georgia,INDEX,2016,0.888
+Georgia,INDEX,2017,0.888
+Georgia,INDEX,2018,0.888
+Georgia,INDEX,2019,0.888
+Georgia,INDEX,2020,0.888
+Georgia,INDEX,2021,0.888
+Burkina Faso,INDEX,2001,0.989
+Burkina Faso,INDEX,2002,0.989
+Burkina Faso,INDEX,2003,0.988
+Burkina Faso,INDEX,2004,0.988
+Burkina Faso,INDEX,2005,0.988
+Burkina Faso,INDEX,2006,0.988
+Burkina Faso,INDEX,2007,0.988
+Burkina Faso,INDEX,2008,0.988
+Burkina Faso,INDEX,2009,0.988
+Burkina Faso,INDEX,2010,0.987
+Burkina Faso,INDEX,2011,0.987
+Burkina Faso,INDEX,2012,0.987
+Burkina Faso,INDEX,2013,0.987
+Burkina Faso,INDEX,2014,0.987
+Burkina Faso,INDEX,2015,0.987
+Burkina Faso,INDEX,2016,0.987
+Burkina Faso,INDEX,2017,0.987
+Burkina Faso,INDEX,2018,0.987
+Burkina Faso,INDEX,2019,0.987
+Burkina Faso,INDEX,2020,0.987
+Burkina Faso,INDEX,2021,0.987
+Egypt,INDEX,2001,0.959
+Egypt,INDEX,2002,0.957
+Egypt,INDEX,2003,0.953
+Egypt,INDEX,2004,0.951
+Egypt,INDEX,2005,0.949
+Egypt,INDEX,2006,0.946
+Egypt,INDEX,2007,0.944
+Egypt,INDEX,2008,0.941
+Egypt,INDEX,2009,0.939
+Egypt,INDEX,2010,0.937
+Egypt,INDEX,2011,0.934
+Egypt,INDEX,2012,0.932
+Egypt,INDEX,2013,0.93
+Egypt,INDEX,2014,0.927
+Egypt,INDEX,2015,0.924
+Egypt,INDEX,2016,0.922
+Egypt,INDEX,2017,0.919
+Egypt,INDEX,2018,0.918
+Egypt,INDEX,2019,0.916
+Egypt,INDEX,2020,0.913
+Egypt,INDEX,2021,0.911
+Romania,INDEX,2001,0.864
+Romania,INDEX,2002,0.864
+Romania,INDEX,2003,0.864
+Romania,INDEX,2004,0.864
+Romania,INDEX,2005,0.864
+Romania,INDEX,2006,0.864
+Romania,INDEX,2007,0.864
+Romania,INDEX,2008,0.864
+Romania,INDEX,2009,0.864
+Romania,INDEX,2010,0.864
+Romania,INDEX,2011,0.864
+Romania,INDEX,2012,0.864
+Romania,INDEX,2013,0.864
+Romania,INDEX,2014,0.864
+Romania,INDEX,2015,0.864
+Romania,INDEX,2016,0.864
+Romania,INDEX,2017,0.864
+Romania,INDEX,2018,0.865
+Romania,INDEX,2019,0.865
+Romania,INDEX,2020,0.865
+Romania,INDEX,2021,0.865
+Sint Maarten,INDEX,2001,0.987
+Sint Maarten,INDEX,2002,0.987
+Sint Maarten,INDEX,2003,0.987
+Sint Maarten,INDEX,2004,0.988
+Sint Maarten,INDEX,2005,0.988
+Sint Maarten,INDEX,2006,0.988
+Sint Maarten,INDEX,2007,0.988
+Sint Maarten,INDEX,2008,0.989
+Sint Maarten,INDEX,2009,0.989
+Sint Maarten,INDEX,2010,0.989
+Sint Maarten,INDEX,2011,0.989
+Sint Maarten,INDEX,2012,0.99
+Sint Maarten,INDEX,2013,0.99
+Sint Maarten,INDEX,2014,0.99
+Sint Maarten,INDEX,2015,0.99
+Sint Maarten,INDEX,2016,0.991
+Sint Maarten,INDEX,2017,0.991
+Sint Maarten,INDEX,2018,0.991
+Sint Maarten,INDEX,2019,0.992
+Sint Maarten,INDEX,2020,0.992
+Sint Maarten,INDEX,2021,0.992
+Germany,INDEX,2001,0.982
+Germany,INDEX,2002,0.982
+Germany,INDEX,2003,0.982
+Germany,INDEX,2004,0.981
+Germany,INDEX,2005,0.982
+Germany,INDEX,2006,0.982
+Germany,INDEX,2007,0.982
+Germany,INDEX,2008,0.982
+Germany,INDEX,2009,0.982
+Germany,INDEX,2010,0.982
+Germany,INDEX,2011,0.982
+Germany,INDEX,2012,0.982
+Germany,INDEX,2013,0.982
+Germany,INDEX,2014,0.982
+Germany,INDEX,2015,0.982
+Germany,INDEX,2016,0.982
+Germany,INDEX,2017,0.982
+Germany,INDEX,2018,0.982
+Germany,INDEX,2019,0.982
+Germany,INDEX,2020,0.982
+Germany,INDEX,2021,0.982
+Marshall Islands,INDEX,2001,0.902
+Marshall Islands,INDEX,2002,0.899
+Marshall Islands,INDEX,2003,0.896
+Marshall Islands,INDEX,2004,0.892
+Marshall Islands,INDEX,2005,0.889
+Marshall Islands,INDEX,2006,0.886
+Marshall Islands,INDEX,2007,0.883
+Marshall Islands,INDEX,2008,0.881
+Marshall Islands,INDEX,2009,0.877
+Marshall Islands,INDEX,2010,0.874
+Marshall Islands,INDEX,2011,0.871
+Marshall Islands,INDEX,2012,0.866
+Marshall Islands,INDEX,2013,0.863
+Marshall Islands,INDEX,2014,0.861
+Marshall Islands,INDEX,2015,0.857
+Marshall Islands,INDEX,2016,0.853
+Marshall Islands,INDEX,2017,0.849
+Marshall Islands,INDEX,2018,0.846
+Marshall Islands,INDEX,2019,0.843
+Marshall Islands,INDEX,2020,0.84
+Marshall Islands,INDEX,2021,0.835
+Kenya,INDEX,2001,0.854
+Kenya,INDEX,2002,0.851
+Kenya,INDEX,2003,0.847
+Kenya,INDEX,2004,0.844
+Kenya,INDEX,2005,0.841
+Kenya,INDEX,2006,0.838
+Kenya,INDEX,2007,0.835
+Kenya,INDEX,2008,0.833
+Kenya,INDEX,2009,0.83
+Kenya,INDEX,2010,0.826
+Kenya,INDEX,2011,0.823
+Kenya,INDEX,2012,0.82
+Kenya,INDEX,2013,0.817
+Kenya,INDEX,2014,0.813
+Kenya,INDEX,2015,0.81
+Kenya,INDEX,2016,0.807
+Kenya,INDEX,2017,0.803
+Kenya,INDEX,2018,0.801
+Kenya,INDEX,2019,0.797
+Kenya,INDEX,2020,0.794
+Kenya,INDEX,2021,0.791
+Turks and Caicos Islands,INDEX,2001,0.87
+Turks and Caicos Islands,INDEX,2002,0.868
+Turks and Caicos Islands,INDEX,2003,0.867
+Turks and Caicos Islands,INDEX,2004,0.866
+Turks and Caicos Islands,INDEX,2005,0.865
+Turks and Caicos Islands,INDEX,2006,0.864
+Turks and Caicos Islands,INDEX,2007,0.863
+Turks and Caicos Islands,INDEX,2008,0.862
+Turks and Caicos Islands,INDEX,2009,0.861
+Turks and Caicos Islands,INDEX,2010,0.859
+Turks and Caicos Islands,INDEX,2011,0.858
+Turks and Caicos Islands,INDEX,2012,0.857
+Turks and Caicos Islands,INDEX,2013,0.857
+Turks and Caicos Islands,INDEX,2014,0.855
+Turks and Caicos Islands,INDEX,2015,0.853
+Turks and Caicos Islands,INDEX,2016,0.852
+Turks and Caicos Islands,INDEX,2017,0.851
+Turks and Caicos Islands,INDEX,2018,0.85
+Turks and Caicos Islands,INDEX,2019,0.848
+Turks and Caicos Islands,INDEX,2020,0.847
+Turks and Caicos Islands,INDEX,2021,0.846
+Qatar,INDEX,2001,0.899
+Qatar,INDEX,2002,0.895
+Qatar,INDEX,2003,0.89
+Qatar,INDEX,2004,0.887
+Qatar,INDEX,2005,0.883
+Qatar,INDEX,2006,0.879
+Qatar,INDEX,2007,0.874
+Qatar,INDEX,2008,0.871
+Qatar,INDEX,2009,0.867
+Qatar,INDEX,2010,0.864
+Qatar,INDEX,2011,0.86
+Qatar,INDEX,2012,0.855
+Qatar,INDEX,2013,0.852
+Qatar,INDEX,2014,0.848
+Qatar,INDEX,2015,0.843
+Qatar,INDEX,2016,0.839
+Qatar,INDEX,2017,0.834
+Qatar,INDEX,2018,0.831
+Qatar,INDEX,2019,0.826
+Qatar,INDEX,2020,0.823
+Qatar,INDEX,2021,0.819
+Finland,INDEX,2001,0.991
+Finland,INDEX,2002,0.991
+Finland,INDEX,2003,0.991
+Finland,INDEX,2004,0.991
+Finland,INDEX,2005,0.991
+Finland,INDEX,2006,0.991
+Finland,INDEX,2007,0.991
+Finland,INDEX,2008,0.991
+Finland,INDEX,2009,0.99
+Finland,INDEX,2010,0.99
+Finland,INDEX,2011,0.99
+Finland,INDEX,2012,0.99
+Finland,INDEX,2013,0.99
+Finland,INDEX,2014,0.99
+Finland,INDEX,2015,0.99
+Finland,INDEX,2016,0.99
+Finland,INDEX,2017,0.99
+Finland,INDEX,2018,0.99
+Finland,INDEX,2019,0.99
+Finland,INDEX,2020,0.99
+Finland,INDEX,2021,0.99
+Guatemala,INDEX,2001,0.743
+Guatemala,INDEX,2002,0.742
+Guatemala,INDEX,2003,0.74
+Guatemala,INDEX,2004,0.739
+Guatemala,INDEX,2005,0.737
+Guatemala,INDEX,2006,0.736
+Guatemala,INDEX,2007,0.735
+Guatemala,INDEX,2008,0.734
+Guatemala,INDEX,2009,0.732
+Guatemala,INDEX,2010,0.732
+Guatemala,INDEX,2011,0.729
+Guatemala,INDEX,2012,0.728
+Guatemala,INDEX,2013,0.727
+Guatemala,INDEX,2014,0.726
+Guatemala,INDEX,2015,0.724
+Guatemala,INDEX,2016,0.722
+Guatemala,INDEX,2017,0.721
+Guatemala,INDEX,2018,0.72
+Guatemala,INDEX,2019,0.718
+Guatemala,INDEX,2020,0.717
+Guatemala,INDEX,2021,0.715
+Chad,INDEX,2001,0.92
+Chad,INDEX,2002,0.92
+Chad,INDEX,2003,0.919
+Chad,INDEX,2004,0.919
+Chad,INDEX,2005,0.919
+Chad,INDEX,2006,0.918
+Chad,INDEX,2007,0.918
+Chad,INDEX,2008,0.917
+Chad,INDEX,2009,0.917
+Chad,INDEX,2010,0.917
+Chad,INDEX,2011,0.916
+Chad,INDEX,2012,0.916
+Chad,INDEX,2013,0.915
+Chad,INDEX,2014,0.915
+Chad,INDEX,2015,0.915
+Chad,INDEX,2016,0.915
+Chad,INDEX,2017,0.914
+Chad,INDEX,2018,0.914
+Chad,INDEX,2019,0.914
+Chad,INDEX,2020,0.914
+Chad,INDEX,2021,0.914
+Niger,INDEX,2001,0.952
+Niger,INDEX,2002,0.951
+Niger,INDEX,2003,0.95
+Niger,INDEX,2004,0.949
+Niger,INDEX,2005,0.947
+Niger,INDEX,2006,0.947
+Niger,INDEX,2007,0.945
+Niger,INDEX,2008,0.945
+Niger,INDEX,2009,0.944
+Niger,INDEX,2010,0.943
+Niger,INDEX,2011,0.941
+Niger,INDEX,2012,0.941
+Niger,INDEX,2013,0.939
+Niger,INDEX,2014,0.938
+Niger,INDEX,2015,0.937
+Niger,INDEX,2016,0.937
+Niger,INDEX,2017,0.936
+Niger,INDEX,2018,0.935
+Niger,INDEX,2019,0.934
+Niger,INDEX,2020,0.933
+Niger,INDEX,2021,0.933
+Senegal,INDEX,2001,0.95
+Senegal,INDEX,2002,0.949
+Senegal,INDEX,2003,0.949
+Senegal,INDEX,2004,0.948
+Senegal,INDEX,2005,0.948
+Senegal,INDEX,2006,0.947
+Senegal,INDEX,2007,0.946
+Senegal,INDEX,2008,0.946
+Senegal,INDEX,2009,0.945
+Senegal,INDEX,2010,0.944
+Senegal,INDEX,2011,0.943
+Senegal,INDEX,2012,0.943
+Senegal,INDEX,2013,0.942
+Senegal,INDEX,2014,0.941
+Senegal,INDEX,2015,0.94
+Senegal,INDEX,2016,0.94
+Senegal,INDEX,2017,0.939
+Senegal,INDEX,2018,0.938
+Senegal,INDEX,2019,0.938
+Senegal,INDEX,2020,0.937
+Senegal,INDEX,2021,0.936
+Morocco,INDEX,2001,0.899
+Morocco,INDEX,2002,0.898
+Morocco,INDEX,2003,0.897
+Morocco,INDEX,2004,0.896
+Morocco,INDEX,2005,0.896
+Morocco,INDEX,2006,0.895
+Morocco,INDEX,2007,0.894
+Morocco,INDEX,2008,0.894
+Morocco,INDEX,2009,0.893
+Morocco,INDEX,2010,0.892
+Morocco,INDEX,2011,0.892
+Morocco,INDEX,2012,0.891
+Morocco,INDEX,2013,0.89
+Morocco,INDEX,2014,0.89
+Morocco,INDEX,2015,0.889
+Morocco,INDEX,2016,0.888
+Morocco,INDEX,2017,0.887
+Morocco,INDEX,2018,0.886
+Morocco,INDEX,2019,0.886
+Morocco,INDEX,2020,0.885
+Morocco,INDEX,2021,0.884
+Norway,INDEX,2001,0.956
+Norway,INDEX,2002,0.956
+Norway,INDEX,2003,0.955
+Norway,INDEX,2004,0.955
+Norway,INDEX,2005,0.955
+Norway,INDEX,2006,0.955
+Norway,INDEX,2007,0.954
+Norway,INDEX,2008,0.954
+Norway,INDEX,2009,0.954
+Norway,INDEX,2010,0.954
+Norway,INDEX,2011,0.954
+Norway,INDEX,2012,0.953
+Norway,INDEX,2013,0.951
+Norway,INDEX,2014,0.95
+Norway,INDEX,2015,0.949
+Norway,INDEX,2016,0.948
+Norway,INDEX,2017,0.948
+Norway,INDEX,2018,0.948
+Norway,INDEX,2019,0.948
+Norway,INDEX,2020,0.947
+Norway,INDEX,2021,0.947
+Åland,INDEX,2001,0.993
+Åland,INDEX,2002,0.993
+Åland,INDEX,2003,0.993
+Åland,INDEX,2004,0.993
+Åland,INDEX,2005,0.993
+Åland,INDEX,2006,0.992
+Åland,INDEX,2007,0.992
+Åland,INDEX,2008,0.991
+Åland,INDEX,2009,0.991
+Åland,INDEX,2010,0.99
+Åland,INDEX,2011,0.99
+Åland,INDEX,2012,0.99
+Åland,INDEX,2013,0.989
+Åland,INDEX,2014,0.988
+Åland,INDEX,2015,0.988
+Åland,INDEX,2016,0.987
+Åland,INDEX,2017,0.987
+Åland,INDEX,2018,0.987
+Åland,INDEX,2019,0.987
+Åland,INDEX,2020,0.987
+Åland,INDEX,2021,0.987
+Botswana,INDEX,2001,0.977
+Botswana,INDEX,2002,0.977
+Botswana,INDEX,2003,0.977
+Botswana,INDEX,2004,0.977
+Botswana,INDEX,2005,0.977
+Botswana,INDEX,2006,0.977
+Botswana,INDEX,2007,0.977
+Botswana,INDEX,2008,0.977
+Botswana,INDEX,2009,0.976
+Botswana,INDEX,2010,0.976
+Botswana,INDEX,2011,0.976
+Botswana,INDEX,2012,0.976
+Botswana,INDEX,2013,0.976
+Botswana,INDEX,2014,0.976
+Botswana,INDEX,2015,0.976
+Botswana,INDEX,2016,0.976
+Botswana,INDEX,2017,0.976
+Botswana,INDEX,2018,0.976
+Botswana,INDEX,2019,0.976
+Botswana,INDEX,2020,0.976
+Botswana,INDEX,2021,0.976
+Tanzania,INDEX,2001,0.767
+Tanzania,INDEX,2002,0.764
+Tanzania,INDEX,2003,0.759
+Tanzania,INDEX,2004,0.756
+Tanzania,INDEX,2005,0.752
+Tanzania,INDEX,2006,0.748
+Tanzania,INDEX,2007,0.744
+Tanzania,INDEX,2008,0.741
+Tanzania,INDEX,2009,0.737
+Tanzania,INDEX,2010,0.734
+Tanzania,INDEX,2011,0.73
+Tanzania,INDEX,2012,0.726
+Tanzania,INDEX,2013,0.722
+Tanzania,INDEX,2014,0.719
+Tanzania,INDEX,2015,0.715
+Tanzania,INDEX,2016,0.711
+Tanzania,INDEX,2017,0.707
+Tanzania,INDEX,2018,0.703
+Tanzania,INDEX,2019,0.699
+Tanzania,INDEX,2020,0.696
+Tanzania,INDEX,2021,0.692
+Democratic Republic of the Congo,INDEX,2001,0.881
+Democratic Republic of the Congo,INDEX,2002,0.881
+Democratic Republic of the Congo,INDEX,2003,0.881
+Democratic Republic of the Congo,INDEX,2004,0.881
+Democratic Republic of the Congo,INDEX,2005,0.881
+Democratic Republic of the Congo,INDEX,2006,0.881
+Democratic Republic of the Congo,INDEX,2007,0.881
+Democratic Republic of the Congo,INDEX,2008,0.881
+Democratic Republic of the Congo,INDEX,2009,0.881
+Democratic Republic of the Congo,INDEX,2010,0.881
+Democratic Republic of the Congo,INDEX,2011,0.881
+Democratic Republic of the Congo,INDEX,2012,0.881
+Democratic Republic of the Congo,INDEX,2013,0.881
+Democratic Republic of the Congo,INDEX,2014,0.881
+Democratic Republic of the Congo,INDEX,2015,0.881
+Democratic Republic of the Congo,INDEX,2016,0.881
+Democratic Republic of the Congo,INDEX,2017,0.881
+Democratic Republic of the Congo,INDEX,2018,0.881
+Democratic Republic of the Congo,INDEX,2019,0.881
+Democratic Republic of the Congo,INDEX,2020,0.881
+Democratic Republic of the Congo,INDEX,2021,0.881
+Aruba,INDEX,2001,0.957
+Aruba,INDEX,2002,0.957
+Aruba,INDEX,2003,0.957
+Aruba,INDEX,2004,0.957
+Aruba,INDEX,2005,0.957
+Aruba,INDEX,2006,0.958
+Aruba,INDEX,2007,0.958
+Aruba,INDEX,2008,0.958
+Aruba,INDEX,2009,0.958
+Aruba,INDEX,2010,0.958
+Aruba,INDEX,2011,0.958
+Aruba,INDEX,2012,0.959
+Aruba,INDEX,2013,0.959
+Aruba,INDEX,2014,0.959
+Aruba,INDEX,2015,0.959
+Aruba,INDEX,2016,0.959
+Aruba,INDEX,2017,0.959
+Aruba,INDEX,2018,0.959
+Aruba,INDEX,2019,0.959
+Aruba,INDEX,2020,0.959
+Aruba,INDEX,2021,0.959
+Malawi,INDEX,2001,0.806
+Malawi,INDEX,2002,0.806
+Malawi,INDEX,2003,0.807
+Malawi,INDEX,2004,0.807
+Malawi,INDEX,2005,0.807
+Malawi,INDEX,2006,0.807
+Malawi,INDEX,2007,0.807
+Malawi,INDEX,2008,0.807
+Malawi,INDEX,2009,0.807
+Malawi,INDEX,2010,0.807
+Malawi,INDEX,2011,0.807
+Malawi,INDEX,2012,0.807
+Malawi,INDEX,2013,0.807
+Malawi,INDEX,2014,0.807
+Malawi,INDEX,2015,0.807
+Malawi,INDEX,2016,0.807
+Malawi,INDEX,2017,0.808
+Malawi,INDEX,2018,0.808
+Malawi,INDEX,2019,0.808
+Malawi,INDEX,2020,0.808
+Malawi,INDEX,2021,0.808
+Gambia,INDEX,2001,0.98
+Gambia,INDEX,2002,0.98
+Gambia,INDEX,2003,0.98
+Gambia,INDEX,2004,0.98
+Gambia,INDEX,2005,0.98
+Gambia,INDEX,2006,0.98
+Gambia,INDEX,2007,0.98
+Gambia,INDEX,2008,0.98
+Gambia,INDEX,2009,0.98
+Gambia,INDEX,2010,0.98
+Gambia,INDEX,2011,0.98
+Gambia,INDEX,2012,0.98
+Gambia,INDEX,2013,0.979
+Gambia,INDEX,2014,0.979
+Gambia,INDEX,2015,0.979
+Gambia,INDEX,2016,0.979
+Gambia,INDEX,2017,0.979
+Gambia,INDEX,2018,0.979
+Gambia,INDEX,2019,0.979
+Gambia,INDEX,2020,0.979
+Gambia,INDEX,2021,0.979
+Cyprus,INDEX,2001,0.992
+Cyprus,INDEX,2002,0.993
+Cyprus,INDEX,2003,0.993
+Cyprus,INDEX,2004,0.993
+Cyprus,INDEX,2005,0.993
+Cyprus,INDEX,2006,0.993
+Cyprus,INDEX,2007,0.993
+Cyprus,INDEX,2008,0.993
+Cyprus,INDEX,2009,0.993
+Cyprus,INDEX,2010,0.993
+Cyprus,INDEX,2011,0.993
+Cyprus,INDEX,2012,0.993
+Cyprus,INDEX,2013,0.993
+Cyprus,INDEX,2014,0.993
+Cyprus,INDEX,2015,0.992
+Cyprus,INDEX,2016,0.992
+Cyprus,INDEX,2017,0.992
+Cyprus,INDEX,2018,0.992
+Cyprus,INDEX,2019,0.992
+Cyprus,INDEX,2020,0.992
+Cyprus,INDEX,2021,0.991
+Peru,INDEX,2001,0.734
+Peru,INDEX,2002,0.734
+Peru,INDEX,2003,0.734
+Peru,INDEX,2004,0.734
+Peru,INDEX,2005,0.734
+Peru,INDEX,2006,0.734
+Peru,INDEX,2007,0.734
+Peru,INDEX,2008,0.733
+Peru,INDEX,2009,0.733
+Peru,INDEX,2010,0.732
+Peru,INDEX,2011,0.732
+Peru,INDEX,2012,0.731
+Peru,INDEX,2013,0.731
+Peru,INDEX,2014,0.73
+Peru,INDEX,2015,0.73
+Peru,INDEX,2016,0.73
+Peru,INDEX,2017,0.73
+Peru,INDEX,2018,0.73
+Peru,INDEX,2019,0.73
+Peru,INDEX,2020,0.73
+Peru,INDEX,2021,0.73
+North Macedonia,INDEX,2001,0.97
+North Macedonia,INDEX,2002,0.969
+North Macedonia,INDEX,2003,0.969
+North Macedonia,INDEX,2004,0.969
+North Macedonia,INDEX,2005,0.969
+North Macedonia,INDEX,2006,0.969
+North Macedonia,INDEX,2007,0.969
+North Macedonia,INDEX,2008,0.969
+North Macedonia,INDEX,2009,0.969
+North Macedonia,INDEX,2010,0.969
+North Macedonia,INDEX,2011,0.969
+North Macedonia,INDEX,2012,0.969
+North Macedonia,INDEX,2013,0.969
+North Macedonia,INDEX,2014,0.969
+North Macedonia,INDEX,2015,0.969
+North Macedonia,INDEX,2016,0.969
+North Macedonia,INDEX,2017,0.969
+North Macedonia,INDEX,2018,0.969
+North Macedonia,INDEX,2019,0.969
+North Macedonia,INDEX,2020,0.969
+North Macedonia,INDEX,2021,0.969
+Austria,INDEX,2001,0.894
+Austria,INDEX,2002,0.894
+Austria,INDEX,2003,0.894
+Austria,INDEX,2004,0.894
+Austria,INDEX,2005,0.894
+Austria,INDEX,2006,0.895
+Austria,INDEX,2007,0.895
+Austria,INDEX,2008,0.895
+Austria,INDEX,2009,0.895
+Austria,INDEX,2010,0.895
+Austria,INDEX,2011,0.895
+Austria,INDEX,2012,0.895
+Austria,INDEX,2013,0.895
+Austria,INDEX,2014,0.895
+Austria,INDEX,2015,0.895
+Austria,INDEX,2016,0.895
+Austria,INDEX,2017,0.895
+Austria,INDEX,2018,0.895
+Austria,INDEX,2019,0.895
+Austria,INDEX,2020,0.895
+Austria,INDEX,2021,0.895
+Turkey,INDEX,2001,0.888
+Turkey,INDEX,2002,0.887
+Turkey,INDEX,2003,0.887
+Turkey,INDEX,2004,0.887
+Turkey,INDEX,2005,0.886
+Turkey,INDEX,2006,0.886
+Turkey,INDEX,2007,0.886
+Turkey,INDEX,2008,0.885
+Turkey,INDEX,2009,0.885
+Turkey,INDEX,2010,0.885
+Turkey,INDEX,2011,0.884
+Turkey,INDEX,2012,0.884
+Turkey,INDEX,2013,0.884
+Turkey,INDEX,2014,0.883
+Turkey,INDEX,2015,0.883
+Turkey,INDEX,2016,0.883
+Turkey,INDEX,2017,0.882
+Turkey,INDEX,2018,0.882
+Turkey,INDEX,2019,0.882
+Turkey,INDEX,2020,0.881
+Turkey,INDEX,2021,0.881
+New Caledonia,INDEX,2001,0.695
+New Caledonia,INDEX,2002,0.692
+New Caledonia,INDEX,2003,0.689
+New Caledonia,INDEX,2004,0.686
+New Caledonia,INDEX,2005,0.684
+New Caledonia,INDEX,2006,0.681
+New Caledonia,INDEX,2007,0.677
+New Caledonia,INDEX,2008,0.674
+New Caledonia,INDEX,2009,0.672
+New Caledonia,INDEX,2010,0.67
+New Caledonia,INDEX,2011,0.666
+New Caledonia,INDEX,2012,0.663
+New Caledonia,INDEX,2013,0.66
+New Caledonia,INDEX,2014,0.658
+New Caledonia,INDEX,2015,0.653
+New Caledonia,INDEX,2016,0.651
+New Caledonia,INDEX,2017,0.647
+New Caledonia,INDEX,2018,0.645
+New Caledonia,INDEX,2019,0.641
+New Caledonia,INDEX,2020,0.638
+New Caledonia,INDEX,2021,0.636
+Cambodia,INDEX,2001,0.834
+Cambodia,INDEX,2002,0.832
+Cambodia,INDEX,2003,0.83
+Cambodia,INDEX,2004,0.827
+Cambodia,INDEX,2005,0.824
+Cambodia,INDEX,2006,0.822
+Cambodia,INDEX,2007,0.819
+Cambodia,INDEX,2008,0.817
+Cambodia,INDEX,2009,0.814
+Cambodia,INDEX,2010,0.812
+Cambodia,INDEX,2011,0.81
+Cambodia,INDEX,2012,0.807
+Cambodia,INDEX,2013,0.804
+Cambodia,INDEX,2014,0.801
+Cambodia,INDEX,2015,0.799
+Cambodia,INDEX,2016,0.795
+Cambodia,INDEX,2017,0.793
+Cambodia,INDEX,2018,0.79
+Cambodia,INDEX,2019,0.788
+Cambodia,INDEX,2020,0.785
+Cambodia,INDEX,2021,0.782
+Tunisia,INDEX,2001,0.971
+Tunisia,INDEX,2002,0.971
+Tunisia,INDEX,2003,0.97
+Tunisia,INDEX,2004,0.971
+Tunisia,INDEX,2005,0.97
+Tunisia,INDEX,2006,0.971
+Tunisia,INDEX,2007,0.971
+Tunisia,INDEX,2008,0.971
+Tunisia,INDEX,2009,0.971
+Tunisia,INDEX,2010,0.972
+Tunisia,INDEX,2011,0.972
+Tunisia,INDEX,2012,0.972
+Tunisia,INDEX,2013,0.972
+Tunisia,INDEX,2014,0.972
+Tunisia,INDEX,2015,0.972
+Tunisia,INDEX,2016,0.972
+Tunisia,INDEX,2017,0.972
+Tunisia,INDEX,2018,0.972
+Tunisia,INDEX,2019,0.971
+Tunisia,INDEX,2020,0.971
+Tunisia,INDEX,2021,0.971
+Korea,INDEX,2001,0.758
+Korea,INDEX,2002,0.755
+Korea,INDEX,2003,0.751
+Korea,INDEX,2004,0.747
+Korea,INDEX,2005,0.744
+Korea,INDEX,2006,0.74
+Korea,INDEX,2007,0.737
+Korea,INDEX,2008,0.734
+Korea,INDEX,2009,0.73
+Korea,INDEX,2010,0.728
+Korea,INDEX,2011,0.726
+Korea,INDEX,2012,0.722
+Korea,INDEX,2013,0.72
+Korea,INDEX,2014,0.717
+Korea,INDEX,2015,0.714
+Korea,INDEX,2016,0.71
+Korea,INDEX,2017,0.708
+Korea,INDEX,2018,0.705
+Korea,INDEX,2019,0.702
+Korea,INDEX,2020,0.699
+Korea,INDEX,2021,0.697
+Micronesia,INDEX,2001,0.727
+Micronesia,INDEX,2002,0.723
+Micronesia,INDEX,2003,0.718
+Micronesia,INDEX,2004,0.714
+Micronesia,INDEX,2005,0.71
+Micronesia,INDEX,2006,0.706
+Micronesia,INDEX,2007,0.702
+Micronesia,INDEX,2008,0.698
+Micronesia,INDEX,2009,0.695
+Micronesia,INDEX,2010,0.691
+Micronesia,INDEX,2011,0.687
+Micronesia,INDEX,2012,0.683
+Micronesia,INDEX,2013,0.679
+Micronesia,INDEX,2014,0.675
+Micronesia,INDEX,2015,0.671
+Micronesia,INDEX,2016,0.666
+Micronesia,INDEX,2017,0.662
+Micronesia,INDEX,2018,0.656
+Micronesia,INDEX,2019,0.655
+Micronesia,INDEX,2020,0.651
+Micronesia,INDEX,2021,0.646
+Svalbard and Jan Mayen,INDEX,2001,0.883
+Svalbard and Jan Mayen,INDEX,2002,0.88
+Svalbard and Jan Mayen,INDEX,2003,0.877
+Svalbard and Jan Mayen,INDEX,2004,0.874
+Svalbard and Jan Mayen,INDEX,2005,0.871
+Svalbard and Jan Mayen,INDEX,2006,0.869
+Svalbard and Jan Mayen,INDEX,2007,0.867
+Svalbard and Jan Mayen,INDEX,2008,0.866
+Svalbard and Jan Mayen,INDEX,2009,0.866
+Svalbard and Jan Mayen,INDEX,2010,0.866
+Svalbard and Jan Mayen,INDEX,2011,0.865
+Svalbard and Jan Mayen,INDEX,2012,0.863
+Svalbard and Jan Mayen,INDEX,2013,0.861
+Svalbard and Jan Mayen,INDEX,2014,0.857
+Svalbard and Jan Mayen,INDEX,2015,0.853
+Svalbard and Jan Mayen,INDEX,2016,0.851
+Svalbard and Jan Mayen,INDEX,2017,0.849
+Svalbard and Jan Mayen,INDEX,2018,0.849
+Svalbard and Jan Mayen,INDEX,2019,0.85
+Svalbard and Jan Mayen,INDEX,2020,0.85
+Svalbard and Jan Mayen,INDEX,2021,0.85
+Benin,INDEX,2001,0.905
+Benin,INDEX,2002,0.905
+Benin,INDEX,2003,0.905
+Benin,INDEX,2004,0.905
+Benin,INDEX,2005,0.905
+Benin,INDEX,2006,0.905
+Benin,INDEX,2007,0.905
+Benin,INDEX,2008,0.905
+Benin,INDEX,2009,0.905
+Benin,INDEX,2010,0.905
+Benin,INDEX,2011,0.905
+Benin,INDEX,2012,0.905
+Benin,INDEX,2013,0.905
+Benin,INDEX,2014,0.905
+Benin,INDEX,2015,0.905
+Benin,INDEX,2016,0.905
+Benin,INDEX,2017,0.905
+Benin,INDEX,2018,0.905
+Benin,INDEX,2019,0.905
+Benin,INDEX,2020,0.905
+Benin,INDEX,2021,0.905
+Yemen,INDEX,2001,0.891
+Yemen,INDEX,2002,0.888
+Yemen,INDEX,2003,0.885
+Yemen,INDEX,2004,0.882
+Yemen,INDEX,2005,0.88
+Yemen,INDEX,2006,0.877
+Yemen,INDEX,2007,0.875
+Yemen,INDEX,2008,0.872
+Yemen,INDEX,2009,0.87
+Yemen,INDEX,2010,0.867
+Yemen,INDEX,2011,0.865
+Yemen,INDEX,2012,0.862
+Yemen,INDEX,2013,0.859
+Yemen,INDEX,2014,0.856
+Yemen,INDEX,2015,0.853
+Yemen,INDEX,2016,0.851
+Yemen,INDEX,2017,0.848
+Yemen,INDEX,2018,0.845
+Yemen,INDEX,2019,0.842
+Yemen,INDEX,2020,0.841
+Yemen,INDEX,2021,0.837
+Angola,INDEX,2001,0.929
+Angola,INDEX,2002,0.929
+Angola,INDEX,2003,0.929
+Angola,INDEX,2004,0.929
+Angola,INDEX,2005,0.929
+Angola,INDEX,2006,0.929
+Angola,INDEX,2007,0.929
+Angola,INDEX,2008,0.929
+Angola,INDEX,2009,0.929
+Angola,INDEX,2010,0.929
+Angola,INDEX,2011,0.929
+Angola,INDEX,2012,0.929
+Angola,INDEX,2013,0.929
+Angola,INDEX,2014,0.929
+Angola,INDEX,2015,0.929
+Angola,INDEX,2016,0.929
+Angola,INDEX,2017,0.929
+Angola,INDEX,2018,0.929
+Angola,INDEX,2019,0.929
+Angola,INDEX,2020,0.929
+Angola,INDEX,2021,0.928
+Sao Tome and Principe,INDEX,2001,0.78
+Sao Tome and Principe,INDEX,2002,0.779
+Sao Tome and Principe,INDEX,2003,0.779
+Sao Tome and Principe,INDEX,2004,0.779
+Sao Tome and Principe,INDEX,2005,0.781
+Sao Tome and Principe,INDEX,2006,0.783
+Sao Tome and Principe,INDEX,2007,0.784
+Sao Tome and Principe,INDEX,2008,0.787
+Sao Tome and Principe,INDEX,2009,0.788
+Sao Tome and Principe,INDEX,2010,0.789
+Sao Tome and Principe,INDEX,2011,0.788
+Sao Tome and Principe,INDEX,2012,0.788
+Sao Tome and Principe,INDEX,2013,0.787
+Sao Tome and Principe,INDEX,2014,0.787
+Sao Tome and Principe,INDEX,2015,0.787
+Sao Tome and Principe,INDEX,2016,0.787
+Sao Tome and Principe,INDEX,2017,0.786
+Sao Tome and Principe,INDEX,2018,0.786
+Sao Tome and Principe,INDEX,2019,0.786
+Sao Tome and Principe,INDEX,2020,0.785
+Sao Tome and Principe,INDEX,2021,0.785
+Falkland Islands (Malvinas),INDEX,2001,0.712
+Falkland Islands (Malvinas),INDEX,2002,0.712
+Falkland Islands (Malvinas),INDEX,2003,0.713
+Falkland Islands (Malvinas),INDEX,2004,0.714
+Falkland Islands (Malvinas),INDEX,2005,0.716
+Falkland Islands (Malvinas),INDEX,2006,0.72
+Falkland Islands (Malvinas),INDEX,2007,0.724
+Falkland Islands (Malvinas),INDEX,2008,0.727
+Falkland Islands (Malvinas),INDEX,2009,0.728
+Falkland Islands (Malvinas),INDEX,2010,0.73
+Falkland Islands (Malvinas),INDEX,2011,0.73
+Falkland Islands (Malvinas),INDEX,2012,0.73
+Falkland Islands (Malvinas),INDEX,2013,0.73
+Falkland Islands (Malvinas),INDEX,2014,0.731
+Falkland Islands (Malvinas),INDEX,2015,0.731
+Falkland Islands (Malvinas),INDEX,2016,0.731
+Falkland Islands (Malvinas),INDEX,2017,0.731
+Falkland Islands (Malvinas),INDEX,2018,0.731
+Falkland Islands (Malvinas),INDEX,2019,0.731
+Falkland Islands (Malvinas),INDEX,2020,0.731
+Falkland Islands (Malvinas),INDEX,2021,0.731
+"Hong Kong, China",INDEX,2001,0.844
+"Hong Kong, China",INDEX,2002,0.843
+"Hong Kong, China",INDEX,2003,0.843
+"Hong Kong, China",INDEX,2004,0.843
+"Hong Kong, China",INDEX,2005,0.843
+"Hong Kong, China",INDEX,2006,0.843
+"Hong Kong, China",INDEX,2007,0.843
+"Hong Kong, China",INDEX,2008,0.842
+"Hong Kong, China",INDEX,2009,0.842
+"Hong Kong, China",INDEX,2010,0.842
+"Hong Kong, China",INDEX,2011,0.842
+"Hong Kong, China",INDEX,2012,0.842
+"Hong Kong, China",INDEX,2013,0.842
+"Hong Kong, China",INDEX,2014,0.842
+"Hong Kong, China",INDEX,2015,0.841
+"Hong Kong, China",INDEX,2016,0.841
+"Hong Kong, China",INDEX,2017,0.841
+"Hong Kong, China",INDEX,2018,0.841
+"Hong Kong, China",INDEX,2019,0.841
+"Hong Kong, China",INDEX,2020,0.841
+"Hong Kong, China",INDEX,2021,0.841
+Tajikistan,INDEX,2001,0.988
+Tajikistan,INDEX,2002,0.988
+Tajikistan,INDEX,2003,0.988
+Tajikistan,INDEX,2004,0.987
+Tajikistan,INDEX,2005,0.987
+Tajikistan,INDEX,2006,0.987
+Tajikistan,INDEX,2007,0.988
+Tajikistan,INDEX,2008,0.988
+Tajikistan,INDEX,2009,0.988
+Tajikistan,INDEX,2010,0.988
+Tajikistan,INDEX,2011,0.988
+Tajikistan,INDEX,2012,0.988
+Tajikistan,INDEX,2013,0.988
+Tajikistan,INDEX,2014,0.988
+Tajikistan,INDEX,2015,0.988
+Tajikistan,INDEX,2016,0.988
+Tajikistan,INDEX,2017,0.988
+Tajikistan,INDEX,2018,0.988
+Tajikistan,INDEX,2019,0.988
+Tajikistan,INDEX,2020,0.988
+Tajikistan,INDEX,2021,0.988
+Pakistan,INDEX,2001,0.936
+Pakistan,INDEX,2002,0.929
+Pakistan,INDEX,2003,0.925
+Pakistan,INDEX,2004,0.921
+Pakistan,INDEX,2005,0.917
+Pakistan,INDEX,2006,0.912
+Pakistan,INDEX,2007,0.907
+Pakistan,INDEX,2008,0.904
+Pakistan,INDEX,2009,0.9
+Pakistan,INDEX,2010,0.898
+Pakistan,INDEX,2011,0.894
+Pakistan,INDEX,2012,0.889
+Pakistan,INDEX,2013,0.885
+Pakistan,INDEX,2014,0.881
+Pakistan,INDEX,2015,0.877
+Pakistan,INDEX,2016,0.873
+Pakistan,INDEX,2017,0.869
+Pakistan,INDEX,2018,0.865
+Pakistan,INDEX,2019,0.861
+Pakistan,INDEX,2020,0.856
+Pakistan,INDEX,2021,0.852
+Montenegro,INDEX,2001,0.852
+Montenegro,INDEX,2002,0.85
+Montenegro,INDEX,2003,0.846
+Montenegro,INDEX,2004,0.844
+Montenegro,INDEX,2005,0.842
+Montenegro,INDEX,2006,0.84
+Montenegro,INDEX,2007,0.837
+Montenegro,INDEX,2008,0.834
+Montenegro,INDEX,2009,0.832
+Montenegro,INDEX,2010,0.828
+Montenegro,INDEX,2011,0.826
+Montenegro,INDEX,2012,0.824
+Montenegro,INDEX,2013,0.821
+Montenegro,INDEX,2014,0.818
+Montenegro,INDEX,2015,0.816
+Montenegro,INDEX,2016,0.814
+Montenegro,INDEX,2017,0.81
+Montenegro,INDEX,2018,0.808
+Montenegro,INDEX,2019,0.805
+Montenegro,INDEX,2020,0.803
+Montenegro,INDEX,2021,0.8
+Portugal,INDEX,2001,0.873
+Portugal,INDEX,2002,0.872
+Portugal,INDEX,2003,0.872
+Portugal,INDEX,2004,0.871
+Portugal,INDEX,2005,0.87
+Portugal,INDEX,2006,0.869
+Portugal,INDEX,2007,0.869
+Portugal,INDEX,2008,0.869
+Portugal,INDEX,2009,0.869
+Portugal,INDEX,2010,0.87
+Portugal,INDEX,2011,0.87
+Portugal,INDEX,2012,0.87
+Portugal,INDEX,2013,0.87
+Portugal,INDEX,2014,0.869
+Portugal,INDEX,2015,0.869
+Portugal,INDEX,2016,0.868
+Portugal,INDEX,2017,0.867
+Portugal,INDEX,2018,0.866
+Portugal,INDEX,2019,0.866
+Portugal,INDEX,2020,0.865
+Portugal,INDEX,2021,0.864
+Gabon,INDEX,2001,0.953
+Gabon,INDEX,2002,0.953
+Gabon,INDEX,2003,0.953
+Gabon,INDEX,2004,0.953
+Gabon,INDEX,2005,0.953
+Gabon,INDEX,2006,0.953
+Gabon,INDEX,2007,0.953
+Gabon,INDEX,2008,0.954
+Gabon,INDEX,2009,0.953
+Gabon,INDEX,2010,0.953
+Gabon,INDEX,2011,0.953
+Gabon,INDEX,2012,0.953
+Gabon,INDEX,2013,0.953
+Gabon,INDEX,2014,0.953
+Gabon,INDEX,2015,0.953
+Gabon,INDEX,2016,0.953
+Gabon,INDEX,2017,0.953
+Gabon,INDEX,2018,0.953
+Gabon,INDEX,2019,0.953
+Gabon,INDEX,2020,0.953
+Gabon,INDEX,2021,0.953
+British Virgin Islands,INDEX,2001,0.782
+British Virgin Islands,INDEX,2002,0.781
+British Virgin Islands,INDEX,2003,0.78
+British Virgin Islands,INDEX,2004,0.779
+British Virgin Islands,INDEX,2005,0.778
+British Virgin Islands,INDEX,2006,0.777
+British Virgin Islands,INDEX,2007,0.776
+British Virgin Islands,INDEX,2008,0.775
+British Virgin Islands,INDEX,2009,0.774
+British Virgin Islands,INDEX,2010,0.773
+British Virgin Islands,INDEX,2011,0.772
+British Virgin Islands,INDEX,2012,0.77
+British Virgin Islands,INDEX,2013,0.77
+British Virgin Islands,INDEX,2014,0.768
+British Virgin Islands,INDEX,2015,0.767
+British Virgin Islands,INDEX,2016,0.766
+British Virgin Islands,INDEX,2017,0.765
+British Virgin Islands,INDEX,2018,0.764
+British Virgin Islands,INDEX,2019,0.762
+British Virgin Islands,INDEX,2020,0.761
+British Virgin Islands,INDEX,2021,0.76
+Montserrat,INDEX,2001,0.767
+Montserrat,INDEX,2002,0.789
+Montserrat,INDEX,2003,0.808
+Montserrat,INDEX,2004,0.823
+Montserrat,INDEX,2005,0.826
+Montserrat,INDEX,2006,0.825
+Montserrat,INDEX,2007,0.824
+Montserrat,INDEX,2008,0.824
+Montserrat,INDEX,2009,0.823
+Montserrat,INDEX,2010,0.822
+Montserrat,INDEX,2011,0.82
+Montserrat,INDEX,2012,0.819
+Montserrat,INDEX,2013,0.818
+Montserrat,INDEX,2014,0.817
+Montserrat,INDEX,2015,0.816
+Montserrat,INDEX,2016,0.815
+Montserrat,INDEX,2017,0.814
+Montserrat,INDEX,2018,0.813
+Montserrat,INDEX,2019,0.811
+Montserrat,INDEX,2020,0.811
+Montserrat,INDEX,2021,0.809
+Rwanda,INDEX,2001,0.883
+Rwanda,INDEX,2002,0.883
+Rwanda,INDEX,2003,0.883
+Rwanda,INDEX,2004,0.883
+Rwanda,INDEX,2005,0.883
+Rwanda,INDEX,2006,0.883
+Rwanda,INDEX,2007,0.883
+Rwanda,INDEX,2008,0.883
+Rwanda,INDEX,2009,0.883
+Rwanda,INDEX,2010,0.883
+Rwanda,INDEX,2011,0.883
+Rwanda,INDEX,2012,0.883
+Rwanda,INDEX,2013,0.883
+Rwanda,INDEX,2014,0.883
+Rwanda,INDEX,2015,0.883
+Rwanda,INDEX,2016,0.883
+Rwanda,INDEX,2017,0.883
+Rwanda,INDEX,2018,0.883
+Rwanda,INDEX,2019,0.883
+Rwanda,INDEX,2020,0.883
+Rwanda,INDEX,2021,0.883
+Hungary,INDEX,2001,0.863
+Hungary,INDEX,2002,0.863
+Hungary,INDEX,2003,0.863
+Hungary,INDEX,2004,0.863
+Hungary,INDEX,2005,0.863
+Hungary,INDEX,2006,0.864
+Hungary,INDEX,2007,0.864
+Hungary,INDEX,2008,0.864
+Hungary,INDEX,2009,0.864
+Hungary,INDEX,2010,0.864
+Hungary,INDEX,2011,0.864
+Hungary,INDEX,2012,0.864
+Hungary,INDEX,2013,0.864
+Hungary,INDEX,2014,0.864
+Hungary,INDEX,2015,0.864
+Hungary,INDEX,2016,0.864
+Hungary,INDEX,2017,0.864
+Hungary,INDEX,2018,0.864
+Hungary,INDEX,2019,0.864
+Hungary,INDEX,2020,0.864
+Hungary,INDEX,2021,0.865
+Ecuador,INDEX,2001,0.768
+Ecuador,INDEX,2002,0.763
+Ecuador,INDEX,2003,0.758
+Ecuador,INDEX,2004,0.753
+Ecuador,INDEX,2005,0.749
+Ecuador,INDEX,2006,0.744
+Ecuador,INDEX,2007,0.739
+Ecuador,INDEX,2008,0.734
+Ecuador,INDEX,2009,0.73
+Ecuador,INDEX,2010,0.725
+Ecuador,INDEX,2011,0.721
+Ecuador,INDEX,2012,0.716
+Ecuador,INDEX,2013,0.711
+Ecuador,INDEX,2014,0.706
+Ecuador,INDEX,2015,0.701
+Ecuador,INDEX,2016,0.696
+Ecuador,INDEX,2017,0.692
+Ecuador,INDEX,2018,0.687
+Ecuador,INDEX,2019,0.684
+Ecuador,INDEX,2020,0.678
+Ecuador,INDEX,2021,0.674
+Curacao,INDEX,2001,0.875
+Curacao,INDEX,2002,0.874
+Curacao,INDEX,2003,0.873
+Curacao,INDEX,2004,0.872
+Curacao,INDEX,2005,0.871
+Curacao,INDEX,2006,0.869
+Curacao,INDEX,2007,0.868
+Curacao,INDEX,2008,0.867
+Curacao,INDEX,2009,0.866
+Curacao,INDEX,2010,0.866
+Curacao,INDEX,2011,0.864
+Curacao,INDEX,2012,0.863
+Curacao,INDEX,2013,0.862
+Curacao,INDEX,2014,0.86
+Curacao,INDEX,2015,0.86
+Curacao,INDEX,2016,0.858
+Curacao,INDEX,2017,0.857
+Curacao,INDEX,2018,0.856
+Curacao,INDEX,2019,0.854
+Curacao,INDEX,2020,0.853
+Curacao,INDEX,2021,0.852
+Bangladesh,INDEX,2001,0.825
+Bangladesh,INDEX,2002,0.821
+Bangladesh,INDEX,2003,0.817
+Bangladesh,INDEX,2004,0.813
+Bangladesh,INDEX,2005,0.808
+Bangladesh,INDEX,2006,0.804
+Bangladesh,INDEX,2007,0.8
+Bangladesh,INDEX,2008,0.796
+Bangladesh,INDEX,2009,0.792
+Bangladesh,INDEX,2010,0.787
+Bangladesh,INDEX,2011,0.784
+Bangladesh,INDEX,2012,0.779
+Bangladesh,INDEX,2013,0.777
+Bangladesh,INDEX,2014,0.773
+Bangladesh,INDEX,2015,0.768
+Bangladesh,INDEX,2016,0.764
+Bangladesh,INDEX,2017,0.761
+Bangladesh,INDEX,2018,0.755
+Bangladesh,INDEX,2019,0.751
+Bangladesh,INDEX,2020,0.748
+Bangladesh,INDEX,2021,0.744
+Colombia,INDEX,2001,0.76
+Colombia,INDEX,2002,0.759
+Colombia,INDEX,2003,0.758
+Colombia,INDEX,2004,0.757
+Colombia,INDEX,2005,0.756
+Colombia,INDEX,2006,0.754
+Colombia,INDEX,2007,0.753
+Colombia,INDEX,2008,0.752
+Colombia,INDEX,2009,0.751
+Colombia,INDEX,2010,0.75
+Colombia,INDEX,2011,0.748
+Colombia,INDEX,2012,0.747
+Colombia,INDEX,2013,0.746
+Colombia,INDEX,2014,0.745
+Colombia,INDEX,2015,0.743
+Colombia,INDEX,2016,0.742
+Colombia,INDEX,2017,0.741
+Colombia,INDEX,2018,0.74
+Colombia,INDEX,2019,0.739
+Colombia,INDEX,2020,0.737
+Colombia,INDEX,2021,0.737
+Vanuatu,INDEX,2001,0.727
+Vanuatu,INDEX,2002,0.724
+Vanuatu,INDEX,2003,0.721
+Vanuatu,INDEX,2004,0.718
+Vanuatu,INDEX,2005,0.715
+Vanuatu,INDEX,2006,0.711
+Vanuatu,INDEX,2007,0.708
+Vanuatu,INDEX,2008,0.706
+Vanuatu,INDEX,2009,0.704
+Vanuatu,INDEX,2010,0.701
+Vanuatu,INDEX,2011,0.698
+Vanuatu,INDEX,2012,0.695
+Vanuatu,INDEX,2013,0.692
+Vanuatu,INDEX,2014,0.689
+Vanuatu,INDEX,2015,0.686
+Vanuatu,INDEX,2016,0.683
+Vanuatu,INDEX,2017,0.679
+Vanuatu,INDEX,2018,0.677
+Vanuatu,INDEX,2019,0.673
+Vanuatu,INDEX,2020,0.671
+Vanuatu,INDEX,2021,0.667
+Cocos (Keeling) Islands,INDEX,2001,0.846
+Cocos (Keeling) Islands,INDEX,2002,0.841
+Cocos (Keeling) Islands,INDEX,2003,0.837
+Cocos (Keeling) Islands,INDEX,2004,0.833
+Cocos (Keeling) Islands,INDEX,2005,0.831
+Cocos (Keeling) Islands,INDEX,2006,0.827
+Cocos (Keeling) Islands,INDEX,2007,0.824
+Cocos (Keeling) Islands,INDEX,2008,0.82
+Cocos (Keeling) Islands,INDEX,2009,0.817
+Cocos (Keeling) Islands,INDEX,2010,0.815
+Cocos (Keeling) Islands,INDEX,2011,0.81
+Cocos (Keeling) Islands,INDEX,2012,0.807
+Cocos (Keeling) Islands,INDEX,2013,0.804
+Cocos (Keeling) Islands,INDEX,2014,0.8
+Cocos (Keeling) Islands,INDEX,2015,0.795
+Cocos (Keeling) Islands,INDEX,2016,0.791
+Cocos (Keeling) Islands,INDEX,2017,0.789
+Cocos (Keeling) Islands,INDEX,2018,0.785
+Cocos (Keeling) Islands,INDEX,2019,0.782
+Cocos (Keeling) Islands,INDEX,2020,0.779
+Cocos (Keeling) Islands,INDEX,2021,0.776
+Lao People's Democratic Republic,INDEX,2001,0.822
+Lao People's Democratic Republic,INDEX,2002,0.821
+Lao People's Democratic Republic,INDEX,2003,0.821
+Lao People's Democratic Republic,INDEX,2004,0.82
+Lao People's Democratic Republic,INDEX,2005,0.82
+Lao People's Democratic Republic,INDEX,2006,0.819
+Lao People's Democratic Republic,INDEX,2007,0.819
+Lao People's Democratic Republic,INDEX,2008,0.819
+Lao People's Democratic Republic,INDEX,2009,0.818
+Lao People's Democratic Republic,INDEX,2010,0.818
+Lao People's Democratic Republic,INDEX,2011,0.817
+Lao People's Democratic Republic,INDEX,2012,0.817
+Lao People's Democratic Republic,INDEX,2013,0.817
+Lao People's Democratic Republic,INDEX,2014,0.816
+Lao People's Democratic Republic,INDEX,2015,0.816
+Lao People's Democratic Republic,INDEX,2016,0.816
+Lao People's Democratic Republic,INDEX,2017,0.815
+Lao People's Democratic Republic,INDEX,2018,0.815
+Lao People's Democratic Republic,INDEX,2019,0.815
+Lao People's Democratic Republic,INDEX,2020,0.814
+Lao People's Democratic Republic,INDEX,2021,0.814
+Guinea-Bissau,INDEX,2001,0.92
+Guinea-Bissau,INDEX,2002,0.92
+Guinea-Bissau,INDEX,2003,0.92
+Guinea-Bissau,INDEX,2004,0.92
+Guinea-Bissau,INDEX,2005,0.92
+Guinea-Bissau,INDEX,2006,0.92
+Guinea-Bissau,INDEX,2007,0.919
+Guinea-Bissau,INDEX,2008,0.919
+Guinea-Bissau,INDEX,2009,0.919
+Guinea-Bissau,INDEX,2010,0.919
+Guinea-Bissau,INDEX,2011,0.919
+Guinea-Bissau,INDEX,2012,0.919
+Guinea-Bissau,INDEX,2013,0.919
+Guinea-Bissau,INDEX,2014,0.919
+Guinea-Bissau,INDEX,2015,0.919
+Guinea-Bissau,INDEX,2016,0.919
+Guinea-Bissau,INDEX,2017,0.919
+Guinea-Bissau,INDEX,2018,0.919
+Guinea-Bissau,INDEX,2019,0.919
+Guinea-Bissau,INDEX,2020,0.919
+Guinea-Bissau,INDEX,2021,0.919
+Niue,INDEX,2001,0.796
+Niue,INDEX,2002,0.812
+Niue,INDEX,2003,0.83
+Niue,INDEX,2004,0.841
+Niue,INDEX,2005,0.843
+Niue,INDEX,2006,0.843
+Niue,INDEX,2007,0.842
+Niue,INDEX,2008,0.84
+Niue,INDEX,2009,0.838
+Niue,INDEX,2010,0.836
+Niue,INDEX,2011,0.833
+Niue,INDEX,2012,0.832
+Niue,INDEX,2013,0.829
+Niue,INDEX,2014,0.827
+Niue,INDEX,2015,0.824
+Niue,INDEX,2016,0.822
+Niue,INDEX,2017,0.821
+Niue,INDEX,2018,0.817
+Niue,INDEX,2019,0.815
+Niue,INDEX,2020,0.814
+Niue,INDEX,2021,0.811
+British Indian Ocean Territory,INDEX,2001,0.88
+British Indian Ocean Territory,INDEX,2002,0.876
+British Indian Ocean Territory,INDEX,2003,0.871
+British Indian Ocean Territory,INDEX,2004,0.866
+British Indian Ocean Territory,INDEX,2005,0.861
+British Indian Ocean Territory,INDEX,2006,0.857
+British Indian Ocean Territory,INDEX,2007,0.854
+British Indian Ocean Territory,INDEX,2008,0.85
+British Indian Ocean Territory,INDEX,2009,0.846
+British Indian Ocean Territory,INDEX,2010,0.841
+British Indian Ocean Territory,INDEX,2011,0.837
+British Indian Ocean Territory,INDEX,2012,0.832
+British Indian Ocean Territory,INDEX,2013,0.827
+British Indian Ocean Territory,INDEX,2014,0.82
+British Indian Ocean Territory,INDEX,2015,0.816
+British Indian Ocean Territory,INDEX,2016,0.811
+British Indian Ocean Territory,INDEX,2017,0.806
+British Indian Ocean Territory,INDEX,2018,0.804
+British Indian Ocean Territory,INDEX,2019,0.797
+British Indian Ocean Territory,INDEX,2020,0.792
+British Indian Ocean Territory,INDEX,2021,0.787
+Mexico,INDEX,2001,0.721
+Mexico,INDEX,2002,0.719
+Mexico,INDEX,2003,0.716
+Mexico,INDEX,2004,0.714
+Mexico,INDEX,2005,0.712
+Mexico,INDEX,2006,0.709
+Mexico,INDEX,2007,0.707
+Mexico,INDEX,2008,0.705
+Mexico,INDEX,2009,0.703
+Mexico,INDEX,2010,0.701
+Mexico,INDEX,2011,0.699
+Mexico,INDEX,2012,0.696
+Mexico,INDEX,2013,0.694
+Mexico,INDEX,2014,0.691
+Mexico,INDEX,2015,0.689
+Mexico,INDEX,2016,0.687
+Mexico,INDEX,2017,0.684
+Mexico,INDEX,2018,0.682
+Mexico,INDEX,2019,0.679
+Mexico,INDEX,2020,0.677
+Mexico,INDEX,2021,0.675
+Monaco,INDEX,2001,0.755
+Monaco,INDEX,2002,0.755
+Monaco,INDEX,2003,0.756
+Monaco,INDEX,2004,0.756
+Monaco,INDEX,2005,0.756
+Monaco,INDEX,2006,0.757
+Monaco,INDEX,2007,0.756
+Monaco,INDEX,2008,0.756
+Monaco,INDEX,2009,0.756
+Monaco,INDEX,2010,0.756
+Monaco,INDEX,2011,0.756
+Monaco,INDEX,2012,0.755
+Monaco,INDEX,2013,0.755
+Monaco,INDEX,2014,0.755
+Monaco,INDEX,2015,0.754
+Monaco,INDEX,2016,0.753
+Monaco,INDEX,2017,0.752
+Monaco,INDEX,2018,0.751
+Monaco,INDEX,2019,0.751
+Monaco,INDEX,2020,0.75
+Monaco,INDEX,2021,0.75
+Bhutan,INDEX,2001,0.802
+Bhutan,INDEX,2002,0.801
+Bhutan,INDEX,2003,0.801
+Bhutan,INDEX,2004,0.801
+Bhutan,INDEX,2005,0.801
+Bhutan,INDEX,2006,0.801
+Bhutan,INDEX,2007,0.801
+Bhutan,INDEX,2008,0.801
+Bhutan,INDEX,2009,0.801
+Bhutan,INDEX,2010,0.801
+Bhutan,INDEX,2011,0.8
+Bhutan,INDEX,2012,0.8
+Bhutan,INDEX,2013,0.8
+Bhutan,INDEX,2014,0.8
+Bhutan,INDEX,2015,0.799
+Bhutan,INDEX,2016,0.799
+Bhutan,INDEX,2017,0.799
+Bhutan,INDEX,2018,0.799
+Bhutan,INDEX,2019,0.798
+Bhutan,INDEX,2020,0.798
+Bhutan,INDEX,2021,0.798
+Syrian Arab Republic,INDEX,2001,0.94
+Syrian Arab Republic,INDEX,2002,0.939
+Syrian Arab Republic,INDEX,2003,0.938
+Syrian Arab Republic,INDEX,2004,0.939
+Syrian Arab Republic,INDEX,2005,0.939
+Syrian Arab Republic,INDEX,2006,0.94
+Syrian Arab Republic,INDEX,2007,0.941
+Syrian Arab Republic,INDEX,2008,0.942
+Syrian Arab Republic,INDEX,2009,0.942
+Syrian Arab Republic,INDEX,2010,0.942
+Syrian Arab Republic,INDEX,2011,0.942
+Syrian Arab Republic,INDEX,2012,0.942
+Syrian Arab Republic,INDEX,2013,0.942
+Syrian Arab Republic,INDEX,2014,0.942
+Syrian Arab Republic,INDEX,2015,0.942
+Syrian Arab Republic,INDEX,2016,0.942
+Syrian Arab Republic,INDEX,2017,0.942
+Syrian Arab Republic,INDEX,2018,0.941
+Syrian Arab Republic,INDEX,2019,0.941
+Syrian Arab Republic,INDEX,2020,0.941
+Syrian Arab Republic,INDEX,2021,0.941
+Saint Martin,INDEX,2001,0.959
+Saint Martin,INDEX,2002,0.958
+Saint Martin,INDEX,2003,0.956
+Saint Martin,INDEX,2004,0.955
+Saint Martin,INDEX,2005,0.953
+Saint Martin,INDEX,2006,0.952
+Saint Martin,INDEX,2007,0.95
+Saint Martin,INDEX,2008,0.95
+Saint Martin,INDEX,2009,0.948
+Saint Martin,INDEX,2010,0.947
+Saint Martin,INDEX,2011,0.946
+Saint Martin,INDEX,2012,0.944
+Saint Martin,INDEX,2013,0.943
+Saint Martin,INDEX,2014,0.942
+Saint Martin,INDEX,2015,0.94
+Saint Martin,INDEX,2016,0.939
+Saint Martin,INDEX,2017,0.937
+Saint Martin,INDEX,2018,0.936
+Saint Martin,INDEX,2019,0.934
+Saint Martin,INDEX,2020,0.933
+Saint Martin,INDEX,2021,0.932
+Puerto Rico,INDEX,2001,0.728
+Puerto Rico,INDEX,2002,0.725
+Puerto Rico,INDEX,2003,0.723
+Puerto Rico,INDEX,2004,0.72
+Puerto Rico,INDEX,2005,0.717
+Puerto Rico,INDEX,2006,0.715
+Puerto Rico,INDEX,2007,0.712
+Puerto Rico,INDEX,2008,0.71
+Puerto Rico,INDEX,2009,0.707
+Puerto Rico,INDEX,2010,0.705
+Puerto Rico,INDEX,2011,0.702
+Puerto Rico,INDEX,2012,0.7
+Puerto Rico,INDEX,2013,0.697
+Puerto Rico,INDEX,2014,0.694
+Puerto Rico,INDEX,2015,0.692
+Puerto Rico,INDEX,2016,0.69
+Puerto Rico,INDEX,2017,0.687
+Puerto Rico,INDEX,2018,0.684
+Puerto Rico,INDEX,2019,0.682
+Puerto Rico,INDEX,2020,0.679
+Puerto Rico,INDEX,2021,0.676
+Denmark,INDEX,2001,0.976
+Denmark,INDEX,2002,0.976
+Denmark,INDEX,2003,0.976
+Denmark,INDEX,2004,0.976
+Denmark,INDEX,2005,0.976
+Denmark,INDEX,2006,0.975
+Denmark,INDEX,2007,0.976
+Denmark,INDEX,2008,0.976
+Denmark,INDEX,2009,0.976
+Denmark,INDEX,2010,0.976
+Denmark,INDEX,2011,0.976
+Denmark,INDEX,2012,0.975
+Denmark,INDEX,2013,0.975
+Denmark,INDEX,2014,0.975
+Denmark,INDEX,2015,0.974
+Denmark,INDEX,2016,0.974
+Denmark,INDEX,2017,0.974
+Denmark,INDEX,2018,0.974
+Denmark,INDEX,2019,0.974
+Denmark,INDEX,2020,0.974
+Denmark,INDEX,2021,0.974
+Maldives,INDEX,2001,0.919
+Maldives,INDEX,2002,0.915
+Maldives,INDEX,2003,0.911
+Maldives,INDEX,2004,0.907
+Maldives,INDEX,2005,0.903
+Maldives,INDEX,2006,0.899
+Maldives,INDEX,2007,0.898
+Maldives,INDEX,2008,0.894
+Maldives,INDEX,2009,0.892
+Maldives,INDEX,2010,0.889
+Maldives,INDEX,2011,0.886
+Maldives,INDEX,2012,0.88
+Maldives,INDEX,2013,0.874
+Maldives,INDEX,2014,0.871
+Maldives,INDEX,2015,0.866
+Maldives,INDEX,2016,0.861
+Maldives,INDEX,2017,0.857
+Maldives,INDEX,2018,0.851
+Maldives,INDEX,2019,0.847
+Maldives,INDEX,2020,0.844
+Maldives,INDEX,2021,0.84
+Seychelles,INDEX,2001,0.723
+Seychelles,INDEX,2002,0.72
+Seychelles,INDEX,2003,0.717
+Seychelles,INDEX,2004,0.715
+Seychelles,INDEX,2005,0.713
+Seychelles,INDEX,2006,0.711
+Seychelles,INDEX,2007,0.71
+Seychelles,INDEX,2008,0.708
+Seychelles,INDEX,2009,0.707
+Seychelles,INDEX,2010,0.704
+Seychelles,INDEX,2011,0.701
+Seychelles,INDEX,2012,0.699
+Seychelles,INDEX,2013,0.696
+Seychelles,INDEX,2014,0.694
+Seychelles,INDEX,2015,0.689
+Seychelles,INDEX,2016,0.685
+Seychelles,INDEX,2017,0.682
+Seychelles,INDEX,2018,0.678
+Seychelles,INDEX,2019,0.674
+Seychelles,INDEX,2020,0.669
+Seychelles,INDEX,2021,0.667
+Armenia,INDEX,2001,0.839
+Armenia,INDEX,2002,0.838
+Armenia,INDEX,2003,0.838
+Armenia,INDEX,2004,0.836
+Armenia,INDEX,2005,0.834
+Armenia,INDEX,2006,0.832
+Armenia,INDEX,2007,0.829
+Armenia,INDEX,2008,0.829
+Armenia,INDEX,2009,0.829
+Armenia,INDEX,2010,0.829
+Armenia,INDEX,2011,0.829
+Armenia,INDEX,2012,0.829
+Armenia,INDEX,2013,0.829
+Armenia,INDEX,2014,0.829
+Armenia,INDEX,2015,0.829
+Armenia,INDEX,2016,0.829
+Armenia,INDEX,2017,0.829
+Armenia,INDEX,2018,0.829
+Armenia,INDEX,2019,0.829
+Armenia,INDEX,2020,0.829
+Armenia,INDEX,2021,0.829
+Uganda,INDEX,2001,0.807
+Uganda,INDEX,2002,0.805
+Uganda,INDEX,2003,0.802
+Uganda,INDEX,2004,0.8
+Uganda,INDEX,2005,0.796
+Uganda,INDEX,2006,0.794
+Uganda,INDEX,2007,0.791
+Uganda,INDEX,2008,0.787
+Uganda,INDEX,2009,0.784
+Uganda,INDEX,2010,0.782
+Uganda,INDEX,2011,0.778
+Uganda,INDEX,2012,0.775
+Uganda,INDEX,2013,0.772
+Uganda,INDEX,2014,0.77
+Uganda,INDEX,2015,0.767
+Uganda,INDEX,2016,0.764
+Uganda,INDEX,2017,0.761
+Uganda,INDEX,2018,0.758
+Uganda,INDEX,2019,0.755
+Uganda,INDEX,2020,0.752
+Uganda,INDEX,2021,0.749
+Central African Republic,INDEX,2001,0.936
+Central African Republic,INDEX,2002,0.936
+Central African Republic,INDEX,2003,0.936
+Central African Republic,INDEX,2004,0.936
+Central African Republic,INDEX,2005,0.936
+Central African Republic,INDEX,2006,0.936
+Central African Republic,INDEX,2007,0.936
+Central African Republic,INDEX,2008,0.936
+Central African Republic,INDEX,2009,0.936
+Central African Republic,INDEX,2010,0.936
+Central African Republic,INDEX,2011,0.936
+Central African Republic,INDEX,2012,0.936
+Central African Republic,INDEX,2013,0.936
+Central African Republic,INDEX,2014,0.936
+Central African Republic,INDEX,2015,0.936
+Central African Republic,INDEX,2016,0.936
+Central African Republic,INDEX,2017,0.936
+Central African Republic,INDEX,2018,0.936
+Central African Republic,INDEX,2019,0.936
+Central African Republic,INDEX,2020,0.936
+Central African Republic,INDEX,2021,0.936
+Kazakhstan,INDEX,2001,0.878
+Kazakhstan,INDEX,2002,0.877
+Kazakhstan,INDEX,2003,0.876
+Kazakhstan,INDEX,2004,0.876
+Kazakhstan,INDEX,2005,0.875
+Kazakhstan,INDEX,2006,0.875
+Kazakhstan,INDEX,2007,0.874
+Kazakhstan,INDEX,2008,0.874
+Kazakhstan,INDEX,2009,0.873
+Kazakhstan,INDEX,2010,0.873
+Kazakhstan,INDEX,2011,0.872
+Kazakhstan,INDEX,2012,0.872
+Kazakhstan,INDEX,2013,0.871
+Kazakhstan,INDEX,2014,0.871
+Kazakhstan,INDEX,2015,0.87
+Kazakhstan,INDEX,2016,0.87
+Kazakhstan,INDEX,2017,0.869
+Kazakhstan,INDEX,2018,0.869
+Kazakhstan,INDEX,2019,0.868
+Kazakhstan,INDEX,2020,0.868
+Kazakhstan,INDEX,2021,0.867
+Dominica,INDEX,2001,0.705
+Dominica,INDEX,2002,0.703
+Dominica,INDEX,2003,0.701
+Dominica,INDEX,2004,0.698
+Dominica,INDEX,2005,0.696
+Dominica,INDEX,2006,0.694
+Dominica,INDEX,2007,0.692
+Dominica,INDEX,2008,0.69
+Dominica,INDEX,2009,0.688
+Dominica,INDEX,2010,0.685
+Dominica,INDEX,2011,0.683
+Dominica,INDEX,2012,0.681
+Dominica,INDEX,2013,0.679
+Dominica,INDEX,2014,0.677
+Dominica,INDEX,2015,0.675
+Dominica,INDEX,2016,0.673
+Dominica,INDEX,2017,0.67
+Dominica,INDEX,2018,0.668
+Dominica,INDEX,2019,0.666
+Dominica,INDEX,2020,0.664
+Dominica,INDEX,2021,0.662
+Grenada,INDEX,2001,0.706
+Grenada,INDEX,2002,0.705
+Grenada,INDEX,2003,0.704
+Grenada,INDEX,2004,0.703
+Grenada,INDEX,2005,0.702
+Grenada,INDEX,2006,0.701
+Grenada,INDEX,2007,0.7
+Grenada,INDEX,2008,0.699
+Grenada,INDEX,2009,0.698
+Grenada,INDEX,2010,0.696
+Grenada,INDEX,2011,0.695
+Grenada,INDEX,2012,0.694
+Grenada,INDEX,2013,0.693
+Grenada,INDEX,2014,0.692
+Grenada,INDEX,2015,0.691
+Grenada,INDEX,2016,0.689
+Grenada,INDEX,2017,0.688
+Grenada,INDEX,2018,0.686
+Grenada,INDEX,2019,0.686
+Grenada,INDEX,2020,0.684
+Grenada,INDEX,2021,0.683
+Cabo Verde,INDEX,2001,0.898
+Cabo Verde,INDEX,2002,0.898
+Cabo Verde,INDEX,2003,0.898
+Cabo Verde,INDEX,2004,0.899
+Cabo Verde,INDEX,2005,0.9
+Cabo Verde,INDEX,2006,0.901
+Cabo Verde,INDEX,2007,0.901
+Cabo Verde,INDEX,2008,0.902
+Cabo Verde,INDEX,2009,0.902
+Cabo Verde,INDEX,2010,0.903
+Cabo Verde,INDEX,2011,0.904
+Cabo Verde,INDEX,2012,0.904
+Cabo Verde,INDEX,2013,0.904
+Cabo Verde,INDEX,2014,0.904
+Cabo Verde,INDEX,2015,0.904
+Cabo Verde,INDEX,2016,0.905
+Cabo Verde,INDEX,2017,0.905
+Cabo Verde,INDEX,2018,0.905
+Cabo Verde,INDEX,2019,0.905
+Cabo Verde,INDEX,2020,0.905
+Cabo Verde,INDEX,2021,0.905
+Jamaica,INDEX,2001,0.697
+Jamaica,INDEX,2002,0.695
+Jamaica,INDEX,2003,0.693
+Jamaica,INDEX,2004,0.692
+Jamaica,INDEX,2005,0.69
+Jamaica,INDEX,2006,0.688
+Jamaica,INDEX,2007,0.687
+Jamaica,INDEX,2008,0.685
+Jamaica,INDEX,2009,0.683
+Jamaica,INDEX,2010,0.682
+Jamaica,INDEX,2011,0.681
+Jamaica,INDEX,2012,0.679
+Jamaica,INDEX,2013,0.677
+Jamaica,INDEX,2014,0.676
+Jamaica,INDEX,2015,0.674
+Jamaica,INDEX,2016,0.672
+Jamaica,INDEX,2017,0.67
+Jamaica,INDEX,2018,0.669
+Jamaica,INDEX,2019,0.667
+Jamaica,INDEX,2020,0.665
+Jamaica,INDEX,2021,0.663
+Mayotte,INDEX,2001,0.942
+Mayotte,INDEX,2002,0.938
+Mayotte,INDEX,2003,0.933
+Mayotte,INDEX,2004,0.929
+Mayotte,INDEX,2005,0.924
+Mayotte,INDEX,2006,0.92
+Mayotte,INDEX,2007,0.916
+Mayotte,INDEX,2008,0.911
+Mayotte,INDEX,2009,0.909
+Mayotte,INDEX,2010,0.904
+Mayotte,INDEX,2011,0.901
+Mayotte,INDEX,2012,0.896
+Mayotte,INDEX,2013,0.892
+Mayotte,INDEX,2014,0.886
+Mayotte,INDEX,2015,0.881
+Mayotte,INDEX,2016,0.876
+Mayotte,INDEX,2017,0.872
+Mayotte,INDEX,2018,0.867
+Mayotte,INDEX,2019,0.862
+Mayotte,INDEX,2020,0.858
+Mayotte,INDEX,2021,0.853
+Sri Lanka,INDEX,2001,0.635
+Sri Lanka,INDEX,2002,0.632
+Sri Lanka,INDEX,2003,0.629
+Sri Lanka,INDEX,2004,0.625
+Sri Lanka,INDEX,2005,0.622
+Sri Lanka,INDEX,2006,0.618
+Sri Lanka,INDEX,2007,0.615
+Sri Lanka,INDEX,2008,0.612
+Sri Lanka,INDEX,2009,0.608
+Sri Lanka,INDEX,2010,0.605
+Sri Lanka,INDEX,2011,0.601
+Sri Lanka,INDEX,2012,0.598
+Sri Lanka,INDEX,2013,0.595
+Sri Lanka,INDEX,2014,0.591
+Sri Lanka,INDEX,2015,0.588
+Sri Lanka,INDEX,2016,0.584
+Sri Lanka,INDEX,2017,0.58
+Sri Lanka,INDEX,2018,0.578
+Sri Lanka,INDEX,2019,0.573
+Sri Lanka,INDEX,2020,0.57
+Sri Lanka,INDEX,2021,0.566
+United States,INDEX,2001,0.848
+United States,INDEX,2002,0.847
+United States,INDEX,2003,0.846
+United States,INDEX,2004,0.845
+United States,INDEX,2005,0.844
+United States,INDEX,2006,0.843
+United States,INDEX,2007,0.842
+United States,INDEX,2008,0.841
+United States,INDEX,2009,0.84
+United States,INDEX,2010,0.839
+United States,INDEX,2011,0.839
+United States,INDEX,2012,0.838
+United States,INDEX,2013,0.837
+United States,INDEX,2014,0.837
+United States,INDEX,2015,0.836
+United States,INDEX,2016,0.835
+United States,INDEX,2017,0.835
+United States,INDEX,2018,0.834
+United States,INDEX,2019,0.833
+United States,INDEX,2020,0.833
+United States,INDEX,2021,0.832
+Antigua and Barbuda,INDEX,2001,0.928
+Antigua and Barbuda,INDEX,2002,0.926
+Antigua and Barbuda,INDEX,2003,0.923
+Antigua and Barbuda,INDEX,2004,0.921
+Antigua and Barbuda,INDEX,2005,0.919
+Antigua and Barbuda,INDEX,2006,0.917
+Antigua and Barbuda,INDEX,2007,0.915
+Antigua and Barbuda,INDEX,2008,0.913
+Antigua and Barbuda,INDEX,2009,0.912
+Antigua and Barbuda,INDEX,2010,0.909
+Antigua and Barbuda,INDEX,2011,0.907
+Antigua and Barbuda,INDEX,2012,0.904
+Antigua and Barbuda,INDEX,2013,0.902
+Antigua and Barbuda,INDEX,2014,0.9
+Antigua and Barbuda,INDEX,2015,0.898
+Antigua and Barbuda,INDEX,2016,0.896
+Antigua and Barbuda,INDEX,2017,0.894
+Antigua and Barbuda,INDEX,2018,0.892
+Antigua and Barbuda,INDEX,2019,0.89
+Antigua and Barbuda,INDEX,2020,0.887
+Antigua and Barbuda,INDEX,2021,0.885
+Lithuania,INDEX,2001,0.989
+Lithuania,INDEX,2002,0.989
+Lithuania,INDEX,2003,0.989
+Lithuania,INDEX,2004,0.989
+Lithuania,INDEX,2005,0.989
+Lithuania,INDEX,2006,0.989
+Lithuania,INDEX,2007,0.989
+Lithuania,INDEX,2008,0.989
+Lithuania,INDEX,2009,0.989
+Lithuania,INDEX,2010,0.989
+Lithuania,INDEX,2011,0.989
+Lithuania,INDEX,2012,0.989
+Lithuania,INDEX,2013,0.989
+Lithuania,INDEX,2014,0.989
+Lithuania,INDEX,2015,0.989
+Lithuania,INDEX,2016,0.989
+Lithuania,INDEX,2017,0.989
+Lithuania,INDEX,2018,0.989
+Lithuania,INDEX,2019,0.989
+Lithuania,INDEX,2020,0.989
+Lithuania,INDEX,2021,0.989
+French Guiana,INDEX,2001,0.946
+French Guiana,INDEX,2002,0.946
+French Guiana,INDEX,2003,0.945
+French Guiana,INDEX,2004,0.945
+French Guiana,INDEX,2005,0.945
+French Guiana,INDEX,2006,0.945
+French Guiana,INDEX,2007,0.944
+French Guiana,INDEX,2008,0.943
+French Guiana,INDEX,2009,0.943
+French Guiana,INDEX,2010,0.942
+French Guiana,INDEX,2011,0.941
+French Guiana,INDEX,2012,0.94
+French Guiana,INDEX,2013,0.94
+French Guiana,INDEX,2014,0.939
+French Guiana,INDEX,2015,0.939
+French Guiana,INDEX,2016,0.938
+French Guiana,INDEX,2017,0.938
+French Guiana,INDEX,2018,0.938
+French Guiana,INDEX,2019,0.937
+French Guiana,INDEX,2020,0.937
+French Guiana,INDEX,2021,0.937
+San Marino,INDEX,2001,0.985
+San Marino,INDEX,2002,0.984
+San Marino,INDEX,2003,0.984
+San Marino,INDEX,2004,0.984
+San Marino,INDEX,2005,0.984
+San Marino,INDEX,2006,0.984
+San Marino,INDEX,2007,0.984
+San Marino,INDEX,2008,0.984
+San Marino,INDEX,2009,0.985
+San Marino,INDEX,2010,0.985
+San Marino,INDEX,2011,0.985
+San Marino,INDEX,2012,0.985
+San Marino,INDEX,2013,0.985
+San Marino,INDEX,2014,0.985
+San Marino,INDEX,2015,0.985
+San Marino,INDEX,2016,0.985
+San Marino,INDEX,2017,0.985
+San Marino,INDEX,2018,0.985
+San Marino,INDEX,2019,0.985
+San Marino,INDEX,2020,0.985
+San Marino,INDEX,2021,0.985
+Trinidad and Tobago,INDEX,2001,0.832
+Trinidad and Tobago,INDEX,2002,0.831
+Trinidad and Tobago,INDEX,2003,0.829
+Trinidad and Tobago,INDEX,2004,0.828
+Trinidad and Tobago,INDEX,2005,0.826
+Trinidad and Tobago,INDEX,2006,0.825
+Trinidad and Tobago,INDEX,2007,0.823
+Trinidad and Tobago,INDEX,2008,0.822
+Trinidad and Tobago,INDEX,2009,0.821
+Trinidad and Tobago,INDEX,2010,0.819
+Trinidad and Tobago,INDEX,2011,0.818
+Trinidad and Tobago,INDEX,2012,0.817
+Trinidad and Tobago,INDEX,2013,0.815
+Trinidad and Tobago,INDEX,2014,0.813
+Trinidad and Tobago,INDEX,2015,0.812
+Trinidad and Tobago,INDEX,2016,0.811
+Trinidad and Tobago,INDEX,2017,0.808
+Trinidad and Tobago,INDEX,2018,0.807
+Trinidad and Tobago,INDEX,2019,0.806
+Trinidad and Tobago,INDEX,2020,0.804
+Trinidad and Tobago,INDEX,2021,0.803
+Pitcairn,INDEX,2001,0.805
+Pitcairn,INDEX,2002,0.8
+Pitcairn,INDEX,2003,0.796
+Pitcairn,INDEX,2004,0.792
+Pitcairn,INDEX,2005,0.787
+Pitcairn,INDEX,2006,0.784
+Pitcairn,INDEX,2007,0.779
+Pitcairn,INDEX,2008,0.775
+Pitcairn,INDEX,2009,0.771
+Pitcairn,INDEX,2010,0.769
+Pitcairn,INDEX,2011,0.764
+Pitcairn,INDEX,2012,0.759
+Pitcairn,INDEX,2013,0.755
+Pitcairn,INDEX,2014,0.75
+Pitcairn,INDEX,2015,0.746
+Pitcairn,INDEX,2016,0.741
+Pitcairn,INDEX,2017,0.737
+Pitcairn,INDEX,2018,0.731
+Pitcairn,INDEX,2019,0.728
+Pitcairn,INDEX,2020,0.725
+Pitcairn,INDEX,2021,0.719
+Canada,INDEX,2001,0.969
+Canada,INDEX,2002,0.969
+Canada,INDEX,2003,0.968
+Canada,INDEX,2004,0.968
+Canada,INDEX,2005,0.968
+Canada,INDEX,2006,0.967
+Canada,INDEX,2007,0.967
+Canada,INDEX,2008,0.967
+Canada,INDEX,2009,0.967
+Canada,INDEX,2010,0.966
+Canada,INDEX,2011,0.966
+Canada,INDEX,2012,0.966
+Canada,INDEX,2013,0.966
+Canada,INDEX,2014,0.965
+Canada,INDEX,2015,0.965
+Canada,INDEX,2016,0.965
+Canada,INDEX,2017,0.965
+Canada,INDEX,2018,0.964
+Canada,INDEX,2019,0.964
+Canada,INDEX,2020,0.964
+Canada,INDEX,2021,0.964
+Cuba,INDEX,2001,0.685
+Cuba,INDEX,2002,0.684
+Cuba,INDEX,2003,0.683
+Cuba,INDEX,2004,0.682
+Cuba,INDEX,2005,0.681
+Cuba,INDEX,2006,0.679
+Cuba,INDEX,2007,0.678
+Cuba,INDEX,2008,0.677
+Cuba,INDEX,2009,0.676
+Cuba,INDEX,2010,0.674
+Cuba,INDEX,2011,0.673
+Cuba,INDEX,2012,0.672
+Cuba,INDEX,2013,0.671
+Cuba,INDEX,2014,0.67
+Cuba,INDEX,2015,0.669
+Cuba,INDEX,2016,0.667
+Cuba,INDEX,2017,0.666
+Cuba,INDEX,2018,0.665
+Cuba,INDEX,2019,0.664
+Cuba,INDEX,2020,0.663
+Cuba,INDEX,2021,0.662
+Zimbabwe,INDEX,2001,0.8
+Zimbabwe,INDEX,2002,0.799
+Zimbabwe,INDEX,2003,0.799
+Zimbabwe,INDEX,2004,0.798
+Zimbabwe,INDEX,2005,0.798
+Zimbabwe,INDEX,2006,0.798
+Zimbabwe,INDEX,2007,0.797
+Zimbabwe,INDEX,2008,0.797
+Zimbabwe,INDEX,2009,0.796
+Zimbabwe,INDEX,2010,0.796
+Zimbabwe,INDEX,2011,0.796
+Zimbabwe,INDEX,2012,0.795
+Zimbabwe,INDEX,2013,0.795
+Zimbabwe,INDEX,2014,0.794
+Zimbabwe,INDEX,2015,0.794
+Zimbabwe,INDEX,2016,0.793
+Zimbabwe,INDEX,2017,0.793
+Zimbabwe,INDEX,2018,0.793
+Zimbabwe,INDEX,2019,0.792
+Zimbabwe,INDEX,2020,0.792
+Zimbabwe,INDEX,2021,0.792
+Bulgaria,INDEX,2001,0.936
+Bulgaria,INDEX,2002,0.936
+Bulgaria,INDEX,2003,0.936
+Bulgaria,INDEX,2004,0.936
+Bulgaria,INDEX,2005,0.936
+Bulgaria,INDEX,2006,0.936
+Bulgaria,INDEX,2007,0.936
+Bulgaria,INDEX,2008,0.936
+Bulgaria,INDEX,2009,0.936
+Bulgaria,INDEX,2010,0.936
+Bulgaria,INDEX,2011,0.936
+Bulgaria,INDEX,2012,0.936
+Bulgaria,INDEX,2013,0.936
+Bulgaria,INDEX,2014,0.936
+Bulgaria,INDEX,2015,0.936
+Bulgaria,INDEX,2016,0.936
+Bulgaria,INDEX,2017,0.936
+Bulgaria,INDEX,2018,0.936
+Bulgaria,INDEX,2019,0.936
+Bulgaria,INDEX,2020,0.936
+Bulgaria,INDEX,2021,0.936
+Tokelau,INDEX,2001,0.894
+Tokelau,INDEX,2002,0.891
+Tokelau,INDEX,2003,0.888
+Tokelau,INDEX,2004,0.885
+Tokelau,INDEX,2005,0.883
+Tokelau,INDEX,2006,0.881
+Tokelau,INDEX,2007,0.879
+Tokelau,INDEX,2008,0.876
+Tokelau,INDEX,2009,0.875
+Tokelau,INDEX,2010,0.873
+Tokelau,INDEX,2011,0.87
+Tokelau,INDEX,2012,0.867
+Tokelau,INDEX,2013,0.864
+Tokelau,INDEX,2014,0.862
+Tokelau,INDEX,2015,0.858
+Tokelau,INDEX,2016,0.856
+Tokelau,INDEX,2017,0.854
+Tokelau,INDEX,2018,0.851
+Tokelau,INDEX,2019,0.849
+Tokelau,INDEX,2020,0.847
+Tokelau,INDEX,2021,0.844
+Indonesia,INDEX,2001,0.836
+Indonesia,INDEX,2002,0.831
+Indonesia,INDEX,2003,0.828
+Indonesia,INDEX,2004,0.824
+Indonesia,INDEX,2005,0.82
+Indonesia,INDEX,2006,0.816
+Indonesia,INDEX,2007,0.812
+Indonesia,INDEX,2008,0.808
+Indonesia,INDEX,2009,0.805
+Indonesia,INDEX,2010,0.802
+Indonesia,INDEX,2011,0.797
+Indonesia,INDEX,2012,0.793
+Indonesia,INDEX,2013,0.789
+Indonesia,INDEX,2014,0.785
+Indonesia,INDEX,2015,0.781
+Indonesia,INDEX,2016,0.776
+Indonesia,INDEX,2017,0.772
+Indonesia,INDEX,2018,0.769
+Indonesia,INDEX,2019,0.765
+Indonesia,INDEX,2020,0.76
+Indonesia,INDEX,2021,0.756
+Malta,INDEX,2001,0.878
+Malta,INDEX,2002,0.876
+Malta,INDEX,2003,0.874
+Malta,INDEX,2004,0.872
+Malta,INDEX,2005,0.872
+Malta,INDEX,2006,0.872
+Malta,INDEX,2007,0.872
+Malta,INDEX,2008,0.872
+Malta,INDEX,2009,0.872
+Malta,INDEX,2010,0.872
+Malta,INDEX,2011,0.872
+Malta,INDEX,2012,0.872
+Malta,INDEX,2013,0.872
+Malta,INDEX,2014,0.872
+Malta,INDEX,2015,0.872
+Malta,INDEX,2016,0.872
+Malta,INDEX,2017,0.872
+Malta,INDEX,2018,0.872
+Malta,INDEX,2019,0.872
+Malta,INDEX,2020,0.872
+Malta,INDEX,2021,0.872
+Gibraltar,INDEX,2001,0.951
+Gibraltar,INDEX,2002,0.951
+Gibraltar,INDEX,2003,0.951
+Gibraltar,INDEX,2004,0.95
+Gibraltar,INDEX,2005,0.95
+Gibraltar,INDEX,2006,0.949
+Gibraltar,INDEX,2007,0.949
+Gibraltar,INDEX,2008,0.948
+Gibraltar,INDEX,2009,0.947
+Gibraltar,INDEX,2010,0.946
+Gibraltar,INDEX,2011,0.946
+Gibraltar,INDEX,2012,0.945
+Gibraltar,INDEX,2013,0.943
+Gibraltar,INDEX,2014,0.942
+Gibraltar,INDEX,2015,0.94
+Gibraltar,INDEX,2016,0.939
+Gibraltar,INDEX,2017,0.937
+Gibraltar,INDEX,2018,0.936
+Gibraltar,INDEX,2019,0.934
+Gibraltar,INDEX,2020,0.933
+Gibraltar,INDEX,2021,0.931
+Singapore,INDEX,2001,0.903
+Singapore,INDEX,2002,0.898
+Singapore,INDEX,2003,0.896
+Singapore,INDEX,2004,0.893
+Singapore,INDEX,2005,0.896
+Singapore,INDEX,2006,0.895
+Singapore,INDEX,2007,0.893
+Singapore,INDEX,2008,0.892
+Singapore,INDEX,2009,0.889
+Singapore,INDEX,2010,0.886
+Singapore,INDEX,2011,0.882
+Singapore,INDEX,2012,0.878
+Singapore,INDEX,2013,0.877
+Singapore,INDEX,2014,0.87
+Singapore,INDEX,2015,0.866
+Singapore,INDEX,2016,0.864
+Singapore,INDEX,2017,0.859
+Singapore,INDEX,2018,0.856
+Singapore,INDEX,2019,0.85
+Singapore,INDEX,2020,0.846
+Singapore,INDEX,2021,0.845
+Nauru,INDEX,2001,0.834
+Nauru,INDEX,2002,0.83
+Nauru,INDEX,2003,0.827
+Nauru,INDEX,2004,0.824
+Nauru,INDEX,2005,0.82
+Nauru,INDEX,2006,0.817
+Nauru,INDEX,2007,0.813
+Nauru,INDEX,2008,0.81
+Nauru,INDEX,2009,0.807
+Nauru,INDEX,2010,0.805
+Nauru,INDEX,2011,0.8
+Nauru,INDEX,2012,0.797
+Nauru,INDEX,2013,0.794
+Nauru,INDEX,2014,0.789
+Nauru,INDEX,2015,0.787
+Nauru,INDEX,2016,0.782
+Nauru,INDEX,2017,0.78
+Nauru,INDEX,2018,0.777
+Nauru,INDEX,2019,0.773
+Nauru,INDEX,2020,0.771
+Nauru,INDEX,2021,0.765
+Spain,INDEX,2001,0.849
+Spain,INDEX,2002,0.849
+Spain,INDEX,2003,0.849
+Spain,INDEX,2004,0.849
+Spain,INDEX,2005,0.849
+Spain,INDEX,2006,0.849
+Spain,INDEX,2007,0.849
+Spain,INDEX,2008,0.848
+Spain,INDEX,2009,0.849
+Spain,INDEX,2010,0.848
+Spain,INDEX,2011,0.849
+Spain,INDEX,2012,0.849
+Spain,INDEX,2013,0.848
+Spain,INDEX,2014,0.848
+Spain,INDEX,2015,0.848
+Spain,INDEX,2016,0.848
+Spain,INDEX,2017,0.848
+Spain,INDEX,2018,0.847
+Spain,INDEX,2019,0.847
+Spain,INDEX,2020,0.847
+Spain,INDEX,2021,0.846
+Saint Vincent and the Grenadines,INDEX,2001,0.776
+Saint Vincent and the Grenadines,INDEX,2002,0.775
+Saint Vincent and the Grenadines,INDEX,2003,0.773
+Saint Vincent and the Grenadines,INDEX,2004,0.772
+Saint Vincent and the Grenadines,INDEX,2005,0.771
+Saint Vincent and the Grenadines,INDEX,2006,0.77
+Saint Vincent and the Grenadines,INDEX,2007,0.77
+Saint Vincent and the Grenadines,INDEX,2008,0.769
+Saint Vincent and the Grenadines,INDEX,2009,0.768
+Saint Vincent and the Grenadines,INDEX,2010,0.767
+Saint Vincent and the Grenadines,INDEX,2011,0.766
+Saint Vincent and the Grenadines,INDEX,2012,0.765
+Saint Vincent and the Grenadines,INDEX,2013,0.764
+Saint Vincent and the Grenadines,INDEX,2014,0.763
+Saint Vincent and the Grenadines,INDEX,2015,0.762
+Saint Vincent and the Grenadines,INDEX,2016,0.761
+Saint Vincent and the Grenadines,INDEX,2017,0.759
+Saint Vincent and the Grenadines,INDEX,2018,0.758
+Saint Vincent and the Grenadines,INDEX,2019,0.757
+Saint Vincent and the Grenadines,INDEX,2020,0.756
+Saint Vincent and the Grenadines,INDEX,2021,0.755
+Algeria,INDEX,2001,0.911
+Algeria,INDEX,2002,0.911
+Algeria,INDEX,2003,0.91
+Algeria,INDEX,2004,0.91
+Algeria,INDEX,2005,0.91
+Algeria,INDEX,2006,0.91
+Algeria,INDEX,2007,0.91
+Algeria,INDEX,2008,0.911
+Algeria,INDEX,2009,0.911
+Algeria,INDEX,2010,0.911
+Algeria,INDEX,2011,0.911
+Algeria,INDEX,2012,0.911
+Algeria,INDEX,2013,0.91
+Algeria,INDEX,2014,0.91
+Algeria,INDEX,2015,0.91
+Algeria,INDEX,2016,0.91
+Algeria,INDEX,2017,0.91
+Algeria,INDEX,2018,0.91
+Algeria,INDEX,2019,0.91
+Algeria,INDEX,2020,0.909
+Algeria,INDEX,2021,0.909
+Estonia,INDEX,2001,0.987
+Estonia,INDEX,2002,0.987
+Estonia,INDEX,2003,0.987
+Estonia,INDEX,2004,0.987
+Estonia,INDEX,2005,0.986
+Estonia,INDEX,2006,0.986
+Estonia,INDEX,2007,0.986
+Estonia,INDEX,2008,0.986
+Estonia,INDEX,2009,0.986
+Estonia,INDEX,2010,0.986
+Estonia,INDEX,2011,0.986
+Estonia,INDEX,2012,0.986
+Estonia,INDEX,2013,0.986
+Estonia,INDEX,2014,0.986
+Estonia,INDEX,2015,0.986
+Estonia,INDEX,2016,0.986
+Estonia,INDEX,2017,0.986
+Estonia,INDEX,2018,0.986
+Estonia,INDEX,2019,0.986
+Estonia,INDEX,2020,0.986
+Estonia,INDEX,2021,0.986
+Côte d'Ivoire,INDEX,2001,0.901
+Côte d'Ivoire,INDEX,2002,0.901
+Côte d'Ivoire,INDEX,2003,0.901
+Côte d'Ivoire,INDEX,2004,0.902
+Côte d'Ivoire,INDEX,2005,0.901
+Côte d'Ivoire,INDEX,2006,0.902
+Côte d'Ivoire,INDEX,2007,0.902
+Côte d'Ivoire,INDEX,2008,0.902
+Côte d'Ivoire,INDEX,2009,0.901
+Côte d'Ivoire,INDEX,2010,0.901
+Côte d'Ivoire,INDEX,2011,0.902
+Côte d'Ivoire,INDEX,2012,0.901
+Côte d'Ivoire,INDEX,2013,0.901
+Côte d'Ivoire,INDEX,2014,0.901
+Côte d'Ivoire,INDEX,2015,0.901
+Côte d'Ivoire,INDEX,2016,0.901
+Côte d'Ivoire,INDEX,2017,0.901
+Côte d'Ivoire,INDEX,2018,0.901
+Côte d'Ivoire,INDEX,2019,0.901
+Côte d'Ivoire,INDEX,2020,0.901
+Côte d'Ivoire,INDEX,2021,0.901
+Panama,INDEX,2001,0.749
+Panama,INDEX,2002,0.748
+Panama,INDEX,2003,0.746
+Panama,INDEX,2004,0.745
+Panama,INDEX,2005,0.744
+Panama,INDEX,2006,0.743
+Panama,INDEX,2007,0.742
+Panama,INDEX,2008,0.742
+Panama,INDEX,2009,0.74
+Panama,INDEX,2010,0.74
+Panama,INDEX,2011,0.738
+Panama,INDEX,2012,0.738
+Panama,INDEX,2013,0.736
+Panama,INDEX,2014,0.736
+Panama,INDEX,2015,0.735
+Panama,INDEX,2016,0.734
+Panama,INDEX,2017,0.733
+Panama,INDEX,2018,0.731
+Panama,INDEX,2019,0.731
+Panama,INDEX,2020,0.73
+Panama,INDEX,2021,0.729
+Libya,INDEX,2001,0.97
+Libya,INDEX,2002,0.969
+Libya,INDEX,2003,0.969
+Libya,INDEX,2004,0.968
+Libya,INDEX,2005,0.968
+Libya,INDEX,2006,0.968
+Libya,INDEX,2007,0.968
+Libya,INDEX,2008,0.968
+Libya,INDEX,2009,0.968
+Libya,INDEX,2010,0.968
+Libya,INDEX,2011,0.968
+Libya,INDEX,2012,0.968
+Libya,INDEX,2013,0.968
+Libya,INDEX,2014,0.968
+Libya,INDEX,2015,0.968
+Libya,INDEX,2016,0.968
+Libya,INDEX,2017,0.968
+Libya,INDEX,2018,0.968
+Libya,INDEX,2019,0.968
+Libya,INDEX,2020,0.968
+Libya,INDEX,2021,0.968
+Viet Nam,INDEX,2001,0.79
+Viet Nam,INDEX,2002,0.786
+Viet Nam,INDEX,2003,0.782
+Viet Nam,INDEX,2004,0.779
+Viet Nam,INDEX,2005,0.774
+Viet Nam,INDEX,2006,0.771
+Viet Nam,INDEX,2007,0.767
+Viet Nam,INDEX,2008,0.764
+Viet Nam,INDEX,2009,0.76
+Viet Nam,INDEX,2010,0.757
+Viet Nam,INDEX,2011,0.753
+Viet Nam,INDEX,2012,0.749
+Viet Nam,INDEX,2013,0.745
+Viet Nam,INDEX,2014,0.742
+Viet Nam,INDEX,2015,0.739
+Viet Nam,INDEX,2016,0.735
+Viet Nam,INDEX,2017,0.73
+Viet Nam,INDEX,2018,0.727
+Viet Nam,INDEX,2019,0.723
+Viet Nam,INDEX,2020,0.72
+Viet Nam,INDEX,2021,0.716
+Fiji,INDEX,2001,0.733
+Fiji,INDEX,2002,0.732
+Fiji,INDEX,2003,0.73
+Fiji,INDEX,2004,0.728
+Fiji,INDEX,2005,0.726
+Fiji,INDEX,2006,0.724
+Fiji,INDEX,2007,0.722
+Fiji,INDEX,2008,0.72
+Fiji,INDEX,2009,0.72
+Fiji,INDEX,2010,0.718
+Fiji,INDEX,2011,0.716
+Fiji,INDEX,2012,0.714
+Fiji,INDEX,2013,0.712
+Fiji,INDEX,2014,0.71
+Fiji,INDEX,2015,0.709
+Fiji,INDEX,2016,0.707
+Fiji,INDEX,2017,0.705
+Fiji,INDEX,2018,0.703
+Fiji,INDEX,2019,0.701
+Fiji,INDEX,2020,0.699
+Fiji,INDEX,2021,0.698
+Bosnia and Herzegovina,INDEX,2001,0.899
+Bosnia and Herzegovina,INDEX,2002,0.899
+Bosnia and Herzegovina,INDEX,2003,0.899
+Bosnia and Herzegovina,INDEX,2004,0.899
+Bosnia and Herzegovina,INDEX,2005,0.899
+Bosnia and Herzegovina,INDEX,2006,0.899
+Bosnia and Herzegovina,INDEX,2007,0.899
+Bosnia and Herzegovina,INDEX,2008,0.899
+Bosnia and Herzegovina,INDEX,2009,0.899
+Bosnia and Herzegovina,INDEX,2010,0.899
+Bosnia and Herzegovina,INDEX,2011,0.899
+Bosnia and Herzegovina,INDEX,2012,0.899
+Bosnia and Herzegovina,INDEX,2013,0.899
+Bosnia and Herzegovina,INDEX,2014,0.9
+Bosnia and Herzegovina,INDEX,2015,0.9
+Bosnia and Herzegovina,INDEX,2016,0.9
+Bosnia and Herzegovina,INDEX,2017,0.9
+Bosnia and Herzegovina,INDEX,2018,0.9
+Bosnia and Herzegovina,INDEX,2019,0.9
+Bosnia and Herzegovina,INDEX,2020,0.9
+Bosnia and Herzegovina,INDEX,2021,0.9
+Moldova,INDEX,2001,0.941
+Moldova,INDEX,2002,0.941
+Moldova,INDEX,2003,0.941
+Moldova,INDEX,2004,0.941
+Moldova,INDEX,2005,0.942
+Moldova,INDEX,2006,0.942
+Moldova,INDEX,2007,0.942
+Moldova,INDEX,2008,0.943
+Moldova,INDEX,2009,0.943
+Moldova,INDEX,2010,0.943
+Moldova,INDEX,2011,0.943
+Moldova,INDEX,2012,0.943
+Moldova,INDEX,2013,0.944
+Moldova,INDEX,2014,0.944
+Moldova,INDEX,2015,0.944
+Moldova,INDEX,2016,0.945
+Moldova,INDEX,2017,0.945
+Moldova,INDEX,2018,0.945
+Moldova,INDEX,2019,0.945
+Moldova,INDEX,2020,0.945
+Moldova,INDEX,2021,0.946
+Haiti,INDEX,2001,0.754
+Haiti,INDEX,2002,0.752
+Haiti,INDEX,2003,0.75
+Haiti,INDEX,2004,0.748
+Haiti,INDEX,2005,0.746
+Haiti,INDEX,2006,0.745
+Haiti,INDEX,2007,0.743
+Haiti,INDEX,2008,0.741
+Haiti,INDEX,2009,0.739
+Haiti,INDEX,2010,0.737
+Haiti,INDEX,2011,0.735
+Haiti,INDEX,2012,0.734
+Haiti,INDEX,2013,0.732
+Haiti,INDEX,2014,0.73
+Haiti,INDEX,2015,0.728
+Haiti,INDEX,2016,0.726
+Haiti,INDEX,2017,0.725
+Haiti,INDEX,2018,0.723
+Haiti,INDEX,2019,0.721
+Haiti,INDEX,2020,0.719
+Haiti,INDEX,2021,0.717
+Belgium,INDEX,2001,0.982
+Belgium,INDEX,2002,0.982
+Belgium,INDEX,2003,0.982
+Belgium,INDEX,2004,0.982
+Belgium,INDEX,2005,0.982
+Belgium,INDEX,2006,0.982
+Belgium,INDEX,2007,0.982
+Belgium,INDEX,2008,0.982
+Belgium,INDEX,2009,0.982
+Belgium,INDEX,2010,0.982
+Belgium,INDEX,2011,0.983
+Belgium,INDEX,2012,0.983
+Belgium,INDEX,2013,0.983
+Belgium,INDEX,2014,0.983
+Belgium,INDEX,2015,0.983
+Belgium,INDEX,2016,0.983
+Belgium,INDEX,2017,0.983
+Belgium,INDEX,2018,0.983
+Belgium,INDEX,2019,0.983
+Belgium,INDEX,2020,0.984
+Belgium,INDEX,2021,0.984
+Madagascar,INDEX,2001,0.816
+Madagascar,INDEX,2002,0.811
+Madagascar,INDEX,2003,0.809
+Madagascar,INDEX,2004,0.805
+Madagascar,INDEX,2005,0.801
+Madagascar,INDEX,2006,0.798
+Madagascar,INDEX,2007,0.794
+Madagascar,INDEX,2008,0.791
+Madagascar,INDEX,2009,0.787
+Madagascar,INDEX,2010,0.784
+Madagascar,INDEX,2011,0.782
+Madagascar,INDEX,2012,0.777
+Madagascar,INDEX,2013,0.772
+Madagascar,INDEX,2014,0.769
+Madagascar,INDEX,2015,0.766
+Madagascar,INDEX,2016,0.761
+Madagascar,INDEX,2017,0.757
+Madagascar,INDEX,2018,0.753
+Madagascar,INDEX,2019,0.75
+Madagascar,INDEX,2020,0.747
+Madagascar,INDEX,2021,0.74
+Zambia,INDEX,2001,0.876
+Zambia,INDEX,2002,0.876
+Zambia,INDEX,2003,0.876
+Zambia,INDEX,2004,0.876
+Zambia,INDEX,2005,0.876
+Zambia,INDEX,2006,0.876
+Zambia,INDEX,2007,0.876
+Zambia,INDEX,2008,0.876
+Zambia,INDEX,2009,0.876
+Zambia,INDEX,2010,0.876
+Zambia,INDEX,2011,0.876
+Zambia,INDEX,2012,0.876
+Zambia,INDEX,2013,0.876
+Zambia,INDEX,2014,0.876
+Zambia,INDEX,2015,0.876
+Zambia,INDEX,2016,0.876
+Zambia,INDEX,2017,0.876
+Zambia,INDEX,2018,0.876
+Zambia,INDEX,2019,0.876
+Zambia,INDEX,2020,0.876
+Zambia,INDEX,2021,0.876
+Anguilla,INDEX,2001,0.945
+Anguilla,INDEX,2002,0.944
+Anguilla,INDEX,2003,0.942
+Anguilla,INDEX,2004,0.941
+Anguilla,INDEX,2005,0.94
+Anguilla,INDEX,2006,0.939
+Anguilla,INDEX,2007,0.938
+Anguilla,INDEX,2008,0.937
+Anguilla,INDEX,2009,0.936
+Anguilla,INDEX,2010,0.934
+Anguilla,INDEX,2011,0.934
+Anguilla,INDEX,2012,0.932
+Anguilla,INDEX,2013,0.93
+Anguilla,INDEX,2014,0.929
+Anguilla,INDEX,2015,0.928
+Anguilla,INDEX,2016,0.927
+Anguilla,INDEX,2017,0.925
+Anguilla,INDEX,2018,0.924
+Anguilla,INDEX,2019,0.923
+Anguilla,INDEX,2020,0.921
+Anguilla,INDEX,2021,0.92
+Saudi Arabia,INDEX,2001,0.95
+Saudi Arabia,INDEX,2002,0.947
+Saudi Arabia,INDEX,2003,0.945
+Saudi Arabia,INDEX,2004,0.942
+Saudi Arabia,INDEX,2005,0.939
+Saudi Arabia,INDEX,2006,0.936
+Saudi Arabia,INDEX,2007,0.934
+Saudi Arabia,INDEX,2008,0.932
+Saudi Arabia,INDEX,2009,0.93
+Saudi Arabia,INDEX,2010,0.928
+Saudi Arabia,INDEX,2011,0.925
+Saudi Arabia,INDEX,2012,0.923
+Saudi Arabia,INDEX,2013,0.921
+Saudi Arabia,INDEX,2014,0.918
+Saudi Arabia,INDEX,2015,0.916
+Saudi Arabia,INDEX,2016,0.913
+Saudi Arabia,INDEX,2017,0.911
+Saudi Arabia,INDEX,2018,0.908
+Saudi Arabia,INDEX,2019,0.906
+Saudi Arabia,INDEX,2020,0.904
+Saudi Arabia,INDEX,2021,0.902
+New Zealand,INDEX,2001,0.71
+New Zealand,INDEX,2002,0.705
+New Zealand,INDEX,2003,0.701
+New Zealand,INDEX,2004,0.696
+New Zealand,INDEX,2005,0.692
+New Zealand,INDEX,2006,0.688
+New Zealand,INDEX,2007,0.684
+New Zealand,INDEX,2008,0.678
+New Zealand,INDEX,2009,0.674
+New Zealand,INDEX,2010,0.67
+New Zealand,INDEX,2011,0.664
+New Zealand,INDEX,2012,0.66
+New Zealand,INDEX,2013,0.655
+New Zealand,INDEX,2014,0.65
+New Zealand,INDEX,2015,0.646
+New Zealand,INDEX,2016,0.641
+New Zealand,INDEX,2017,0.636
+New Zealand,INDEX,2018,0.632
+New Zealand,INDEX,2019,0.627
+New Zealand,INDEX,2020,0.622
+New Zealand,INDEX,2021,0.617
+Kiribati,INDEX,2001,0.83
+Kiribati,INDEX,2002,0.827
+Kiribati,INDEX,2003,0.824
+Kiribati,INDEX,2004,0.82
+Kiribati,INDEX,2005,0.818
+Kiribati,INDEX,2006,0.815
+Kiribati,INDEX,2007,0.813
+Kiribati,INDEX,2008,0.81
+Kiribati,INDEX,2009,0.808
+Kiribati,INDEX,2010,0.805
+Kiribati,INDEX,2011,0.802
+Kiribati,INDEX,2012,0.798
+Kiribati,INDEX,2013,0.795
+Kiribati,INDEX,2014,0.791
+Kiribati,INDEX,2015,0.787
+Kiribati,INDEX,2016,0.784
+Kiribati,INDEX,2017,0.779
+Kiribati,INDEX,2018,0.775
+Kiribati,INDEX,2019,0.772
+Kiribati,INDEX,2020,0.769
+Kiribati,INDEX,2021,0.765
+Réunion,INDEX,2001,0.678
+Réunion,INDEX,2002,0.672
+Réunion,INDEX,2003,0.666
+Réunion,INDEX,2004,0.66
+Réunion,INDEX,2005,0.654
+Réunion,INDEX,2006,0.65
+Réunion,INDEX,2007,0.644
+Réunion,INDEX,2008,0.641
+Réunion,INDEX,2009,0.637
+Réunion,INDEX,2010,0.63
+Réunion,INDEX,2011,0.628
+Réunion,INDEX,2012,0.619
+Réunion,INDEX,2013,0.612
+Réunion,INDEX,2014,0.605
+Réunion,INDEX,2015,0.598
+Réunion,INDEX,2016,0.591
+Réunion,INDEX,2017,0.585
+Réunion,INDEX,2018,0.581
+Réunion,INDEX,2019,0.575
+Réunion,INDEX,2020,0.566
+Réunion,INDEX,2021,0.561
+Eswatini,INDEX,2001,0.813
+Eswatini,INDEX,2002,0.813
+Eswatini,INDEX,2003,0.813
+Eswatini,INDEX,2004,0.813
+Eswatini,INDEX,2005,0.813
+Eswatini,INDEX,2006,0.813
+Eswatini,INDEX,2007,0.813
+Eswatini,INDEX,2008,0.813
+Eswatini,INDEX,2009,0.813
+Eswatini,INDEX,2010,0.813
+Eswatini,INDEX,2011,0.812
+Eswatini,INDEX,2012,0.812
+Eswatini,INDEX,2013,0.812
+Eswatini,INDEX,2014,0.812
+Eswatini,INDEX,2015,0.812
+Eswatini,INDEX,2016,0.812
+Eswatini,INDEX,2017,0.812
+Eswatini,INDEX,2018,0.812
+Eswatini,INDEX,2019,0.812
+Eswatini,INDEX,2020,0.812
+Eswatini,INDEX,2021,0.812
+Northern Mariana Islands,INDEX,2001,0.655
+Northern Mariana Islands,INDEX,2002,0.639
+Northern Mariana Islands,INDEX,2003,0.624
+Northern Mariana Islands,INDEX,2004,0.611
+Northern Mariana Islands,INDEX,2005,0.605
+Northern Mariana Islands,INDEX,2006,0.6
+Northern Mariana Islands,INDEX,2007,0.597
+Northern Mariana Islands,INDEX,2008,0.593
+Northern Mariana Islands,INDEX,2009,0.591
+Northern Mariana Islands,INDEX,2010,0.588
+Northern Mariana Islands,INDEX,2011,0.584
+Northern Mariana Islands,INDEX,2012,0.581
+Northern Mariana Islands,INDEX,2013,0.577
+Northern Mariana Islands,INDEX,2014,0.574
+Northern Mariana Islands,INDEX,2015,0.57
+Northern Mariana Islands,INDEX,2016,0.567
+Northern Mariana Islands,INDEX,2017,0.563
+Northern Mariana Islands,INDEX,2018,0.561
+Northern Mariana Islands,INDEX,2019,0.557
+Northern Mariana Islands,INDEX,2020,0.555
+Northern Mariana Islands,INDEX,2021,0.55
+United Arab Emirates,INDEX,2001,0.903
+United Arab Emirates,INDEX,2002,0.902
+United Arab Emirates,INDEX,2003,0.898
+United Arab Emirates,INDEX,2004,0.896
+United Arab Emirates,INDEX,2005,0.894
+United Arab Emirates,INDEX,2006,0.89
+United Arab Emirates,INDEX,2007,0.887
+United Arab Emirates,INDEX,2008,0.884
+United Arab Emirates,INDEX,2009,0.883
+United Arab Emirates,INDEX,2010,0.879
+United Arab Emirates,INDEX,2011,0.877
+United Arab Emirates,INDEX,2012,0.875
+United Arab Emirates,INDEX,2013,0.871
+United Arab Emirates,INDEX,2014,0.869
+United Arab Emirates,INDEX,2015,0.866
+United Arab Emirates,INDEX,2016,0.862
+United Arab Emirates,INDEX,2017,0.86
+United Arab Emirates,INDEX,2018,0.857
+United Arab Emirates,INDEX,2019,0.854
+United Arab Emirates,INDEX,2020,0.852
+United Arab Emirates,INDEX,2021,0.849
+Suriname,INDEX,2001,0.991
+Suriname,INDEX,2002,0.99
+Suriname,INDEX,2003,0.99
+Suriname,INDEX,2004,0.99
+Suriname,INDEX,2005,0.99
+Suriname,INDEX,2006,0.99
+Suriname,INDEX,2007,0.99
+Suriname,INDEX,2008,0.99
+Suriname,INDEX,2009,0.989
+Suriname,INDEX,2010,0.988
+Suriname,INDEX,2011,0.988
+Suriname,INDEX,2012,0.987
+Suriname,INDEX,2013,0.987
+Suriname,INDEX,2014,0.987
+Suriname,INDEX,2015,0.987
+Suriname,INDEX,2016,0.987
+Suriname,INDEX,2017,0.987
+Suriname,INDEX,2018,0.987
+Suriname,INDEX,2019,0.987
+Suriname,INDEX,2020,0.987
+Suriname,INDEX,2021,0.987
+Belize,INDEX,2001,0.792
+Belize,INDEX,2002,0.791
+Belize,INDEX,2003,0.79
+Belize,INDEX,2004,0.789
+Belize,INDEX,2005,0.788
+Belize,INDEX,2006,0.787
+Belize,INDEX,2007,0.786
+Belize,INDEX,2008,0.785
+Belize,INDEX,2009,0.784
+Belize,INDEX,2010,0.782
+Belize,INDEX,2011,0.782
+Belize,INDEX,2012,0.781
+Belize,INDEX,2013,0.78
+Belize,INDEX,2014,0.779
+Belize,INDEX,2015,0.778
+Belize,INDEX,2016,0.776
+Belize,INDEX,2017,0.776
+Belize,INDEX,2018,0.774
+Belize,INDEX,2019,0.773
+Belize,INDEX,2020,0.772
+Belize,INDEX,2021,0.771
+Guam,INDEX,2001,0.606
+Guam,INDEX,2002,0.597
+Guam,INDEX,2003,0.588
+Guam,INDEX,2004,0.576
+Guam,INDEX,2005,0.566
+Guam,INDEX,2006,0.553
+Guam,INDEX,2007,0.542
+Guam,INDEX,2008,0.53
+Guam,INDEX,2009,0.517
+Guam,INDEX,2010,0.509
+Guam,INDEX,2011,0.495
+Guam,INDEX,2012,0.483
+Guam,INDEX,2013,0.471
+Guam,INDEX,2014,0.461
+Guam,INDEX,2015,0.45
+Guam,INDEX,2016,0.44
+Guam,INDEX,2017,0.431
+Guam,INDEX,2018,0.419
+Guam,INDEX,2019,0.408
+Guam,INDEX,2020,0.395
+Guam,INDEX,2021,0.384
+Liberia,INDEX,2001,0.9
+Liberia,INDEX,2002,0.901
+Liberia,INDEX,2003,0.901
+Liberia,INDEX,2004,0.901
+Liberia,INDEX,2005,0.901
+Liberia,INDEX,2006,0.901
+Liberia,INDEX,2007,0.901
+Liberia,INDEX,2008,0.901
+Liberia,INDEX,2009,0.901
+Liberia,INDEX,2010,0.901
+Liberia,INDEX,2011,0.902
+Liberia,INDEX,2012,0.902
+Liberia,INDEX,2013,0.902
+Liberia,INDEX,2014,0.902
+Liberia,INDEX,2015,0.902
+Liberia,INDEX,2016,0.902
+Liberia,INDEX,2017,0.902
+Liberia,INDEX,2018,0.902
+Liberia,INDEX,2019,0.902
+Liberia,INDEX,2020,0.902
+Liberia,INDEX,2021,0.902
+Faeroe Islands,INDEX,2001,0.875
+Faeroe Islands,INDEX,2002,0.874
+Faeroe Islands,INDEX,2003,0.873
+Faeroe Islands,INDEX,2004,0.873
+Faeroe Islands,INDEX,2005,0.873
+Faeroe Islands,INDEX,2006,0.873
+Faeroe Islands,INDEX,2007,0.874
+Faeroe Islands,INDEX,2008,0.873
+Faeroe Islands,INDEX,2009,0.874
+Faeroe Islands,INDEX,2010,0.874
+Faeroe Islands,INDEX,2011,0.876
+Faeroe Islands,INDEX,2012,0.875
+Faeroe Islands,INDEX,2013,0.876
+Faeroe Islands,INDEX,2014,0.873
+Faeroe Islands,INDEX,2015,0.871
+Faeroe Islands,INDEX,2016,0.872
+Faeroe Islands,INDEX,2017,0.871
+Faeroe Islands,INDEX,2018,0.871
+Faeroe Islands,INDEX,2019,0.871
+Faeroe Islands,INDEX,2020,0.871
+Faeroe Islands,INDEX,2021,0.872
+Saint Pierre and Miquelon,INDEX,2001,0.545
+Saint Pierre and Miquelon,INDEX,2002,0.546
+Saint Pierre and Miquelon,INDEX,2003,0.545
+Saint Pierre and Miquelon,INDEX,2004,0.546
+Saint Pierre and Miquelon,INDEX,2005,0.546
+Saint Pierre and Miquelon,INDEX,2006,0.546
+Saint Pierre and Miquelon,INDEX,2007,0.544
+Saint Pierre and Miquelon,INDEX,2008,0.545
+Saint Pierre and Miquelon,INDEX,2009,0.544
+Saint Pierre and Miquelon,INDEX,2010,0.544
+Saint Pierre and Miquelon,INDEX,2011,0.544
+Saint Pierre and Miquelon,INDEX,2012,0.543
+Saint Pierre and Miquelon,INDEX,2013,0.543
+Saint Pierre and Miquelon,INDEX,2014,0.542
+Saint Pierre and Miquelon,INDEX,2015,0.542
+Saint Pierre and Miquelon,INDEX,2016,0.542
+Saint Pierre and Miquelon,INDEX,2017,0.541
+Saint Pierre and Miquelon,INDEX,2018,0.541
+Saint Pierre and Miquelon,INDEX,2019,0.541
+Saint Pierre and Miquelon,INDEX,2020,0.541
+Saint Pierre and Miquelon,INDEX,2021,0.54
+Japan,INDEX,2001,0.824
+Japan,INDEX,2002,0.822
+Japan,INDEX,2003,0.819
+Japan,INDEX,2004,0.816
+Japan,INDEX,2005,0.814
+Japan,INDEX,2006,0.81
+Japan,INDEX,2007,0.808
+Japan,INDEX,2008,0.804
+Japan,INDEX,2009,0.802
+Japan,INDEX,2010,0.799
+Japan,INDEX,2011,0.796
+Japan,INDEX,2012,0.793
+Japan,INDEX,2013,0.789
+Japan,INDEX,2014,0.787
+Japan,INDEX,2015,0.784
+Japan,INDEX,2016,0.78
+Japan,INDEX,2017,0.777
+Japan,INDEX,2018,0.774
+Japan,INDEX,2019,0.77
+Japan,INDEX,2020,0.768
+Japan,INDEX,2021,0.765
+Democratic People's Republic of Korea,INDEX,2001,0.935
+Democratic People's Republic of Korea,INDEX,2002,0.934
+Democratic People's Republic of Korea,INDEX,2003,0.933
+Democratic People's Republic of Korea,INDEX,2004,0.932
+Democratic People's Republic of Korea,INDEX,2005,0.932
+Democratic People's Republic of Korea,INDEX,2006,0.932
+Democratic People's Republic of Korea,INDEX,2007,0.931
+Democratic People's Republic of Korea,INDEX,2008,0.931
+Democratic People's Republic of Korea,INDEX,2009,0.931
+Democratic People's Republic of Korea,INDEX,2010,0.93
+Democratic People's Republic of Korea,INDEX,2011,0.929
+Democratic People's Republic of Korea,INDEX,2012,0.928
+Democratic People's Republic of Korea,INDEX,2013,0.927
+Democratic People's Republic of Korea,INDEX,2014,0.927
+Democratic People's Republic of Korea,INDEX,2015,0.926
+Democratic People's Republic of Korea,INDEX,2016,0.925
+Democratic People's Republic of Korea,INDEX,2017,0.924
+Democratic People's Republic of Korea,INDEX,2018,0.923
+Democratic People's Republic of Korea,INDEX,2019,0.923
+Democratic People's Republic of Korea,INDEX,2020,0.922
+Democratic People's Republic of Korea,INDEX,2021,0.921
+Philippines,INDEX,2001,0.747
+Philippines,INDEX,2002,0.743
+Philippines,INDEX,2003,0.739
+Philippines,INDEX,2004,0.736
+Philippines,INDEX,2005,0.732
+Philippines,INDEX,2006,0.727
+Philippines,INDEX,2007,0.724
+Philippines,INDEX,2008,0.72
+Philippines,INDEX,2009,0.717
+Philippines,INDEX,2010,0.714
+Philippines,INDEX,2011,0.711
+Philippines,INDEX,2012,0.707
+Philippines,INDEX,2013,0.702
+Philippines,INDEX,2014,0.699
+Philippines,INDEX,2015,0.695
+Philippines,INDEX,2016,0.691
+Philippines,INDEX,2017,0.688
+Philippines,INDEX,2018,0.684
+Philippines,INDEX,2019,0.679
+Philippines,INDEX,2020,0.676
+Philippines,INDEX,2021,0.671
+Nicaragua,INDEX,2001,0.847
+Nicaragua,INDEX,2002,0.845
+Nicaragua,INDEX,2003,0.844
+Nicaragua,INDEX,2004,0.843
+Nicaragua,INDEX,2005,0.841
+Nicaragua,INDEX,2006,0.84
+Nicaragua,INDEX,2007,0.839
+Nicaragua,INDEX,2008,0.837
+Nicaragua,INDEX,2009,0.836
+Nicaragua,INDEX,2010,0.835
+Nicaragua,INDEX,2011,0.834
+Nicaragua,INDEX,2012,0.832
+Nicaragua,INDEX,2013,0.831
+Nicaragua,INDEX,2014,0.829
+Nicaragua,INDEX,2015,0.828
+Nicaragua,INDEX,2016,0.827
+Nicaragua,INDEX,2017,0.825
+Nicaragua,INDEX,2018,0.824
+Nicaragua,INDEX,2019,0.822
+Nicaragua,INDEX,2020,0.821
+Nicaragua,INDEX,2021,0.82
+South Georgia and the South Sandwich Islands,INDEX,2001,0.894
+South Georgia and the South Sandwich Islands,INDEX,2002,0.894
+South Georgia and the South Sandwich Islands,INDEX,2003,0.894
+South Georgia and the South Sandwich Islands,INDEX,2004,0.893
+South Georgia and the South Sandwich Islands,INDEX,2005,0.893
+South Georgia and the South Sandwich Islands,INDEX,2006,0.894
+South Georgia and the South Sandwich Islands,INDEX,2007,0.894
+South Georgia and the South Sandwich Islands,INDEX,2008,0.895
+South Georgia and the South Sandwich Islands,INDEX,2009,0.896
+South Georgia and the South Sandwich Islands,INDEX,2010,0.896
+South Georgia and the South Sandwich Islands,INDEX,2011,0.897
+South Georgia and the South Sandwich Islands,INDEX,2012,0.897
+South Georgia and the South Sandwich Islands,INDEX,2013,0.898
+South Georgia and the South Sandwich Islands,INDEX,2014,0.899
+South Georgia and the South Sandwich Islands,INDEX,2015,0.899
+South Georgia and the South Sandwich Islands,INDEX,2016,0.899
+South Georgia and the South Sandwich Islands,INDEX,2017,0.899
+South Georgia and the South Sandwich Islands,INDEX,2018,0.9
+South Georgia and the South Sandwich Islands,INDEX,2019,0.9
+South Georgia and the South Sandwich Islands,INDEX,2020,0.9
+South Georgia and the South Sandwich Islands,INDEX,2021,0.9
+Turkmenistan,INDEX,2001,0.981
+Turkmenistan,INDEX,2002,0.98
+Turkmenistan,INDEX,2003,0.98
+Turkmenistan,INDEX,2004,0.979
+Turkmenistan,INDEX,2005,0.979
+Turkmenistan,INDEX,2006,0.979
+Turkmenistan,INDEX,2007,0.979
+Turkmenistan,INDEX,2008,0.979
+Turkmenistan,INDEX,2009,0.979
+Turkmenistan,INDEX,2010,0.979
+Turkmenistan,INDEX,2011,0.978
+Turkmenistan,INDEX,2012,0.978
+Turkmenistan,INDEX,2013,0.978
+Turkmenistan,INDEX,2014,0.978
+Turkmenistan,INDEX,2015,0.978
+Turkmenistan,INDEX,2016,0.978
+Turkmenistan,INDEX,2017,0.978
+Turkmenistan,INDEX,2018,0.978
+Turkmenistan,INDEX,2019,0.978
+Turkmenistan,INDEX,2020,0.978
+Turkmenistan,INDEX,2021,0.978
+Solomon Islands,INDEX,2001,0.82
+Solomon Islands,INDEX,2002,0.816
+Solomon Islands,INDEX,2003,0.813
+Solomon Islands,INDEX,2004,0.809
+Solomon Islands,INDEX,2005,0.807
+Solomon Islands,INDEX,2006,0.803
+Solomon Islands,INDEX,2007,0.8
+Solomon Islands,INDEX,2008,0.797
+Solomon Islands,INDEX,2009,0.794
+Solomon Islands,INDEX,2010,0.791
+Solomon Islands,INDEX,2011,0.788
+Solomon Islands,INDEX,2012,0.784
+Solomon Islands,INDEX,2013,0.781
+Solomon Islands,INDEX,2014,0.777
+Solomon Islands,INDEX,2015,0.774
+Solomon Islands,INDEX,2016,0.771
+Solomon Islands,INDEX,2017,0.768
+Solomon Islands,INDEX,2018,0.764
+Solomon Islands,INDEX,2019,0.761
+Solomon Islands,INDEX,2020,0.758
+Solomon Islands,INDEX,2021,0.754
+Switzerland,INDEX,2001,0.973
+Switzerland,INDEX,2002,0.973
+Switzerland,INDEX,2003,0.973
+Switzerland,INDEX,2004,0.973
+Switzerland,INDEX,2005,0.973
+Switzerland,INDEX,2006,0.973
+Switzerland,INDEX,2007,0.973
+Switzerland,INDEX,2008,0.973
+Switzerland,INDEX,2009,0.973
+Switzerland,INDEX,2010,0.973
+Switzerland,INDEX,2011,0.973
+Switzerland,INDEX,2012,0.973
+Switzerland,INDEX,2013,0.973
+Switzerland,INDEX,2014,0.973
+Switzerland,INDEX,2015,0.973
+Switzerland,INDEX,2016,0.973
+Switzerland,INDEX,2017,0.973
+Switzerland,INDEX,2018,0.973
+Switzerland,INDEX,2019,0.973
+Switzerland,INDEX,2020,0.973
+Switzerland,INDEX,2021,0.973
+Ireland,INDEX,2001,0.919
+Ireland,INDEX,2002,0.918
+Ireland,INDEX,2003,0.917
+Ireland,INDEX,2004,0.917
+Ireland,INDEX,2005,0.917
+Ireland,INDEX,2006,0.917
+Ireland,INDEX,2007,0.917
+Ireland,INDEX,2008,0.918
+Ireland,INDEX,2009,0.918
+Ireland,INDEX,2010,0.919
+Ireland,INDEX,2011,0.919
+Ireland,INDEX,2012,0.919
+Ireland,INDEX,2013,0.918
+Ireland,INDEX,2014,0.917
+Ireland,INDEX,2015,0.916
+Ireland,INDEX,2016,0.915
+Ireland,INDEX,2017,0.915
+Ireland,INDEX,2018,0.915
+Ireland,INDEX,2019,0.915
+Ireland,INDEX,2020,0.915
+Ireland,INDEX,2021,0.915
+El Salvador,INDEX,2001,0.833
+El Salvador,INDEX,2002,0.831
+El Salvador,INDEX,2003,0.83
+El Salvador,INDEX,2004,0.829
+El Salvador,INDEX,2005,0.827
+El Salvador,INDEX,2006,0.826
+El Salvador,INDEX,2007,0.824
+El Salvador,INDEX,2008,0.823
+El Salvador,INDEX,2009,0.822
+El Salvador,INDEX,2010,0.821
+El Salvador,INDEX,2011,0.82
+El Salvador,INDEX,2012,0.818
+El Salvador,INDEX,2013,0.816
+El Salvador,INDEX,2014,0.815
+El Salvador,INDEX,2015,0.814
+El Salvador,INDEX,2016,0.812
+El Salvador,INDEX,2017,0.811
+El Salvador,INDEX,2018,0.809
+El Salvador,INDEX,2019,0.808
+El Salvador,INDEX,2020,0.806
+El Salvador,INDEX,2021,0.805
+Belarus,INDEX,2001,0.948
+Belarus,INDEX,2002,0.949
+Belarus,INDEX,2003,0.95
+Belarus,INDEX,2004,0.952
+Belarus,INDEX,2005,0.953
+Belarus,INDEX,2006,0.954
+Belarus,INDEX,2007,0.955
+Belarus,INDEX,2008,0.957
+Belarus,INDEX,2009,0.958
+Belarus,INDEX,2010,0.959
+Belarus,INDEX,2011,0.96
+Belarus,INDEX,2012,0.962
+Belarus,INDEX,2013,0.963
+Belarus,INDEX,2014,0.964
+Belarus,INDEX,2015,0.965
+Belarus,INDEX,2016,0.967
+Belarus,INDEX,2017,0.968
+Belarus,INDEX,2018,0.969
+Belarus,INDEX,2019,0.971
+Belarus,INDEX,2020,0.972
+Belarus,INDEX,2021,0.973
+Martinique,INDEX,2001,0.788
+Martinique,INDEX,2002,0.787
+Martinique,INDEX,2003,0.785
+Martinique,INDEX,2004,0.784
+Martinique,INDEX,2005,0.782
+Martinique,INDEX,2006,0.781
+Martinique,INDEX,2007,0.779
+Martinique,INDEX,2008,0.778
+Martinique,INDEX,2009,0.776
+Martinique,INDEX,2010,0.775
+Martinique,INDEX,2011,0.773
+Martinique,INDEX,2012,0.771
+Martinique,INDEX,2013,0.77
+Martinique,INDEX,2014,0.768
+Martinique,INDEX,2015,0.767
+Martinique,INDEX,2016,0.765
+Martinique,INDEX,2017,0.764
+Martinique,INDEX,2018,0.761
+Martinique,INDEX,2019,0.76
+Martinique,INDEX,2020,0.759
+Martinique,INDEX,2021,0.756
+Paraguay,INDEX,2001,0.956
+Paraguay,INDEX,2002,0.956
+Paraguay,INDEX,2003,0.955
+Paraguay,INDEX,2004,0.955
+Paraguay,INDEX,2005,0.955
+Paraguay,INDEX,2006,0.955
+Paraguay,INDEX,2007,0.955
+Paraguay,INDEX,2008,0.955
+Paraguay,INDEX,2009,0.955
+Paraguay,INDEX,2010,0.955
+Paraguay,INDEX,2011,0.955
+Paraguay,INDEX,2012,0.955
+Paraguay,INDEX,2013,0.954
+Paraguay,INDEX,2014,0.954
+Paraguay,INDEX,2015,0.954
+Paraguay,INDEX,2016,0.954
+Paraguay,INDEX,2017,0.954
+Paraguay,INDEX,2018,0.954
+Paraguay,INDEX,2019,0.954
+Paraguay,INDEX,2020,0.953
+Paraguay,INDEX,2021,0.953
+Australia,INDEX,2001,0.877
+Australia,INDEX,2002,0.873
+Australia,INDEX,2003,0.871
+Australia,INDEX,2004,0.868
+Australia,INDEX,2005,0.864
+Australia,INDEX,2006,0.862
+Australia,INDEX,2007,0.858
+Australia,INDEX,2008,0.855
+Australia,INDEX,2009,0.853
+Australia,INDEX,2010,0.85
+Australia,INDEX,2011,0.847
+Australia,INDEX,2012,0.844
+Australia,INDEX,2013,0.841
+Australia,INDEX,2014,0.837
+Australia,INDEX,2015,0.834
+Australia,INDEX,2016,0.831
+Australia,INDEX,2017,0.828
+Australia,INDEX,2018,0.826
+Australia,INDEX,2019,0.821
+Australia,INDEX,2020,0.819
+Australia,INDEX,2021,0.816
+Costa Rica,INDEX,2001,0.842
+Costa Rica,INDEX,2002,0.841
+Costa Rica,INDEX,2003,0.839
+Costa Rica,INDEX,2004,0.837
+Costa Rica,INDEX,2005,0.836
+Costa Rica,INDEX,2006,0.835
+Costa Rica,INDEX,2007,0.833
+Costa Rica,INDEX,2008,0.832
+Costa Rica,INDEX,2009,0.831
+Costa Rica,INDEX,2010,0.829
+Costa Rica,INDEX,2011,0.828
+Costa Rica,INDEX,2012,0.825
+Costa Rica,INDEX,2013,0.824
+Costa Rica,INDEX,2014,0.823
+Costa Rica,INDEX,2015,0.821
+Costa Rica,INDEX,2016,0.82
+Costa Rica,INDEX,2017,0.818
+Costa Rica,INDEX,2018,0.816
+Costa Rica,INDEX,2019,0.815
+Costa Rica,INDEX,2020,0.814
+Costa Rica,INDEX,2021,0.812
+Wallis and Futuna,INDEX,2001,0.908
+Wallis and Futuna,INDEX,2002,0.904
+Wallis and Futuna,INDEX,2003,0.901
+Wallis and Futuna,INDEX,2004,0.898
+Wallis and Futuna,INDEX,2005,0.895
+Wallis and Futuna,INDEX,2006,0.893
+Wallis and Futuna,INDEX,2007,0.89
+Wallis and Futuna,INDEX,2008,0.888
+Wallis and Futuna,INDEX,2009,0.886
+Wallis and Futuna,INDEX,2010,0.883
+Wallis and Futuna,INDEX,2011,0.88
+Wallis and Futuna,INDEX,2012,0.877
+Wallis and Futuna,INDEX,2013,0.874
+Wallis and Futuna,INDEX,2014,0.871
+Wallis and Futuna,INDEX,2015,0.867
+Wallis and Futuna,INDEX,2016,0.864
+Wallis and Futuna,INDEX,2017,0.862
+Wallis and Futuna,INDEX,2018,0.859
+Wallis and Futuna,INDEX,2019,0.855
+Wallis and Futuna,INDEX,2020,0.852
+Wallis and Futuna,INDEX,2021,0.85
+Andorra,INDEX,2001,0.913
+Andorra,INDEX,2002,0.913
+Andorra,INDEX,2003,0.912
+Andorra,INDEX,2004,0.912
+Andorra,INDEX,2005,0.912
+Andorra,INDEX,2006,0.912
+Andorra,INDEX,2007,0.912
+Andorra,INDEX,2008,0.912
+Andorra,INDEX,2009,0.912
+Andorra,INDEX,2010,0.912
+Andorra,INDEX,2011,0.912
+Andorra,INDEX,2012,0.912
+Andorra,INDEX,2013,0.912
+Andorra,INDEX,2014,0.912
+Andorra,INDEX,2015,0.912
+Andorra,INDEX,2016,0.911
+Andorra,INDEX,2017,0.911
+Andorra,INDEX,2018,0.911
+Andorra,INDEX,2019,0.911
+Andorra,INDEX,2020,0.91
+Andorra,INDEX,2021,0.91
+Burundi,INDEX,2001,0.891
+Burundi,INDEX,2002,0.891
+Burundi,INDEX,2003,0.891
+Burundi,INDEX,2004,0.891
+Burundi,INDEX,2005,0.891
+Burundi,INDEX,2006,0.891
+Burundi,INDEX,2007,0.891
+Burundi,INDEX,2008,0.891
+Burundi,INDEX,2009,0.891
+Burundi,INDEX,2010,0.891
+Burundi,INDEX,2011,0.891
+Burundi,INDEX,2012,0.891
+Burundi,INDEX,2013,0.891
+Burundi,INDEX,2014,0.891
+Burundi,INDEX,2015,0.891
+Burundi,INDEX,2016,0.891
+Burundi,INDEX,2017,0.891
+Burundi,INDEX,2018,0.891
+Burundi,INDEX,2019,0.891
+Burundi,INDEX,2020,0.891
+Burundi,INDEX,2021,0.891
+Namibia,INDEX,2001,0.971
+Namibia,INDEX,2002,0.971
+Namibia,INDEX,2003,0.971
+Namibia,INDEX,2004,0.971
+Namibia,INDEX,2005,0.971
+Namibia,INDEX,2006,0.971
+Namibia,INDEX,2007,0.97
+Namibia,INDEX,2008,0.97
+Namibia,INDEX,2009,0.97
+Namibia,INDEX,2010,0.97
+Namibia,INDEX,2011,0.97
+Namibia,INDEX,2012,0.97
+Namibia,INDEX,2013,0.97
+Namibia,INDEX,2014,0.97
+Namibia,INDEX,2015,0.97
+Namibia,INDEX,2016,0.97
+Namibia,INDEX,2017,0.97
+Namibia,INDEX,2018,0.97
+Namibia,INDEX,2019,0.97
+Namibia,INDEX,2020,0.97
+Namibia,INDEX,2021,0.97
+Iraq,INDEX,2001,0.849
+Iraq,INDEX,2002,0.845
+Iraq,INDEX,2003,0.842
+Iraq,INDEX,2004,0.838
+Iraq,INDEX,2005,0.836
+Iraq,INDEX,2006,0.833
+Iraq,INDEX,2007,0.831
+Iraq,INDEX,2008,0.828
+Iraq,INDEX,2009,0.826
+Iraq,INDEX,2010,0.824
+Iraq,INDEX,2011,0.821
+Iraq,INDEX,2012,0.82
+Iraq,INDEX,2013,0.817
+Iraq,INDEX,2014,0.815
+Iraq,INDEX,2015,0.812
+Iraq,INDEX,2016,0.81
+Iraq,INDEX,2017,0.807
+Iraq,INDEX,2018,0.805
+Iraq,INDEX,2019,0.803
+Iraq,INDEX,2020,0.801
+Iraq,INDEX,2021,0.797
+Togo,INDEX,2001,0.856
+Togo,INDEX,2002,0.856
+Togo,INDEX,2003,0.856
+Togo,INDEX,2004,0.857
+Togo,INDEX,2005,0.857
+Togo,INDEX,2006,0.857
+Togo,INDEX,2007,0.857
+Togo,INDEX,2008,0.858
+Togo,INDEX,2009,0.858
+Togo,INDEX,2010,0.858
+Togo,INDEX,2011,0.858
+Togo,INDEX,2012,0.858
+Togo,INDEX,2013,0.858
+Togo,INDEX,2014,0.858
+Togo,INDEX,2015,0.858
+Togo,INDEX,2016,0.858
+Togo,INDEX,2017,0.858
+Togo,INDEX,2018,0.858
+Togo,INDEX,2019,0.858
+Togo,INDEX,2020,0.858
+Togo,INDEX,2021,0.858
+Mozambique,INDEX,2001,0.85
+Mozambique,INDEX,2002,0.847
+Mozambique,INDEX,2003,0.844
+Mozambique,INDEX,2004,0.841
+Mozambique,INDEX,2005,0.839
+Mozambique,INDEX,2006,0.836
+Mozambique,INDEX,2007,0.832
+Mozambique,INDEX,2008,0.83
+Mozambique,INDEX,2009,0.827
+Mozambique,INDEX,2010,0.825
+Mozambique,INDEX,2011,0.822
+Mozambique,INDEX,2012,0.819
+Mozambique,INDEX,2013,0.816
+Mozambique,INDEX,2014,0.812
+Mozambique,INDEX,2015,0.81
+Mozambique,INDEX,2016,0.806
+Mozambique,INDEX,2017,0.803
+Mozambique,INDEX,2018,0.8
+Mozambique,INDEX,2019,0.797
+Mozambique,INDEX,2020,0.793
+Mozambique,INDEX,2021,0.789
+Poland,INDEX,2001,0.952
+Poland,INDEX,2002,0.953
+Poland,INDEX,2003,0.953
+Poland,INDEX,2004,0.955
+Poland,INDEX,2005,0.956
+Poland,INDEX,2006,0.957
+Poland,INDEX,2007,0.958
+Poland,INDEX,2008,0.959
+Poland,INDEX,2009,0.959
+Poland,INDEX,2010,0.961
+Poland,INDEX,2011,0.962
+Poland,INDEX,2012,0.963
+Poland,INDEX,2013,0.964
+Poland,INDEX,2014,0.965
+Poland,INDEX,2015,0.967
+Poland,INDEX,2016,0.967
+Poland,INDEX,2017,0.969
+Poland,INDEX,2018,0.97
+Poland,INDEX,2019,0.971
+Poland,INDEX,2020,0.972
+Poland,INDEX,2021,0.973
+France,INDEX,2001,0.913
+France,INDEX,2002,0.909
+France,INDEX,2003,0.904
+France,INDEX,2004,0.9
+France,INDEX,2005,0.896
+France,INDEX,2006,0.891
+France,INDEX,2007,0.886
+France,INDEX,2008,0.882
+France,INDEX,2009,0.879
+France,INDEX,2010,0.876
+France,INDEX,2011,0.872
+France,INDEX,2012,0.869
+France,INDEX,2013,0.865
+France,INDEX,2014,0.861
+France,INDEX,2015,0.857
+France,INDEX,2016,0.854
+France,INDEX,2017,0.85
+France,INDEX,2018,0.847
+France,INDEX,2019,0.843
+France,INDEX,2020,0.839
+France,INDEX,2021,0.836
+Azerbaijan,INDEX,2001,0.915
+Azerbaijan,INDEX,2002,0.914
+Azerbaijan,INDEX,2003,0.914
+Azerbaijan,INDEX,2004,0.914
+Azerbaijan,INDEX,2005,0.913
+Azerbaijan,INDEX,2006,0.912
+Azerbaijan,INDEX,2007,0.912
+Azerbaijan,INDEX,2008,0.912
+Azerbaijan,INDEX,2009,0.912
+Azerbaijan,INDEX,2010,0.912
+Azerbaijan,INDEX,2011,0.912
+Azerbaijan,INDEX,2012,0.912
+Azerbaijan,INDEX,2013,0.912
+Azerbaijan,INDEX,2014,0.912
+Azerbaijan,INDEX,2015,0.912
+Azerbaijan,INDEX,2016,0.912
+Azerbaijan,INDEX,2017,0.912
+Azerbaijan,INDEX,2018,0.912
+Azerbaijan,INDEX,2019,0.912
+Azerbaijan,INDEX,2020,0.913
+Azerbaijan,INDEX,2021,0.912
+Oman,INDEX,2001,0.933
+Oman,INDEX,2002,0.93
+Oman,INDEX,2003,0.927
+Oman,INDEX,2004,0.925
+Oman,INDEX,2005,0.921
+Oman,INDEX,2006,0.919
+Oman,INDEX,2007,0.917
+Oman,INDEX,2008,0.914
+Oman,INDEX,2009,0.912
+Oman,INDEX,2010,0.909
+Oman,INDEX,2011,0.907
+Oman,INDEX,2012,0.905
+Oman,INDEX,2013,0.902
+Oman,INDEX,2014,0.899
+Oman,INDEX,2015,0.898
+Oman,INDEX,2016,0.896
+Oman,INDEX,2017,0.893
+Oman,INDEX,2018,0.891
+Oman,INDEX,2019,0.887
+Oman,INDEX,2020,0.886
+Oman,INDEX,2021,0.884
+Lebanon,INDEX,2001,0.932
+Lebanon,INDEX,2002,0.932
+Lebanon,INDEX,2003,0.932
+Lebanon,INDEX,2004,0.932
+Lebanon,INDEX,2005,0.932
+Lebanon,INDEX,2006,0.932
+Lebanon,INDEX,2007,0.932
+Lebanon,INDEX,2008,0.932
+Lebanon,INDEX,2009,0.932
+Lebanon,INDEX,2010,0.932
+Lebanon,INDEX,2011,0.932
+Lebanon,INDEX,2012,0.932
+Lebanon,INDEX,2013,0.932
+Lebanon,INDEX,2014,0.932
+Lebanon,INDEX,2015,0.932
+Lebanon,INDEX,2016,0.932
+Lebanon,INDEX,2017,0.932
+Lebanon,INDEX,2018,0.932
+Lebanon,INDEX,2019,0.931
+Lebanon,INDEX,2020,0.931
+Lebanon,INDEX,2021,0.931
+Uzbekistan,INDEX,2001,0.979
+Uzbekistan,INDEX,2002,0.978
+Uzbekistan,INDEX,2003,0.978
+Uzbekistan,INDEX,2004,0.977
+Uzbekistan,INDEX,2005,0.977
+Uzbekistan,INDEX,2006,0.976
+Uzbekistan,INDEX,2007,0.976
+Uzbekistan,INDEX,2008,0.976
+Uzbekistan,INDEX,2009,0.976
+Uzbekistan,INDEX,2010,0.975
+Uzbekistan,INDEX,2011,0.975
+Uzbekistan,INDEX,2012,0.974
+Uzbekistan,INDEX,2013,0.974
+Uzbekistan,INDEX,2014,0.974
+Uzbekistan,INDEX,2015,0.973
+Uzbekistan,INDEX,2016,0.973
+Uzbekistan,INDEX,2017,0.972
+Uzbekistan,INDEX,2018,0.972
+Uzbekistan,INDEX,2019,0.972
+Uzbekistan,INDEX,2020,0.971
+Uzbekistan,INDEX,2021,0.971
+Saint Kitts and Nevis,INDEX,2001,0.756
+Saint Kitts and Nevis,INDEX,2002,0.755
+Saint Kitts and Nevis,INDEX,2003,0.754
+Saint Kitts and Nevis,INDEX,2004,0.752
+Saint Kitts and Nevis,INDEX,2005,0.752
+Saint Kitts and Nevis,INDEX,2006,0.75
+Saint Kitts and Nevis,INDEX,2007,0.749
+Saint Kitts and Nevis,INDEX,2008,0.748
+Saint Kitts and Nevis,INDEX,2009,0.747
+Saint Kitts and Nevis,INDEX,2010,0.746
+Saint Kitts and Nevis,INDEX,2011,0.745
+Saint Kitts and Nevis,INDEX,2012,0.744
+Saint Kitts and Nevis,INDEX,2013,0.742
+Saint Kitts and Nevis,INDEX,2014,0.741
+Saint Kitts and Nevis,INDEX,2015,0.74
+Saint Kitts and Nevis,INDEX,2016,0.739
+Saint Kitts and Nevis,INDEX,2017,0.738
+Saint Kitts and Nevis,INDEX,2018,0.737
+Saint Kitts and Nevis,INDEX,2019,0.736
+Saint Kitts and Nevis,INDEX,2020,0.735
+Saint Kitts and Nevis,INDEX,2021,0.734
+Thailand,INDEX,2001,0.832
+Thailand,INDEX,2002,0.829
+Thailand,INDEX,2003,0.826
+Thailand,INDEX,2004,0.823
+Thailand,INDEX,2005,0.82
+Thailand,INDEX,2006,0.817
+Thailand,INDEX,2007,0.814
+Thailand,INDEX,2008,0.811
+Thailand,INDEX,2009,0.809
+Thailand,INDEX,2010,0.806
+Thailand,INDEX,2011,0.803
+Thailand,INDEX,2012,0.8
+Thailand,INDEX,2013,0.798
+Thailand,INDEX,2014,0.794
+Thailand,INDEX,2015,0.791
+Thailand,INDEX,2016,0.788
+Thailand,INDEX,2017,0.784
+Thailand,INDEX,2018,0.781
+Thailand,INDEX,2019,0.778
+Thailand,INDEX,2020,0.776
+Thailand,INDEX,2021,0.773
+Brazil,INDEX,2001,0.911
+Brazil,INDEX,2002,0.91
+Brazil,INDEX,2003,0.91
+Brazil,INDEX,2004,0.909
+Brazil,INDEX,2005,0.909
+Brazil,INDEX,2006,0.908
+Brazil,INDEX,2007,0.908
+Brazil,INDEX,2008,0.907
+Brazil,INDEX,2009,0.906
+Brazil,INDEX,2010,0.905
+Brazil,INDEX,2011,0.904
+Brazil,INDEX,2012,0.903
+Brazil,INDEX,2013,0.902
+Brazil,INDEX,2014,0.902
+Brazil,INDEX,2015,0.901
+Brazil,INDEX,2016,0.901
+Brazil,INDEX,2017,0.9
+Brazil,INDEX,2018,0.9
+Brazil,INDEX,2019,0.899
+Brazil,INDEX,2020,0.899
+Brazil,INDEX,2021,0.898
+Honduras,INDEX,2001,0.772
+Honduras,INDEX,2002,0.77
+Honduras,INDEX,2003,0.769
+Honduras,INDEX,2004,0.768
+Honduras,INDEX,2005,0.766
+Honduras,INDEX,2006,0.764
+Honduras,INDEX,2007,0.763
+Honduras,INDEX,2008,0.761
+Honduras,INDEX,2009,0.76
+Honduras,INDEX,2010,0.758
+Honduras,INDEX,2011,0.757
+Honduras,INDEX,2012,0.755
+Honduras,INDEX,2013,0.754
+Honduras,INDEX,2014,0.752
+Honduras,INDEX,2015,0.75
+Honduras,INDEX,2016,0.749
+Honduras,INDEX,2017,0.747
+Honduras,INDEX,2018,0.746
+Honduras,INDEX,2019,0.745
+Honduras,INDEX,2020,0.743
+Honduras,INDEX,2021,0.741
+Congo,INDEX,2001,0.966
+Congo,INDEX,2002,0.966
+Congo,INDEX,2003,0.966
+Congo,INDEX,2004,0.966
+Congo,INDEX,2005,0.966
+Congo,INDEX,2006,0.966
+Congo,INDEX,2007,0.966
+Congo,INDEX,2008,0.966
+Congo,INDEX,2009,0.966
+Congo,INDEX,2010,0.966
+Congo,INDEX,2011,0.966
+Congo,INDEX,2012,0.966
+Congo,INDEX,2013,0.966
+Congo,INDEX,2014,0.966
+Congo,INDEX,2015,0.966
+Congo,INDEX,2016,0.966
+Congo,INDEX,2017,0.966
+Congo,INDEX,2018,0.966
+Congo,INDEX,2019,0.966
+Congo,INDEX,2020,0.966
+Congo,INDEX,2021,0.966

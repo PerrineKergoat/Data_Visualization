@@ -12,8 +12,17 @@ import {
     FigureTreeWorld
 } from "./components";
 import React from "react";
+import {useState} from "react";
+import iucn_red_list from "./data/iucn_red_list.csv";
 
 function App() {
+
+    const [selectedYear, setSelectedYear] = useState(2020);
+    const [selectedCountry, setSelectedCountry] = useState(null);
+
+    const [iucnRedListCSV] = useState(iucn_red_list);
+
+
     return (
         <div className="App">
             <div className="gradient__bg">
@@ -23,7 +32,7 @@ function App() {
             <div id="content">
                 <div className='figures' id="map_related_figures">
                     <div>
-                        <FigureMap/>
+                        <FigureMap selectedCountry={selectedCountry} setSelectedCountry={setSelectedCountry} selectedYear={selectedYear} iucnRedListCSV={iucnRedListCSV}/>
                     </div>
                     <div>
                         <table>

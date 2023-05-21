@@ -1,5 +1,6 @@
-.figureMap__card{   
+#content {
     width: 90%;
+    height: 1000px;
     padding: 10px 0px 10px 0px;
     margin: 10px auto 10px auto;
     border-radius: 30px;
@@ -9,9 +10,40 @@
     display: inline-block;
 }
 
-#imgMap {
+#svgmap {
     width: 100%;
     height: 100%;
     border-radius: 30px;
     margin: auto;
 }
+
+
+body {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+#content .info {
+    height: 20px;
+}
+
+#content .map path {
+    fill: #aaa;
+    stroke: #fff;
+}
+
+#content .bounding-box rect {
+    fill: none;
+    stroke: #333;
+    stroke-dasharray: 2, 1;
+}
+
+#content .centroid {
+    display: none;
+}
+
+#content .centroid circle {
+    fill: red;
+}
+

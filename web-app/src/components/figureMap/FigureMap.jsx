@@ -8,7 +8,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     const mapColor = '#a8a8a8';
 
     let projection = d3.geoMercator()
-        .center([0, 50]);
+        .center([-7, 60]);
 
     let geoGenerator = d3.geoPath()
         .projection(projection);
@@ -125,7 +125,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     return (
         <div className="figureMap__card">
             <div className="figureMap__card_info">Hover over a country</div>
-            <svg id="svgmap" viewBox="0 0 1000 600">
+            <svg id="svgmap" viewBox="0 0 1000 650">
                 <g className="map"></g>
                 <g className='border' ref={borderRef}></g>
             </svg>

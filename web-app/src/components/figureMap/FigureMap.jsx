@@ -40,15 +40,10 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     }, [countryColorMap]);
 
 
-    function handleMouseover(e, d) {
-        // displau name and iucn value of the country
-        d3.select('.figureMap__card_info').text(d.properties.name + ' ' + e.target.getAttribute('iucn'));
-
-    }
-
     function handleMouseClick(e, d) {
         // set the selected country
         setSelectedCountry(d.properties.name);
+        d3.select('.figureMap__card_info').text(d.properties.name + ' ' + e.target.getAttribute('iucn'));
     }
 
 
@@ -83,7 +78,6 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
                     return color[1];
                 }
             })
-            .on('mouseover', handleMouseover)
             .on('click', handleMouseClick);
 
 
@@ -124,7 +118,8 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
     return (
         <div className="figureMap__card">
-            <div className="figureMap__card_info">Hover over a country</div>
+            <h1>World Map IUCN Red List</h1>
+            <div className="figureMap__card_info">Select a country</div>
             <svg id="svgmap" viewBox="0 0 1000 650">
                 <g className="map"></g>
                 <g className='border' ref={borderRef}></g>

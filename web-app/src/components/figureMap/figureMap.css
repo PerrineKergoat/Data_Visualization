@@ -1,11 +1,11 @@
 .figureMap__card {
     width: 90%;
-    padding: 10px 0px 10px 0px;
+    padding: 0 0 10px 0;
     margin: 10px auto 10px auto;
-    border-radius: 30px;
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
+    /*border-radius: 30px;*/
+    /*border-color: black;*/
+    /*border-width: 5px;*/
+    /*border-style: solid;*/
     display: inline-block;
 }
 

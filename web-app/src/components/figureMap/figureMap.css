@@ -1,6 +1,5 @@
 .figureMap__card {
     width: 90%;
-    height: 1000px;
     padding: 10px 0px 10px 0px;
     margin: 10px auto 10px auto;
     border-radius: 30px;
@@ -10,11 +9,10 @@
     display: inline-block;
 }
 
-.svgmap {
+#svgmap {
     width: 100%;
     height: 100%;
     border-radius: 30px;
-    margin: auto;
 }
 
 

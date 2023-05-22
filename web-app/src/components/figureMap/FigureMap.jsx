@@ -2,6 +2,7 @@ import './figureMap.css';
 import React, {useEffect, useRef, useState} from 'react';
 import worldMap from '../../data/worldMap.geojson';
 import * as d3 from 'd3';
+import {Legend} from '../../utils'
 
 const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedListCSV}) => {
 
@@ -13,10 +14,24 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     let geoGenerator = d3.geoPath()
         .projection(projection);
 
-    const colorScale = d3.scaleLinear().domain([0.5, 1]).range(['#ffffff', '#bb0000']);
-
     const borderRef = useRef(null);
+    const legendRef = useRef(null);
+    // d3.range(10).map((x) => (x ** 0.5)/10)
 
+    const colorScale = d3.scaleSequentialQuantile().domain(d3.range(101).map((x) => (x ** 0.5)/10)).interpolator(d3.interpolateReds);
+
+
+    const legend = Legend(colorScale, {
+        title: "UICN Index",
+        ticks: 4,
+        tickFormat: "0.3f",
+        width: 300,
+    })
+
+    useEffect(() => {
+        legendRef.current.innerHTML = '';
+        legendRef.current.appendChild(legend);
+    });
 
     // create a map of country names and their corresponding colors from the csv
     // the map is {(countryName, year): color}
@@ -43,7 +58,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     function handleMouseClick(e, d) {
         // set the selected country
         setSelectedCountry(d.properties.name);
-        d3.select('.figureMap__card_info').text(d.properties.name + ' ' + e.target.getAttribute('iucn'));
+        d3.select('.figureMap__card_info').text(d.properties.name + ': ' + e.target.getAttribute('iucn'));
     }
 
 
@@ -116,14 +131,18 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
     }, [selectedYear, countryColorMap, selectedCountry]);
 
+    console.log(legend)
+
     return (
         <div className="figureMap__card">
-            <h1>World Map IUCN Red List</h1>
+            <h1 className='figureMap__card_title'>World Map IUCN Red List</h1>
             <div className="figureMap__card_info">Select a country</div>
             <svg id="svgmap" viewBox="0 0 1000 650">
                 <g className="map"></g>
                 <g className='border' ref={borderRef}></g>
+
             </svg>
+            <div className="figureMap__card_legend" ref={legendRef}></div>
         </div>
     );
 };

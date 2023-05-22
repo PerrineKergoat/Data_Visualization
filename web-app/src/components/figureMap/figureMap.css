@@ -1,4 +1,4 @@
-#content {
+.figureMap__card {
     width: 90%;
     height: 1000px;
     padding: 10px 0px 10px 0px;
@@ -10,7 +10,7 @@
     display: inline-block;
 }
 
-#svgmap {
+.svgmap {
     width: 100%;
     height: 100%;
     border-radius: 30px;
@@ -18,32 +18,16 @@
 }
 
 
-body {
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 14px;
-    color: #333;
-}
-
-#content .info {
+.figureMap__card_info {
     height: 20px;
+    font-size: 14px;
+    color: black;
 }
 
-#content .map path {
+.figureMap__card .map path {
     fill: #aaa;
     stroke: #fff;
 }
 
-#content .bounding-box rect {
-    fill: none;
-    stroke: #333;
-    stroke-dasharray: 2, 1;
-}
 
-#content .centroid {
-    display: none;
-}
-
-#content .centroid circle {
-    fill: red;
-}
 

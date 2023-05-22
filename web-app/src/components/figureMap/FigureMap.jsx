@@ -42,7 +42,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
     function handleMouseover(e, d) {
         // displau name and iucn value of the country
-        d3.select('#content .info').text(d.properties.name + ' ' + e.target.getAttribute('iucn'));
+        d3.select('.figureMap__card_info').text(d.properties.name + ' ' + e.target.getAttribute('iucn'));
 
     }
 
@@ -53,7 +53,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
 
     function update(geojson) {
-        let u = d3.select('#content g.map')
+        let u = d3.select('.figureMap__card g.map')
             .selectAll('path')
             .data(geojson.features);
 
@@ -72,7 +72,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
         console.log('selectedYear changed');
 
         // update the map color when the selected year changes
-        d3.select('#content g.map')
+        d3.select('.figureMap__card g.map')
             .selectAll('path')
             .style('fill', function (d) {
                 let countryName = d.properties.name;
@@ -88,7 +88,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
 
         // add a new attribute to each country path, which is the iucn value
-        d3.select('#content g.map')
+        d3.select('.figureMap__card g.map')
             .selectAll('path')
             .attr('iucn', function (d) {
                 let countryName = d.properties.name;
@@ -102,7 +102,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
         // copy the border of the selected country to the end of the svg and set it to 2px
         if (selectedCountry !== null) {
-            let border = d3.select('#content g.map')
+            let border = d3.select('.figureMap__card g.map')
                 .selectAll('path')
                 .filter(function (d) {
                     return d.properties.name === selectedCountry;
@@ -123,11 +123,11 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     }, [selectedYear, countryColorMap, selectedCountry]);
 
     return (
-        <div id="content">
-            <div className="info">Hover over a country</div>
+        <div className="figureMap__card">
+            <div className="figureMap__card_info">Hover over a country</div>
             <svg width="100%" height="auto" id="svgmap">
                 <g className="map"></g>
-                <g className={'border'} ref={borderRef}></g>
+                <g className='border' ref={borderRef}></g>
             </svg>
         </div>
     );

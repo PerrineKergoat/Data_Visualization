@@ -50,11 +50,6 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
         });
     }, []);
 
-    useEffect(() => {
-        console.log('countryColorMap changed:', countryColorMap);
-    }, [countryColorMap]);
-
-
     function handleMouseClick(e, d) {
         // set the selected country
         setSelectedCountry(d.properties.name);
@@ -79,8 +74,6 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     });
 
     useEffect(() => {
-        console.log('selectedYear changed');
-
         // update the map color when the selected year changes
         d3.select('.figureMap__card g.map')
             .selectAll('path')

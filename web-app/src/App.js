@@ -14,6 +14,7 @@ import {
 import React from "react";
 import {useState} from "react";
 import iucn_red_list from "./data/iucn_red_list.csv";
+import countryIucnCatRepartition from "./data/country_iucn_cat_repartition.csv";
 
 function App() {
 
@@ -39,7 +40,7 @@ function App() {
                             <tbody>
                             <tr>
                                 <td>
-                                    <FigureDistrib/>
+                                    <FigureDistrib countryIucnCatRepartition={countryIucnCatRepartition} selectedCountry={selectedCountry}/>
                                 </td>
                                 <td>
                                     <FigureVulnerabilities/>

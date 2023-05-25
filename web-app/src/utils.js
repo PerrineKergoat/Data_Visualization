@@ -161,9 +161,7 @@ export function Legend(color, {
 // Was adapted and made responsive
 // from https://observablehq.com/@eesur/d3-single-stacked-bar
 export function StackedBar(data, {
-    height = 200,
-    barHeight = 100,
-    halfBarHeight = barHeight / 2,
+    barHeight = 1000,
     f = d3.format('.1f'),
     margin = {top: 20, right: 10, bottom: 20, left: 10},
     colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#ffff33"]
@@ -203,8 +201,9 @@ export function StackedBar(data, {
         .create("svg")
         .attr("class", "stacked-bar-chart")
         .attr("viewBox", "0 0 100% 100%")
+        .style("width", "500px")
         .style("max-height", "100%")
-        .style("width", "100%");
+        .style("max-width", "100%");
 
     const sel = d3.select(svg.node());
 

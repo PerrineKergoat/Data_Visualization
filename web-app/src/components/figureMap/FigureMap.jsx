@@ -25,7 +25,6 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
         title: "UICN Index",
         ticks: 4,
         tickFormat: "0.3f",
-        width: 300,
     })
 
     useEffect(() => {

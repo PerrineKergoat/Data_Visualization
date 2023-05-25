@@ -33,8 +33,7 @@ export function Legend(color, {
     }
 
     const svg = d3.create("svg")
-        .attr("width", width)
-        .attr("height", height)
+        .attr("width", "40%")
         .attr("viewBox", [0, 0, width, height])
         .style("overflow", "visible")
         .style("display", "block");

@@ -131,8 +131,6 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
 
     }, [selectedYear, countryColorMap, selectedCountry]);
 
-    console.log(legend)
-
     return (
         <div className="figureMap__card">
             <h1 className='figureMap__card_title'>World Map IUCN Red List</h1>

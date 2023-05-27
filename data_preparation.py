@@ -33,6 +33,16 @@ country_vulnerable = pd.read_csv('data/country_vulnerable.csv')
 country_vulnerable.drop(
     ['SPEC','COU', 'Unit Code', 'Unit', 'PowerCode Code', 'PowerCode', 'Reference Period Code', 'Reference Period', 'Flag Codes', 'Flags'], axis=1, inplace=True
 )
+country_vulnerable = country_vulnerable[country_vulnerable['IUCN'].isin(['CRITICAL', 'ENDANGERED', 'VULNERABLE', 'TOT_KNOWN'])]
+
+for country in country_vulnerable['Country'].unique():
+    for specie in country_vulnerable[country_vulnerable['Country'] == country]['Species'].unique():
+        length = len(country_vulnerable[(country_vulnerable['Country'] == country) & (country_vulnerable['Species'] == specie)])
+
+        if length != 4:
+            # drop the species for this country
+            country_vulnerable = country_vulnerable.drop(country_vulnerable[(country_vulnerable['Country'] == country) & (country_vulnerable['Species'] == specie)].index)
+
 
 # %%
 # group by country and sum the number of species for each category

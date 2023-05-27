@@ -219,7 +219,7 @@ export function StackedBar(data, {
         );
 
     // stack rect for each data value
-    join
+    const rects = join
         .append("rect")
         .attr("class", "rect-stacked")
         .attr("x", (d) => xScale(d.cumulative) + "%")
@@ -229,29 +229,27 @@ export function StackedBar(data, {
         .style("fill", (d, i) => colors[i]);
 
     // add values on bar
-    join
+    const valueTexts = join
         .append("text")
         .attr("class", "text-value")
         .attr("text-anchor", "middle")
         .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2 + "%")
         .attr("y", "13%")
-        // .style("fill", (d, i) => colors[i])
         .style("font-weight", "bold")
         .text((d) => d.value);
 
     // add some labels for percentages
-    join
+    const percentTexts = join
         .append("text")
         .attr("class", "text-percent")
         .attr("text-anchor", "middle")
         .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2 + "%")
         .attr("y", "70%")
-        // .style("fill", (d, i) => colors[i])
         .style("font-weight", "bold")
         .text((d) => f(d.percent) + " %");
 
     // add the labels
-    join
+    const labelTexts = join
         .append("text")
         .attr("class", "text-label")
         .attr("text-anchor", "middle")
@@ -260,6 +258,25 @@ export function StackedBar(data, {
         .style("fill", (d, i) => colors[i])
         .style("font-weight", "bold")
         .text((d) => d.label);
+
+    valueTexts.style("opacity", 0);
+    percentTexts.style("opacity", 0);
+    labelTexts.style("opacity", 0);
+
+    join.on("mouseover", function () {
+        const bar = d3.select(this);
+        bar.select(".text-value").style("opacity", 1);
+        bar.select(".text-percent").style("opacity", 1);
+        bar.select(".text-label").style("opacity", 1);
+    });
+
+    join.on("mouseout", function () {
+        const bar = d3.select(this);
+        bar.select(".text-value").style("opacity", 0);
+        bar.select(".text-percent").style("opacity", 0);
+        bar.select(".text-label").style("opacity", 0);
+    });
+
 
     return svg.node();
 }

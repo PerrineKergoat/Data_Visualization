@@ -14,7 +14,7 @@ import {
 import React from "react";
 import {useState} from "react";
 import iucn_red_list from "./data/iucn_red_list.csv";
-import countryIucnCatRepartition from "./data/country_iucn_cat_repartition.csv";
+import countryIucnCatRepartition from "./data/country_iucn_cat_repartition.json";
 
 function App() {
 

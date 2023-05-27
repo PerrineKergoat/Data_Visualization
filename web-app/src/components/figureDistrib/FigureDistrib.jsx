@@ -1,6 +1,5 @@
 import React, {useEffect, useRef} from 'react';
 import './figureDistrib.css';
-import * as d3 from 'd3';
 
 import {StackedBar} from '../../utils'
 
@@ -19,29 +18,27 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
 
 
     useEffect(() => {
-        d3.csv(countryIucnCatRepartition).then((data) => {
-            //     Country,IUCN,Value
-            for (let i = 0; i < data.length; i++) {
-                let d = data[i];
-                console.log(d);
-                console.log(selectedCountry);
-                if (d.Country === selectedCountry) {
-                    let sampleData = [
-                        {label: 'CR', value: d.CR},
-                        {label: 'EN', value: d.EN},
-                        {label: 'VU', value: d.VU},
-                        {label: 'LC', value: d.LC}
-                    ]
-                    const bar = StackedBar(sampleData, {
-                        colors: ['#d51415', '#f5a031', '#f8cd26', '#a0a0a0'],
-                    })
-                    console.log(bar);
-                    graphRef.current.innerHTML = '';
-                    graphRef.current.appendChild(bar);
-                    break;
-                }
-            }
-        });
+        console.log(countryIucnCatRepartition);
+
+        let d = countryIucnCatRepartition[selectedCountry];
+        if (!d) {
+            graphRef.current.innerHTML = '';
+            return;
+        }
+
+        let sampleData = [
+            {label: 'CR', value: d['CRITICAL']},
+            {label: 'EN', value: d['ENDANGERED']},
+            {label: 'VU', value: d['VULNERABLE']},
+            {label: 'LC', value: d['TOT_KNOWN'] - d['CRITICAL'] - d['ENDANGERED'] - d['VULNERABLE']}
+        ]
+        const bar = StackedBar(sampleData, {
+            colors: ['#d51415', '#f5a031', '#f8cd26', '#a0a0a0'],
+        })
+        graphRef.current.innerHTML = '';
+        graphRef.current.appendChild(bar);
+
+
     }, [selectedCountry]);
     // useEffect(() => {
     //     graphRef.current.innerHTML = '';

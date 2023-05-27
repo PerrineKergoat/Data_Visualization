@@ -9,3 +9,12 @@
     border-radius: 30px;
     margin: auto;
 }
+
+.text-label.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.text-label:hover {
+  opacity: 1;
+}

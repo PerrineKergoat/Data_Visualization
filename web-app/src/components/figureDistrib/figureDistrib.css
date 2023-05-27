@@ -1,10 +1,6 @@
 .figureDistrib__card {
     width: 100%;
     margin: 10px auto 10px auto;
-    border-radius: 30px;
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
 }
 
 #imgDistrib {

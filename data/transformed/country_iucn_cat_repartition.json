@@ -1,0 +1,221 @@
+{
+    "Australia": {
+        "CRITICAL": 294.0,
+        "ENDANGERED": 738.0,
+        "TOT_KNOWN": 157043.0,
+        "VULNERABLE": 815.0
+    },
+    "Austria": {
+        "CRITICAL": 599.0,
+        "ENDANGERED": 934.0,
+        "TOT_KNOWN": 51826.0,
+        "VULNERABLE": 1293.0
+    },
+    "Belgium": {
+        "CRITICAL": 421.0,
+        "ENDANGERED": 338.0,
+        "TOT_KNOWN": 9010.0,
+        "VULNERABLE": 371.0
+    },
+    "Brazil": {
+        "CRITICAL": 453.0,
+        "ENDANGERED": 532.0,
+        "TOT_KNOWN": 877.0,
+        "VULNERABLE": 596.0
+    },
+    "Canada": {
+        "CRITICAL": 727.0,
+        "ENDANGERED": 841.0,
+        "TOT_KNOWN": 31092.0,
+        "VULNERABLE": 1640.0
+    },
+    "Chile": {
+        "CRITICAL": 135.0,
+        "ENDANGERED": 391.0,
+        "TOT_KNOWN": 24055.0,
+        "VULNERABLE": 284.0
+    },
+    "Colombia": {
+        "CRITICAL": 241.0,
+        "ENDANGERED": 524.0,
+        "TOT_KNOWN": 51482.0,
+        "VULNERABLE": 802.0
+    },
+    "Costa Rica": {
+        "CRITICAL": 36.0,
+        "ENDANGERED": 111.0,
+        "TOT_KNOWN": 4959.0,
+        "VULNERABLE": 212.0
+    },
+    "Czech Republic": {
+        "CRITICAL": 1581.0,
+        "ENDANGERED": 1905.0,
+        "TOT_KNOWN": 37855.0,
+        "VULNERABLE": 1962.0
+    },
+    "Denmark": {
+        "CRITICAL": 257.0,
+        "ENDANGERED": 367.0,
+        "TOT_KNOWN": 9270.0,
+        "VULNERABLE": 528.0
+    },
+    "Estonia": {
+        "CRITICAL": 190.0,
+        "ENDANGERED": 246.0,
+        "TOT_KNOWN": 13514.0,
+        "VULNERABLE": 352.0
+    },
+    "Finland": {
+        "CRITICAL": 272.0,
+        "ENDANGERED": 676.0,
+        "TOT_KNOWN": 28080.0,
+        "VULNERABLE": 1063.0
+    },
+    "France": {
+        "CRITICAL": 102.0,
+        "ENDANGERED": 219.0,
+        "TOT_KNOWN": 6962.0,
+        "VULNERABLE": 512.0
+    },
+    "Germany": {
+        "CRITICAL": 1218.0,
+        "ENDANGERED": 1738.0,
+        "TOT_KNOWN": 19130.0,
+        "VULNERABLE": 3914.0
+    },
+    "Greece": {
+        "CRITICAL": 74.0,
+        "ENDANGERED": 130.0,
+        "TOT_KNOWN": 7824.0,
+        "VULNERABLE": 283.0
+    },
+    "Hungary": {
+        "CRITICAL": 196.0,
+        "ENDANGERED": 331.0,
+        "TOT_KNOWN": 4702.0,
+        "VULNERABLE": 263.0
+    },
+    "Iceland": {
+        "CRITICAL": 6.0,
+        "ENDANGERED": 11.0,
+        "TOT_KNOWN": 522.0,
+        "VULNERABLE": 16.0
+    },
+    "Ireland": {
+        "CRITICAL": 74.0,
+        "ENDANGERED": 149.0,
+        "TOT_KNOWN": 4225.0,
+        "VULNERABLE": 321.0
+    },
+    "Italy": {
+        "CRITICAL": 336.0,
+        "ENDANGERED": 482.0,
+        "TOT_KNOWN": 72526.0,
+        "VULNERABLE": 478.0
+    },
+    "Japan": {
+        "CRITICAL": 915.0,
+        "ENDANGERED": 934.0,
+        "TOT_KNOWN": 25351.0,
+        "VULNERABLE": 1096.0
+    },
+    "Korea": {
+        "CRITICAL": 68.0,
+        "ENDANGERED": 180.0,
+        "TOT_KNOWN": 37463.0,
+        "VULNERABLE": 306.0
+    },
+    "Latvia": {
+        "CRITICAL": 36.0,
+        "ENDANGERED": 231.0,
+        "TOT_KNOWN": 20773.0,
+        "VULNERABLE": 160.0
+    },
+    "Lithuania": {
+        "CRITICAL": 94.0,
+        "ENDANGERED": 171.0,
+        "TOT_KNOWN": 27741.0,
+        "VULNERABLE": 124.0
+    },
+    "Luxembourg": {
+        "CRITICAL": 143.0,
+        "ENDANGERED": 142.0,
+        "TOT_KNOWN": 1709.0,
+        "VULNERABLE": 148.0
+    },
+    "Mexico": {
+        "CRITICAL": 61.0,
+        "ENDANGERED": 593.0,
+        "TOT_KNOWN": 32835.0,
+        "VULNERABLE": 924.0
+    },
+    "Netherlands": {
+        "CRITICAL": 246.0,
+        "ENDANGERED": 271.0,
+        "TOT_KNOWN": 3540.0,
+        "VULNERABLE": 389.0
+    },
+    "New Zealand": {
+        "CRITICAL": 153.0,
+        "ENDANGERED": 68.0,
+        "TOT_KNOWN": 39050.0,
+        "VULNERABLE": 81.0
+    },
+    "Norway": {
+        "CRITICAL": 208.0,
+        "ENDANGERED": 721.0,
+        "TOT_KNOWN": 25378.0,
+        "VULNERABLE": 1011.0
+    },
+    "Poland": {
+        "CRITICAL": 485.0,
+        "ENDANGERED": 793.0,
+        "TOT_KNOWN": 40252.0,
+        "VULNERABLE": 1014.0
+    },
+    "Portugal": {
+        "CRITICAL": 39.0,
+        "ENDANGERED": 51.0,
+        "TOT_KNOWN": 4292.0,
+        "VULNERABLE": 86.0
+    },
+    "Slovak Republic": {
+        "CRITICAL": 602.0,
+        "ENDANGERED": 763.0,
+        "TOT_KNOWN": 31264.0,
+        "VULNERABLE": 1562.0
+    },
+    "Slovenia": {
+        "CRITICAL": 17.0,
+        "ENDANGERED": 232.0,
+        "TOT_KNOWN": 4512.0,
+        "VULNERABLE": 359.0
+    },
+    "Spain": {
+        "CRITICAL": 343.0,
+        "ENDANGERED": 360.0,
+        "TOT_KNOWN": 14379.0,
+        "VULNERABLE": 887.0
+    },
+    "Sweden": {
+        "CRITICAL": 66.0,
+        "ENDANGERED": 141.0,
+        "TOT_KNOWN": 2185.0,
+        "VULNERABLE": 177.0
+    },
+    "Switzerland": {
+        "CRITICAL": 475.0,
+        "ENDANGERED": 769.0,
+        "TOT_KNOWN": 7952.0,
+        "VULNERABLE": 1339.0
+    },
+    "Turkey": {
+        "TOT_KNOWN": 36244.0
+    },
+    "United Kingdom": {
+        "CRITICAL": 222.0,
+        "ENDANGERED": 352.0,
+        "TOT_KNOWN": 45833.0,
+        "VULNERABLE": 645.0
+    }
+}

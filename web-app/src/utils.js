@@ -160,7 +160,7 @@ export function Legend(color, {
 // Was adapted and made responsive
 // from https://observablehq.com/@eesur/d3-single-stacked-bar
 export function StackedBar(data, {
-    barHeight = 1000,
+    barHeight = 70,
     f = d3.format('.1f'),
     margin = {top: 20, right: 10, bottom: 20, left: 10},
     colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#ffff33"]
@@ -199,7 +199,7 @@ export function StackedBar(data, {
     const svg = d3
         .create("svg")
         .attr("class", "stacked-bar-chart")
-        .attr("viewBox", "0 0 100% 100%")
+        .attr("viewBox", "0 0 300 150")
         .style("width", "500px")
         .style("max-height", "100%")
         .style("max-width", "100%");
@@ -223,7 +223,7 @@ export function StackedBar(data, {
         .append("rect")
         .attr("class", "rect-stacked")
         .attr("x", (d) => xScale(d.cumulative) + "%")
-        .attr("y", "50%")
+        .attr("y", "15%")
         .attr("height", barHeight)
         .attr("width", (d) => xScale(d.value) + "%")
         .style("fill", (d, i) => colors[i]);
@@ -234,7 +234,9 @@ export function StackedBar(data, {
         .attr("class", "text-value")
         .attr("text-anchor", "middle")
         .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2 + "%")
-        .attr("y", "60%")
+        .attr("y", "13%")
+        // .style("fill", (d, i) => colors[i])
+        .style("font-weight", "bold")
         .text((d) => d.value);
 
     // add some labels for percentages
@@ -243,7 +245,9 @@ export function StackedBar(data, {
         .attr("class", "text-percent")
         .attr("text-anchor", "middle")
         .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2 + "%")
-        .attr("y", "40%")
+        .attr("y", "70%")
+        // .style("fill", (d, i) => colors[i])
+        .style("font-weight", "bold")
         .text((d) => f(d.percent) + " %");
 
     // add the labels
@@ -254,6 +258,7 @@ export function StackedBar(data, {
         .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2 + "%")
         .attr("y", "80%")
         .style("fill", (d, i) => colors[i])
+        .style("font-weight", "bold")
         .text((d) => d.label);
 
     return svg.node();

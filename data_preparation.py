@@ -41,8 +41,19 @@ country_iucn_cat_repartition = \
     country_iucn_cat_repartition[country_iucn_cat_repartition['IUCN']\
         .isin(['CRITICAL', 'ENDANGERED', 'VULNERABLE', 'TOT_KNOWN'])]
 
-# write to csv
-country_iucn_cat_repartition.to_csv('data/transformed/country_iucn_cat_repartition.csv', index=False)
+# write to json (group by country => {country: {category: number of species}})
+pre_json = dict()
+for index, row in country_iucn_cat_repartition.iterrows():
+    if row['Country'] not in pre_json:
+        pre_json[row['Country']] = dict()
+    pre_json[row['Country']][row['IUCN']] = row['Value']
+
+# write to json
+import json
+with open('data/transformed/country_iucn_cat_repartition.json', 'w') as outfile:
+    json.dump(pre_json, outfile)
+
+    
 
 # %%
 # for each country take the top 10 species with the highest TOT_KNOWN value

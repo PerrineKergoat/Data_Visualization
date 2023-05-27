@@ -282,7 +282,6 @@ export function StackedBar(data, {
 }
 
 export function createLegend(labelColorMap) {
-    // Select the svg area
     const svg_base = d3
         .create("svg")
         .attr("class", "stacked-bar-chart")
@@ -296,9 +295,6 @@ export function createLegend(labelColorMap) {
     // Extract the keys and colors from the labelColorMap
     let keys = Object.keys(labelColorMap);
     let colors = Object.values(labelColorMap);
-
-    console.log(keys);
-    console.log(colors);
 
     // Define the color scale
     let color = d3.scaleOrdinal()

@@ -83,4 +83,20 @@ country_species_repartition = country_species_repartition[
 country_species_repartition = country_species_repartition[country_species_repartition['IUCN']\
     .isin(['CRITICAL', 'ENDANGERED', 'VULNERABLE', 'TOT_KNOWN'])]
 
-country_species_repartition.to_csv('data/transformed/country_species_repartition.csv', index=False)
+# write to json (group by country => {country: {category: [{specie: specie_name, value: number of species}]}})
+pre_json = dict()
+for index, row in country_species_repartition.iterrows():
+    if row['Country'] not in pre_json:
+        pre_json[row['Country']] = dict()
+    if row['IUCN'] not in pre_json[row['Country']]:
+        pre_json[row['Country']][row['IUCN']] = list()
+    pre_json[row['Country']][row['IUCN']].append({
+        'specie': row['Species'],
+        'value': row['Value']
+    })
+# write to json
+# import json
+with open('data/transformed/country_species_repartition.json', 'w') as outfile:
+    json.dump(pre_json, outfile)
+
+

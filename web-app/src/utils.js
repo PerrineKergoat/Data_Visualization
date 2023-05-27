@@ -5,7 +5,7 @@ import * as d3 from 'd3';
 // Copyright 2021, Observable Inc.
 // Released under the ISC license.
 // https://observablehq.com/@d3/color-legend
-export function Legend(color, {
+export function mapLegend(color, {
 
     title,
     tickSize = 6,

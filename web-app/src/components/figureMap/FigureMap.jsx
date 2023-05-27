@@ -2,7 +2,7 @@ import './figureMap.css';
 import React, {useEffect, useRef, useState} from 'react';
 import worldMap from '../../data/worldMap.geojson';
 import * as d3 from 'd3';
-import {Legend} from '../../utils'
+import {mapLegend} from '../../utils'
 
 const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedListCSV}) => {
 
@@ -21,7 +21,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     const colorScale = d3.scaleSequentialQuantile().domain(d3.range(101).map((x) => (x ** 0.5)/10)).interpolator(d3.interpolateReds);
 
 
-    const legend = Legend(colorScale, {
+    const legend = mapLegend(colorScale, {
         title: "UICN Index",
         ticks: 4,
         tickFormat: "0.3f",

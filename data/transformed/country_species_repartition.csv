@@ -1,4 +1,5 @@
 Country,IUCN,Species,Value
+Australia,CRITICAL,Amphibians,15.0
 Australia,CRITICAL,Birds,17.0
 Australia,CRITICAL,Fish,7.0
 Australia,CRITICAL,Freshwater Fish,3.0
@@ -7,6 +8,7 @@ Australia,CRITICAL,Mammals,10.0
 Australia,CRITICAL,Marine Fish,4.0
 Australia,CRITICAL,Reptiles,10.0
 Australia,CRITICAL,Vascular plants,198.0
+Australia,ENDANGERED,Amphibians,10.0
 Australia,ENDANGERED,Birds,55.0
 Australia,ENDANGERED,Fish,19.0
 Australia,ENDANGERED,Freshwater Fish,17.0
@@ -15,23 +17,22 @@ Australia,ENDANGERED,Mammals,38.0
 Australia,ENDANGERED,Marine Fish,2.0
 Australia,ENDANGERED,Reptiles,20.0
 Australia,ENDANGERED,Vascular plants,555.0
+Australia,TOT_KNOWN,Amphibians,239.0
 Australia,TOT_KNOWN,Birds,799.0
 Australia,TOT_KNOWN,Fish,5305.0
 Australia,TOT_KNOWN,Freshwater Fish,375.0
 Australia,TOT_KNOWN,Invertebrates,114095.0
-Australia,TOT_KNOWN,Lichens,3880.0
 Australia,TOT_KNOWN,Mammals,380.0
 Australia,TOT_KNOWN,Marine Fish,5051.0
-Australia,TOT_KNOWN,Mosses,1871.0
 Australia,TOT_KNOWN,Reptiles,1080.0
 Australia,TOT_KNOWN,Vascular plants,23968.0
+Australia,VULNERABLE,Amphibians,12.0
 Australia,VULNERABLE,Birds,63.0
 Australia,VULNERABLE,Fish,24.0
 Australia,VULNERABLE,Freshwater Fish,16.0
 Australia,VULNERABLE,Invertebrates,13.0
 Australia,VULNERABLE,Mammals,59.0
 Australia,VULNERABLE,Marine Fish,8.0
-Australia,VULNERABLE,Mosses,1.0
 Australia,VULNERABLE,Reptiles,31.0
 Australia,VULNERABLE,Vascular plants,588.0
 Austria,CRITICAL,Amphibians,1.0
@@ -74,7 +75,6 @@ Austria,VULNERABLE,Mammals,17.0
 Austria,VULNERABLE,Mosses,135.0
 Austria,VULNERABLE,Reptiles,3.0
 Austria,VULNERABLE,Vascular plants,465.0
-Belgium,CRITICAL,Amphibians,3.0
 Belgium,CRITICAL,Birds,20.0
 Belgium,CRITICAL,Fish,3.0
 Belgium,CRITICAL,Freshwater Fish,1.0
@@ -82,7 +82,6 @@ Belgium,CRITICAL,Invertebrates,135.0
 Belgium,CRITICAL,Mammals,4.0
 Belgium,CRITICAL,Marine Fish,2.0
 Belgium,CRITICAL,Vascular plants,253.0
-Belgium,ENDANGERED,Amphibians,3.0
 Belgium,ENDANGERED,Birds,15.0
 Belgium,ENDANGERED,Fish,4.0
 Belgium,ENDANGERED,Freshwater Fish,1.0
@@ -90,15 +89,12 @@ Belgium,ENDANGERED,Invertebrates,201.0
 Belgium,ENDANGERED,Mammals,2.0
 Belgium,ENDANGERED,Marine Fish,3.0
 Belgium,ENDANGERED,Vascular plants,107.0
-Belgium,TOT_KNOWN,Amphibians,19.0
 Belgium,TOT_KNOWN,Birds,198.0
 Belgium,TOT_KNOWN,Fish,142.0
 Belgium,TOT_KNOWN,Freshwater Fish,43.0
 Belgium,TOT_KNOWN,Invertebrates,5238.0
-Belgium,TOT_KNOWN,Lichens,838.0
 Belgium,TOT_KNOWN,Mammals,84.0
 Belgium,TOT_KNOWN,Marine Fish,99.0
-Belgium,TOT_KNOWN,Mosses,521.0
 Belgium,TOT_KNOWN,Vascular plants,1818.0
 Belgium,VULNERABLE,Birds,20.0
 Belgium,VULNERABLE,Fish,22.0
@@ -151,15 +147,16 @@ Canada,VULNERABLE,Mammals,31.0
 Canada,VULNERABLE,Marine Fish,38.0
 Canada,VULNERABLE,Mosses,134.0
 Canada,VULNERABLE,Vascular plants,467.0
+Chile,CRITICAL,Amphibians,10.0
 Chile,CRITICAL,Birds,2.0
 Chile,CRITICAL,Fish,1.0
 Chile,CRITICAL,Freshwater Fish,1.0
 Chile,CRITICAL,Invertebrates,33.0
-Chile,CRITICAL,Lichens,1.0
 Chile,CRITICAL,Mammals,3.0
 Chile,CRITICAL,Mosses,1.0
 Chile,CRITICAL,Reptiles,9.0
 Chile,CRITICAL,Vascular plants,74.0
+Chile,ENDANGERED,Amphibians,23.0
 Chile,ENDANGERED,Birds,25.0
 Chile,ENDANGERED,Fish,23.0
 Chile,ENDANGERED,Freshwater Fish,23.0
@@ -168,23 +165,21 @@ Chile,ENDANGERED,Mammals,13.0
 Chile,ENDANGERED,Mosses,4.0
 Chile,ENDANGERED,Reptiles,18.0
 Chile,ENDANGERED,Vascular plants,199.0
+Chile,TOT_KNOWN,Amphibians,65.0
 Chile,TOT_KNOWN,Birds,510.0
 Chile,TOT_KNOWN,Fish,1272.0
 Chile,TOT_KNOWN,Freshwater Fish,72.0
 Chile,TOT_KNOWN,Invertebrates,12220.0
-Chile,TOT_KNOWN,Lichens,1383.0
 Chile,TOT_KNOWN,Mammals,185.0
-Chile,TOT_KNOWN,Marine Fish,1182.0
 Chile,TOT_KNOWN,Mosses,923.0
 Chile,TOT_KNOWN,Reptiles,140.0
 Chile,TOT_KNOWN,Vascular plants,6103.0
+Chile,VULNERABLE,Amphibians,11.0
 Chile,VULNERABLE,Birds,19.0
 Chile,VULNERABLE,Fish,14.0
 Chile,VULNERABLE,Freshwater Fish,13.0
 Chile,VULNERABLE,Invertebrates,23.0
-Chile,VULNERABLE,Lichens,1.0
 Chile,VULNERABLE,Mammals,20.0
-Chile,VULNERABLE,Marine Fish,1.0
 Chile,VULNERABLE,Mosses,4.0
 Chile,VULNERABLE,Reptiles,25.0
 Chile,VULNERABLE,Vascular plants,153.0
@@ -247,7 +242,6 @@ Costa Rica,TOT_KNOWN,Birds,888.0
 Costa Rica,TOT_KNOWN,Fish,1835.0
 Costa Rica,TOT_KNOWN,Invertebrates,447.0
 Costa Rica,TOT_KNOWN,Mammals,241.0
-Costa Rica,TOT_KNOWN,Mosses,4.0
 Costa Rica,TOT_KNOWN,Reptiles,173.0
 Costa Rica,TOT_KNOWN,Vascular plants,1179.0
 Costa Rica,VULNERABLE,Amphibians,16.0
@@ -255,7 +249,6 @@ Costa Rica,VULNERABLE,Birds,20.0
 Costa Rica,VULNERABLE,Fish,58.0
 Costa Rica,VULNERABLE,Invertebrates,15.0
 Costa Rica,VULNERABLE,Mammals,10.0
-Costa Rica,VULNERABLE,Mosses,2.0
 Costa Rica,VULNERABLE,Reptiles,5.0
 Costa Rica,VULNERABLE,Vascular plants,86.0
 Czech Republic,CRITICAL,Amphibians,1.0
@@ -301,7 +294,6 @@ Czech Republic,VULNERABLE,Vascular plants,212.0
 Denmark,CRITICAL,Amphibians,1.0
 Denmark,CRITICAL,Birds,24.0
 Denmark,CRITICAL,Fish,3.0
-Denmark,CRITICAL,Freshwater Fish,2.0
 Denmark,CRITICAL,Invertebrates,104.0
 Denmark,CRITICAL,Lichens,84.0
 Denmark,CRITICAL,Mammals,1.0
@@ -318,53 +310,43 @@ Denmark,ENDANGERED,Vascular plants,101.0
 Denmark,TOT_KNOWN,Amphibians,15.0
 Denmark,TOT_KNOWN,Birds,241.0
 Denmark,TOT_KNOWN,Fish,238.0
-Denmark,TOT_KNOWN,Freshwater Fish,55.0
 Denmark,TOT_KNOWN,Invertebrates,4270.0
 Denmark,TOT_KNOWN,Lichens,1002.0
 Denmark,TOT_KNOWN,Mammals,71.0
 Denmark,TOT_KNOWN,Mosses,452.0
-Denmark,TOT_KNOWN,Reptiles,8.0
 Denmark,TOT_KNOWN,Vascular plants,2918.0
 Denmark,VULNERABLE,Amphibians,1.0
 Denmark,VULNERABLE,Birds,45.0
 Denmark,VULNERABLE,Fish,2.0
-Denmark,VULNERABLE,Freshwater Fish,6.0
 Denmark,VULNERABLE,Invertebrates,319.0
 Denmark,VULNERABLE,Lichens,87.0
 Denmark,VULNERABLE,Mammals,6.0
 Denmark,VULNERABLE,Mosses,33.0
-Denmark,VULNERABLE,Reptiles,1.0
 Denmark,VULNERABLE,Vascular plants,28.0
 Estonia,CRITICAL,Birds,23.0
 Estonia,CRITICAL,Fish,3.0
 Estonia,CRITICAL,Freshwater Fish,3.0
 Estonia,CRITICAL,Invertebrates,39.0
 Estonia,CRITICAL,Lichens,64.0
-Estonia,CRITICAL,Mammals,2.0
 Estonia,CRITICAL,Marine Fish,2.0
 Estonia,CRITICAL,Mosses,19.0
 Estonia,CRITICAL,Vascular plants,35.0
-Estonia,ENDANGERED,Amphibians,2.0
 Estonia,ENDANGERED,Birds,31.0
 Estonia,ENDANGERED,Fish,1.0
 Estonia,ENDANGERED,Freshwater Fish,1.0
 Estonia,ENDANGERED,Invertebrates,43.0
 Estonia,ENDANGERED,Lichens,74.0
-Estonia,ENDANGERED,Mammals,1.0
 Estonia,ENDANGERED,Marine Fish,1.0
 Estonia,ENDANGERED,Mosses,24.0
 Estonia,ENDANGERED,Vascular plants,67.0
-Estonia,TOT_KNOWN,Amphibians,11.0
 Estonia,TOT_KNOWN,Birds,234.0
 Estonia,TOT_KNOWN,Fish,103.0
 Estonia,TOT_KNOWN,Freshwater Fish,54.0
 Estonia,TOT_KNOWN,Invertebrates,9808.0
 Estonia,TOT_KNOWN,Lichens,556.0
-Estonia,TOT_KNOWN,Mammals,66.0
 Estonia,TOT_KNOWN,Marine Fish,66.0
 Estonia,TOT_KNOWN,Mosses,598.0
 Estonia,TOT_KNOWN,Vascular plants,2013.0
-Estonia,VULNERABLE,Amphibians,1.0
 Estonia,VULNERABLE,Birds,41.0
 Estonia,VULNERABLE,Fish,5.0
 Estonia,VULNERABLE,Freshwater Fish,5.0
@@ -523,25 +505,18 @@ Hungary,CRITICAL,Lichens,24.0
 Hungary,CRITICAL,Mammals,5.0
 Hungary,CRITICAL,Mosses,20.0
 Hungary,CRITICAL,Vascular plants,115.0
-Hungary,ENDANGERED,Amphibians,1.0
 Hungary,ENDANGERED,Birds,20.0
 Hungary,ENDANGERED,Invertebrates,7.0
 Hungary,ENDANGERED,Lichens,44.0
 Hungary,ENDANGERED,Mammals,3.0
 Hungary,ENDANGERED,Mosses,90.0
-Hungary,ENDANGERED,Reptiles,4.0
 Hungary,ENDANGERED,Vascular plants,162.0
-Hungary,TOT_KNOWN,Amphibians,18.0
 Hungary,TOT_KNOWN,Birds,238.0
-Hungary,TOT_KNOWN,Fish,81.0
-Hungary,TOT_KNOWN,Freshwater Fish,81.0
 Hungary,TOT_KNOWN,Invertebrates,87.0
 Hungary,TOT_KNOWN,Lichens,715.0
 Hungary,TOT_KNOWN,Mammals,87.0
 Hungary,TOT_KNOWN,Mosses,659.0
-Hungary,TOT_KNOWN,Reptiles,15.0
 Hungary,TOT_KNOWN,Vascular plants,2721.0
-Hungary,VULNERABLE,Amphibians,1.0
 Hungary,VULNERABLE,Birds,35.0
 Hungary,VULNERABLE,Invertebrates,8.0
 Hungary,VULNERABLE,Lichens,45.0
@@ -551,39 +526,24 @@ Hungary,VULNERABLE,Vascular plants,105.0
 Iceland,CRITICAL,Birds,6.0
 Iceland,ENDANGERED,Birds,11.0
 Iceland,TOT_KNOWN,Birds,75.0
-Iceland,TOT_KNOWN,Freshwater Fish,5.0
-Iceland,TOT_KNOWN,Mammals,4.0
-Iceland,TOT_KNOWN,Vascular plants,438.0
 Iceland,VULNERABLE,Birds,16.0
-Ireland,CRITICAL,Freshwater Fish,1.0
 Ireland,CRITICAL,Invertebrates,28.0
 Ireland,CRITICAL,Marine Fish,6.0
 Ireland,CRITICAL,Mosses,19.0
 Ireland,CRITICAL,Vascular plants,20.0
-Ireland,ENDANGERED,Amphibians,1.0
-Ireland,ENDANGERED,Birds,37.0
 Ireland,ENDANGERED,Invertebrates,51.0
 Ireland,ENDANGERED,Marine Fish,5.0
 Ireland,ENDANGERED,Mosses,30.0
-Ireland,ENDANGERED,Reptiles,0.0
 Ireland,ENDANGERED,Vascular plants,25.0
-Ireland,TOT_KNOWN,Amphibians,3.0
-Ireland,TOT_KNOWN,Birds,478.0
-Ireland,TOT_KNOWN,Fish,404.0
-Ireland,TOT_KNOWN,Freshwater Fish,28.0
 Ireland,TOT_KNOWN,Invertebrates,1230.0
-Ireland,TOT_KNOWN,Mammals,57.0
 Ireland,TOT_KNOWN,Marine Fish,376.0
 Ireland,TOT_KNOWN,Mosses,596.0
-Ireland,TOT_KNOWN,Reptiles,3.0
 Ireland,TOT_KNOWN,Vascular plants,1050.0
-Ireland,VULNERABLE,Birds,90.0
-Ireland,VULNERABLE,Freshwater Fish,4.0
 Ireland,VULNERABLE,Invertebrates,100.0
-Ireland,VULNERABLE,Mammals,1.0
 Ireland,VULNERABLE,Marine Fish,6.0
 Ireland,VULNERABLE,Mosses,64.0
 Ireland,VULNERABLE,Vascular plants,56.0
+Italy,CRITICAL,Amphibians,0.0
 Italy,CRITICAL,Birds,10.0
 Italy,CRITICAL,Fish,21.0
 Italy,CRITICAL,Freshwater Fish,11.0
@@ -592,6 +552,7 @@ Italy,CRITICAL,Mammals,2.0
 Italy,CRITICAL,Marine Fish,10.0
 Italy,CRITICAL,Reptiles,1.0
 Italy,CRITICAL,Vascular plants,193.0
+Italy,ENDANGERED,Amphibians,4.0
 Italy,ENDANGERED,Birds,36.0
 Italy,ENDANGERED,Fish,12.0
 Italy,ENDANGERED,Freshwater Fish,6.0
@@ -600,16 +561,16 @@ Italy,ENDANGERED,Mammals,8.0
 Italy,ENDANGERED,Marine Fish,6.0
 Italy,ENDANGERED,Reptiles,5.0
 Italy,ENDANGERED,Vascular plants,269.0
+Italy,TOT_KNOWN,Amphibians,44.0
 Italy,TOT_KNOWN,Birds,278.0
 Italy,TOT_KNOWN,Fish,641.0
 Italy,TOT_KNOWN,Freshwater Fish,97.0
 Italy,TOT_KNOWN,Invertebrates,58632.0
-Italy,TOT_KNOWN,Lichens,2704.0
 Italy,TOT_KNOWN,Mammals,126.0
 Italy,TOT_KNOWN,Marine Fish,544.0
-Italy,TOT_KNOWN,Mosses,1209.0
 Italy,TOT_KNOWN,Reptiles,56.0
 Italy,TOT_KNOWN,Vascular plants,8195.0
+Italy,VULNERABLE,Amphibians,10.0
 Italy,VULNERABLE,Birds,21.0
 Italy,VULNERABLE,Fish,14.0
 Italy,VULNERABLE,Freshwater Fish,8.0
@@ -658,6 +619,7 @@ Japan,VULNERABLE,Marine Fish,2.0
 Japan,VULNERABLE,Mosses,103.0
 Japan,VULNERABLE,Reptiles,23.0
 Japan,VULNERABLE,Vascular plants,741.0
+Korea,CRITICAL,Amphibians,0.0
 Korea,CRITICAL,Birds,7.0
 Korea,CRITICAL,Fish,4.0
 Korea,CRITICAL,Freshwater Fish,4.0
@@ -665,6 +627,7 @@ Korea,CRITICAL,Invertebrates,24.0
 Korea,CRITICAL,Mammals,1.0
 Korea,CRITICAL,Reptiles,0.0
 Korea,CRITICAL,Vascular plants,28.0
+Korea,ENDANGERED,Amphibians,2.0
 Korea,ENDANGERED,Birds,18.0
 Korea,ENDANGERED,Fish,13.0
 Korea,ENDANGERED,Freshwater Fish,13.0
@@ -672,16 +635,15 @@ Korea,ENDANGERED,Invertebrates,43.0
 Korea,ENDANGERED,Mammals,4.0
 Korea,ENDANGERED,Reptiles,1.0
 Korea,ENDANGERED,Vascular plants,86.0
+Korea,TOT_KNOWN,Amphibians,21.0
 Korea,TOT_KNOWN,Birds,527.0
 Korea,TOT_KNOWN,Fish,1290.0
 Korea,TOT_KNOWN,Freshwater Fish,202.0
 Korea,TOT_KNOWN,Invertebrates,27568.0
-Korea,TOT_KNOWN,Lichens,1133.0
 Korea,TOT_KNOWN,Mammals,125.0
-Korea,TOT_KNOWN,Marine Fish,1088.0
-Korea,TOT_KNOWN,Mosses,925.0
 Korea,TOT_KNOWN,Reptiles,32.0
 Korea,TOT_KNOWN,Vascular plants,4552.0
+Korea,VULNERABLE,Amphibians,3.0
 Korea,VULNERABLE,Birds,29.0
 Korea,VULNERABLE,Fish,7.0
 Korea,VULNERABLE,Freshwater Fish,7.0
@@ -695,37 +657,35 @@ Latvia,CRITICAL,Fish,1.0
 Latvia,CRITICAL,Invertebrates,7.0
 Latvia,CRITICAL,Lichens,2.0
 Latvia,CRITICAL,Mammals,0.0
-Latvia,CRITICAL,Marine Fish,1.0
 Latvia,CRITICAL,Mosses,3.0
+Latvia,CRITICAL,Reptiles,1.0
 Latvia,CRITICAL,Vascular plants,16.0
 Latvia,ENDANGERED,Amphibians,1.0
 Latvia,ENDANGERED,Birds,19.0
 Latvia,ENDANGERED,Fish,0.0
-Latvia,ENDANGERED,Freshwater Fish,0.0
 Latvia,ENDANGERED,Invertebrates,38.0
 Latvia,ENDANGERED,Lichens,18.0
 Latvia,ENDANGERED,Mammals,3.0
-Latvia,ENDANGERED,Marine Fish,0.0
 Latvia,ENDANGERED,Mosses,41.0
+Latvia,ENDANGERED,Reptiles,1.0
 Latvia,ENDANGERED,Vascular plants,110.0
 Latvia,TOT_KNOWN,Amphibians,13.0
 Latvia,TOT_KNOWN,Birds,233.0
 Latvia,TOT_KNOWN,Fish,87.0
-Latvia,TOT_KNOWN,Freshwater Fish,45.0
 Latvia,TOT_KNOWN,Invertebrates,17100.0
 Latvia,TOT_KNOWN,Lichens,687.0
 Latvia,TOT_KNOWN,Mammals,62.0
-Latvia,TOT_KNOWN,Marine Fish,42.0
 Latvia,TOT_KNOWN,Mosses,560.0
+Latvia,TOT_KNOWN,Reptiles,7.0
 Latvia,TOT_KNOWN,Vascular plants,1937.0
 Latvia,VULNERABLE,Amphibians,2.0
 Latvia,VULNERABLE,Birds,16.0
 Latvia,VULNERABLE,Fish,1.0
-Latvia,VULNERABLE,Freshwater Fish,1.0
 Latvia,VULNERABLE,Invertebrates,34.0
 Latvia,VULNERABLE,Lichens,4.0
 Latvia,VULNERABLE,Mammals,2.0
 Latvia,VULNERABLE,Mosses,17.0
+Latvia,VULNERABLE,Reptiles,0.0
 Latvia,VULNERABLE,Vascular plants,83.0
 Lithuania,CRITICAL,Birds,19.0
 Lithuania,CRITICAL,Fish,3.0
@@ -735,33 +695,27 @@ Lithuania,CRITICAL,Lichens,24.0
 Lithuania,CRITICAL,Marine Fish,1.0
 Lithuania,CRITICAL,Mosses,9.0
 Lithuania,CRITICAL,Vascular plants,23.0
-Lithuania,ENDANGERED,Amphibians,1.0
 Lithuania,ENDANGERED,Birds,17.0
 Lithuania,ENDANGERED,Fish,0.0
 Lithuania,ENDANGERED,Freshwater Fish,0.0
 Lithuania,ENDANGERED,Invertebrates,54.0
 Lithuania,ENDANGERED,Lichens,16.0
-Lithuania,ENDANGERED,Mammals,3.0
 Lithuania,ENDANGERED,Marine Fish,0.0
 Lithuania,ENDANGERED,Mosses,13.0
 Lithuania,ENDANGERED,Vascular plants,66.0
-Lithuania,TOT_KNOWN,Amphibians,13.0
 Lithuania,TOT_KNOWN,Birds,389.0
 Lithuania,TOT_KNOWN,Fish,105.0
 Lithuania,TOT_KNOWN,Freshwater Fish,54.0
 Lithuania,TOT_KNOWN,Invertebrates,25000.0
 Lithuania,TOT_KNOWN,Lichens,250.0
-Lithuania,TOT_KNOWN,Mammals,68.0
 Lithuania,TOT_KNOWN,Marine Fish,51.0
 Lithuania,TOT_KNOWN,Mosses,470.0
 Lithuania,TOT_KNOWN,Vascular plants,1334.0
-Lithuania,VULNERABLE,Amphibians,3.0
 Lithuania,VULNERABLE,Birds,20.0
 Lithuania,VULNERABLE,Fish,2.0
 Lithuania,VULNERABLE,Freshwater Fish,2.0
 Lithuania,VULNERABLE,Invertebrates,22.0
 Lithuania,VULNERABLE,Lichens,3.0
-Lithuania,VULNERABLE,Mammals,4.0
 Lithuania,VULNERABLE,Marine Fish,0.0
 Lithuania,VULNERABLE,Mosses,26.0
 Lithuania,VULNERABLE,Vascular plants,41.0
@@ -871,15 +825,7 @@ Netherlands,VULNERABLE,Mosses,43.0
 Netherlands,VULNERABLE,Vascular plants,168.0
 New Zealand,CRITICAL,Invertebrates,133.0
 New Zealand,ENDANGERED,Invertebrates,62.0
-New Zealand,TOT_KNOWN,Amphibians,8.0
-New Zealand,TOT_KNOWN,Birds,254.0
-New Zealand,TOT_KNOWN,Fish,289.0
-New Zealand,TOT_KNOWN,Freshwater Fish,75.0
 New Zealand,TOT_KNOWN,Invertebrates,33000.0
-New Zealand,TOT_KNOWN,Mammals,65.0
-New Zealand,TOT_KNOWN,Marine Fish,214.0
-New Zealand,TOT_KNOWN,Reptiles,107.0
-New Zealand,TOT_KNOWN,Vascular plants,5038.0
 New Zealand,VULNERABLE,Invertebrates,71.0
 Norway,CRITICAL,Birds,6.0
 Norway,CRITICAL,Fish,1.0
@@ -899,13 +845,11 @@ Norway,ENDANGERED,Mosses,61.0
 Norway,ENDANGERED,Vascular plants,100.0
 Norway,TOT_KNOWN,Birds,264.0
 Norway,TOT_KNOWN,Fish,312.0
-Norway,TOT_KNOWN,Freshwater Fish,50.0
 Norway,TOT_KNOWN,Invertebrates,18010.0
 Norway,TOT_KNOWN,Lichens,2032.0
 Norway,TOT_KNOWN,Mammals,89.0
 Norway,TOT_KNOWN,Marine Fish,278.0
 Norway,TOT_KNOWN,Mosses,1085.0
-Norway,TOT_KNOWN,Reptiles,9.0
 Norway,TOT_KNOWN,Vascular plants,3243.0
 Norway,VULNERABLE,Birds,25.0
 Norway,VULNERABLE,Fish,2.0
@@ -922,8 +866,8 @@ Poland,CRITICAL,Invertebrates,152.0
 Poland,CRITICAL,Lichens,179.0
 Poland,CRITICAL,Mammals,2.0
 Poland,CRITICAL,Marine Fish,1.0
+Poland,CRITICAL,Reptiles,1.0
 Poland,CRITICAL,Vascular plants,127.0
-Poland,ENDANGERED,Amphibians,0.0
 Poland,ENDANGERED,Birds,8.0
 Poland,ENDANGERED,Fish,5.0
 Poland,ENDANGERED,Freshwater Fish,4.0
@@ -931,9 +875,8 @@ Poland,ENDANGERED,Invertebrates,358.0
 Poland,ENDANGERED,Lichens,201.0
 Poland,ENDANGERED,Mammals,10.0
 Poland,ENDANGERED,Marine Fish,0.0
-Poland,ENDANGERED,Mosses,52.0
+Poland,ENDANGERED,Reptiles,1.0
 Poland,ENDANGERED,Vascular plants,154.0
-Poland,TOT_KNOWN,Amphibians,19.0
 Poland,TOT_KNOWN,Birds,456.0
 Poland,TOT_KNOWN,Fish,126.0
 Poland,TOT_KNOWN,Freshwater Fish,77.0
@@ -941,7 +884,7 @@ Poland,TOT_KNOWN,Invertebrates,33872.0
 Poland,TOT_KNOWN,Lichens,1701.0
 Poland,TOT_KNOWN,Mammals,112.0
 Poland,TOT_KNOWN,Marine Fish,36.0
-Poland,TOT_KNOWN,Mosses,702.0
+Poland,TOT_KNOWN,Reptiles,12.0
 Poland,TOT_KNOWN,Vascular plants,3139.0
 Poland,VULNERABLE,Birds,10.0
 Poland,VULNERABLE,Fish,14.0
@@ -950,7 +893,7 @@ Poland,VULNERABLE,Invertebrates,571.0
 Poland,VULNERABLE,Lichens,165.0
 Poland,VULNERABLE,Mammals,1.0
 Poland,VULNERABLE,Marine Fish,1.0
-Poland,VULNERABLE,Mosses,31.0
+Poland,VULNERABLE,Reptiles,1.0
 Poland,VULNERABLE,Vascular plants,208.0
 Portugal,CRITICAL,Birds,20.0
 Portugal,CRITICAL,Fish,8.0
@@ -958,76 +901,40 @@ Portugal,CRITICAL,Mammals,11.0
 Portugal,ENDANGERED,Birds,30.0
 Portugal,ENDANGERED,Fish,10.0
 Portugal,ENDANGERED,Mammals,7.0
-Portugal,ENDANGERED,Reptiles,4.0
-Portugal,TOT_KNOWN,Amphibians,20.0
 Portugal,TOT_KNOWN,Birds,393.0
 Portugal,TOT_KNOWN,Fish,65.0
 Portugal,TOT_KNOWN,Mammals,158.0
-Portugal,TOT_KNOWN,Reptiles,49.0
-Portugal,TOT_KNOWN,Vascular plants,3607.0
-Portugal,VULNERABLE,Amphibians,2.0
 Portugal,VULNERABLE,Birds,61.0
 Portugal,VULNERABLE,Fish,4.0
 Portugal,VULNERABLE,Mammals,13.0
-Portugal,VULNERABLE,Reptiles,6.0
 Slovak Republic,CRITICAL,Birds,10.0
 Slovak Republic,CRITICAL,Invertebrates,199.0
 Slovak Republic,CRITICAL,Lichens,140.0
 Slovak Republic,CRITICAL,Mammals,2.0
 Slovak Republic,CRITICAL,Mosses,95.0
-Slovak Republic,CRITICAL,Reptiles,1.0
 Slovak Republic,CRITICAL,Vascular plants,155.0
-Slovak Republic,ENDANGERED,Amphibians,3.0
 Slovak Republic,ENDANGERED,Birds,24.0
-Slovak Republic,ENDANGERED,Freshwater Fish,6.0
 Slovak Republic,ENDANGERED,Invertebrates,401.0
 Slovak Republic,ENDANGERED,Lichens,48.0
 Slovak Republic,ENDANGERED,Mammals,6.0
 Slovak Republic,ENDANGERED,Mosses,104.0
 Slovak Republic,ENDANGERED,Vascular plants,171.0
-Slovak Republic,TOT_KNOWN,Amphibians,18.0
 Slovak Republic,TOT_KNOWN,Birds,211.0
-Slovak Republic,TOT_KNOWN,Freshwater Fish,79.0
 Slovak Republic,TOT_KNOWN,Invertebrates,24818.0
 Slovak Republic,TOT_KNOWN,Lichens,1508.0
 Slovak Republic,TOT_KNOWN,Mammals,90.0
 Slovak Republic,TOT_KNOWN,Mosses,909.0
-Slovak Republic,TOT_KNOWN,Reptiles,12.0
 Slovak Republic,TOT_KNOWN,Vascular plants,3619.0
-Slovak Republic,VULNERABLE,Amphibians,5.0
 Slovak Republic,VULNERABLE,Birds,17.0
-Slovak Republic,VULNERABLE,Freshwater Fish,6.0
 Slovak Republic,VULNERABLE,Invertebrates,1036.0
 Slovak Republic,VULNERABLE,Lichens,169.0
 Slovak Republic,VULNERABLE,Mammals,12.0
 Slovak Republic,VULNERABLE,Mosses,112.0
-Slovak Republic,VULNERABLE,Reptiles,4.0
 Slovak Republic,VULNERABLE,Vascular plants,201.0
 Slovenia,CRITICAL,Birds,17.0
-Slovenia,ENDANGERED,Amphibians,3.0
 Slovenia,ENDANGERED,Birds,43.0
-Slovenia,ENDANGERED,Fish,40.0
-Slovenia,ENDANGERED,Freshwater Fish,31.0
-Slovenia,ENDANGERED,Mammals,19.0
-Slovenia,ENDANGERED,Marine Fish,9.0
-Slovenia,ENDANGERED,Reptiles,7.0
-Slovenia,ENDANGERED,Vascular plants,80.0
-Slovenia,TOT_KNOWN,Amphibians,21.0
 Slovenia,TOT_KNOWN,Birds,380.0
-Slovenia,TOT_KNOWN,Fish,273.0
-Slovenia,TOT_KNOWN,Freshwater Fish,85.0
-Slovenia,TOT_KNOWN,Mammals,89.0
-Slovenia,TOT_KNOWN,Marine Fish,188.0
-Slovenia,TOT_KNOWN,Reptiles,24.0
-Slovenia,TOT_KNOWN,Vascular plants,3452.0
-Slovenia,VULNERABLE,Amphibians,14.0
 Slovenia,VULNERABLE,Birds,45.0
-Slovenia,VULNERABLE,Fish,10.0
-Slovenia,VULNERABLE,Freshwater Fish,9.0
-Slovenia,VULNERABLE,Mammals,15.0
-Slovenia,VULNERABLE,Marine Fish,1.0
-Slovenia,VULNERABLE,Reptiles,11.0
-Slovenia,VULNERABLE,Vascular plants,254.0
 Spain,CRITICAL,Amphibians,1.0
 Spain,CRITICAL,Birds,10.0
 Spain,CRITICAL,Fish,9.0
@@ -1050,7 +957,6 @@ Spain,TOT_KNOWN,Amphibians,39.0
 Spain,TOT_KNOWN,Birds,641.0
 Spain,TOT_KNOWN,Fish,1146.0
 Spain,TOT_KNOWN,Freshwater Fish,82.0
-Spain,TOT_KNOWN,Lichens,2426.0
 Spain,TOT_KNOWN,Mammals,174.0
 Spain,TOT_KNOWN,Marine Fish,1064.0
 Spain,TOT_KNOWN,Mosses,1100.0
@@ -1070,28 +976,20 @@ Sweden,CRITICAL,Fish,6.0
 Sweden,CRITICAL,Mammals,5.0
 Sweden,CRITICAL,Marine Fish,6.0
 Sweden,CRITICAL,Vascular plants,43.0
-Sweden,ENDANGERED,Amphibians,0.0
 Sweden,ENDANGERED,Birds,11.0
 Sweden,ENDANGERED,Fish,6.0
-Sweden,ENDANGERED,Freshwater Fish,1.0
 Sweden,ENDANGERED,Mammals,3.0
 Sweden,ENDANGERED,Marine Fish,6.0
 Sweden,ENDANGERED,Vascular plants,114.0
-Sweden,TOT_KNOWN,Amphibians,13.0
 Sweden,TOT_KNOWN,Birds,257.0
 Sweden,TOT_KNOWN,Fish,141.0
-Sweden,TOT_KNOWN,Freshwater Fish,42.0
 Sweden,TOT_KNOWN,Mammals,65.0
 Sweden,TOT_KNOWN,Marine Fish,100.0
-Sweden,TOT_KNOWN,Reptiles,6.0
 Sweden,TOT_KNOWN,Vascular plants,1561.0
-Sweden,VULNERABLE,Amphibians,5.0
 Sweden,VULNERABLE,Birds,35.0
 Sweden,VULNERABLE,Fish,8.0
-Sweden,VULNERABLE,Freshwater Fish,1.0
 Sweden,VULNERABLE,Mammals,6.0
 Sweden,VULNERABLE,Marine Fish,7.0
-Sweden,VULNERABLE,Reptiles,2.0
 Sweden,VULNERABLE,Vascular plants,113.0
 Switzerland,CRITICAL,Amphibians,0.0
 Switzerland,CRITICAL,Birds,9.0
@@ -1133,39 +1031,23 @@ Switzerland,VULNERABLE,Mammals,16.0
 Switzerland,VULNERABLE,Mosses,282.0
 Switzerland,VULNERABLE,Reptiles,5.0
 Switzerland,VULNERABLE,Vascular plants,362.0
-Turkey,TOT_KNOWN,Amphibians,39.0
-Turkey,TOT_KNOWN,Birds,506.0
-Turkey,TOT_KNOWN,Fish,716.0
-Turkey,TOT_KNOWN,Freshwater Fish,402.0
-Turkey,TOT_KNOWN,Invertebrates,20636.0
-Turkey,TOT_KNOWN,Lichens,1000.0
-Turkey,TOT_KNOWN,Mammals,173.0
-Turkey,TOT_KNOWN,Marine Fish,480.0
-Turkey,TOT_KNOWN,Reptiles,147.0
-Turkey,TOT_KNOWN,Vascular plants,12145.0
-United Kingdom,CRITICAL,Amphibians,1.0
 United Kingdom,CRITICAL,Birds,27.0
 United Kingdom,CRITICAL,Invertebrates,82.0
 United Kingdom,CRITICAL,Lichens,45.0
 United Kingdom,CRITICAL,Mammals,2.0
 United Kingdom,CRITICAL,Mosses,23.0
 United Kingdom,CRITICAL,Vascular plants,42.0
-United Kingdom,ENDANGERED,Amphibians,1.0
 United Kingdom,ENDANGERED,Birds,43.0
 United Kingdom,ENDANGERED,Invertebrates,118.0
 United Kingdom,ENDANGERED,Lichens,34.0
 United Kingdom,ENDANGERED,Mammals,4.0
 United Kingdom,ENDANGERED,Mosses,37.0
-United Kingdom,ENDANGERED,Reptiles,2.0
 United Kingdom,ENDANGERED,Vascular plants,110.0
-United Kingdom,TOT_KNOWN,Amphibians,15.0
 United Kingdom,TOT_KNOWN,Birds,590.0
-United Kingdom,TOT_KNOWN,Fish,622.0
 United Kingdom,TOT_KNOWN,Invertebrates,36242.0
 United Kingdom,TOT_KNOWN,Lichens,2875.0
 United Kingdom,TOT_KNOWN,Mammals,107.0
 United Kingdom,TOT_KNOWN,Mosses,805.0
-United Kingdom,TOT_KNOWN,Reptiles,15.0
 United Kingdom,TOT_KNOWN,Vascular plants,4562.0
 United Kingdom,VULNERABLE,Birds,52.0
 United Kingdom,VULNERABLE,Invertebrates,202.0

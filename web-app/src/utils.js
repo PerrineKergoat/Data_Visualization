@@ -5,7 +5,7 @@ import * as d3 from 'd3';
 // Copyright 2021, Observable Inc.
 // Released under the ISC license.
 // https://observablehq.com/@d3/color-legend
-export function mapLegend(color, {
+export function MapLegend(color, {
 
     title,
     tickSize = 6,
@@ -277,6 +277,67 @@ export function StackedBar(data, {
         bar.select(".text-label").style("opacity", 0);
     });
 
+
+    return svg.node();
+}
+
+export function createLegend(labelColorMap) {
+    // Select the svg area
+    const svg_base = d3
+        .create("svg")
+        .attr("class", "stacked-bar-chart")
+        .attr("viewBox", "0 0 300 150")
+        .style("width", "500px")
+        // .style("height", "100px")
+        .style("max-height", "100%")
+        .style("max-width", "100%");
+    const svg = d3.select(svg_base.node());
+
+    // Extract the keys and colors from the labelColorMap
+    let keys = Object.keys(labelColorMap);
+    let colors = Object.values(labelColorMap);
+
+    console.log(keys);
+    console.log(colors);
+
+    // Define the color scale
+    let color = d3.scaleOrdinal()
+        .domain(keys)
+        .range(colors);
+
+    // Add dots in the legend for each name
+    let size = 15;
+    svg.selectAll("color_squares")
+        .data(keys)
+        .enter()
+        .append("rect")
+        .attr("x", 10)
+        .attr("y", function (d, i) {
+            return i * (size + 5);
+        })
+        .attr("width", size)
+        .attr("height", size)
+        .style("fill", function (d) {
+            return color(d);
+        });
+
+    // Add labels in the legend for each name
+    svg.selectAll("labels")
+        .data(keys)
+        .enter()
+        .append("text")
+        .attr("x", 10 + size * 1.2)
+        .attr("y", function (d, i) {
+            return i * (size + 5) + (size / 2);
+        })
+        // .style("fill", function (d) {
+        //     return color(d);
+        // })
+        .text(function (d) {
+            return d;
+        })
+        .attr("text-anchor", "left")
+        .style("alignment-baseline", "middle");
 
     return svg.node();
 }

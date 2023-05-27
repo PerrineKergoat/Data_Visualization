@@ -10,11 +10,13 @@
     margin: auto;
 }
 
-.text-label.hidden {
-  opacity: 0;
-  pointer-events: none;
+.figureDistrib__card_info {
+    height: 20px;
+    font-size: 14px;
+    color: black;
 }
 
-.text-label:hover {
-  opacity: 1;
+.figureDistrib__card_title {
+    color: black;
+    text-align: center;
 }

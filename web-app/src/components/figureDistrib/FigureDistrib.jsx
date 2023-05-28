@@ -1,13 +1,14 @@
 import React, {useEffect, useRef} from 'react';
 import './figureDistrib.css';
 
-import {createLegend, StackedBar} from '../../utils'
+import {createLegend, createStackedBarChart, StackedBar} from '../../utils'
 import * as d3 from "d3";
 
 
-const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
+const FigureDistrib = ({countryIucnCatRepartition, countrySpeciesRepartition, selectedCountry}) => {
 
-    const graphRef = useRef(null);
+    const graphRefGeneral = useRef(null);
+    const graphRefSpecies = useRef(null);
     const graphLegendRef = useRef(null);
 
     const colors = ['#d51415', '#f5a031', '#f8cd26', '#a0a0a0'];
@@ -19,10 +20,57 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
         'Least Concern': colors[3],
     })
 
+    const colorsMap = {
+        'CRITICAL': colors[0],
+        'ENDANGERED': colors[1],
+        'VULNERABLE': colors[2],
+        'LEAST_CONCERN': colors[3],
+    }
 
     useEffect(() => {
 
-        graphRef.current.innerHTML = '';
+        graphRefSpecies.current.innerHTML = '';
+
+        const tmp_data = countrySpeciesRepartition[selectedCountry];
+        const data = tmp_data ? JSON.parse(JSON.stringify(tmp_data)) : tmp_data;
+
+
+        if (!data) {
+            if (!selectedCountry) {
+                d3.select('.figureVulnerabilities__card_info').text('Select a country');
+            } else {
+                d3.select('.figureVulnerabilities__card_info').text('Select another country');
+            }
+            return;
+        }
+
+        for (const category in data) {
+            // Find the category object with "TOT_KNOWN" as the category value
+            const totKnownCategory = data[category].find(obj => obj.category === "TOT_KNOWN");
+
+            // Calculate the "LEAST_CONCERN" value
+            const leastConcernValue = totKnownCategory.value - data[category]
+                .filter(obj => obj.category !== "TOT_KNOWN")
+                .reduce((total, obj) => total + obj.value, 0);
+
+            // Replace the "TOT_KNOWN" category object with "LEAST_CONCERN"
+            totKnownCategory.category = "LEAST_CONCERN";
+            totKnownCategory.value = leastConcernValue;
+        }
+
+
+        const bar = createStackedBarChart(data, colorsMap);
+        graphRefSpecies.current.appendChild(bar);
+        // graphLegendRef.current.appendChild(legend);
+        d3.select('.figureVulnerabilities__card_info').text(selectedCountry);
+
+    }, [selectedCountry]);
+
+
+
+    useEffect(() => {
+
+        graphRefGeneral.current.innerHTML = '';
         graphLegendRef.current.innerHTML = '';
 
         let d = countryIucnCatRepartition[selectedCountry];
@@ -44,7 +92,7 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
         const bar = StackedBar(data, {
             colors: colors,
         })
-        graphRef.current.appendChild(bar);
+        graphRefGeneral.current.appendChild(bar);
         graphLegendRef.current.appendChild(legend);
         d3.select('.figureDistrib__card_info').text(selectedCountry);
 
@@ -56,7 +104,18 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
             <div className="figureDistrib__card">
                 <h3 className='figureDistrib__card_title'>Repartition in the IUCN Categories</h3>
                 <div className="figureDistrib__card_info">Select a country</div>
-                <div className="figureDistrib__card_graph" ref={graphRef}></div>
+                <table>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <div className="figureDistrib__card_graph_general" ref={graphRefGeneral}></div>
+                        </td>
+                        <td>
+                            <div className="figureDistrib__card_graph_species" ref={graphRefSpecies}></div>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
                 <div className="figureDistrib__card_legend" ref={graphLegendRef}></div>
             </div>
         </div>

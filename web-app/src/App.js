@@ -1,18 +1,16 @@
 import './App.css';
 import {
-    Header,
-    Navbar,
-    FigureMap,
-    FigureVulnerabilities,
-    FigureTerrestrial,
-    FigureMarine,
-    FigureTree,
     FigureDistrib,
+    FigureMap,
+    FigureMarine,
+    FigureTerrestrial,
+    FigureTree,
     FigureTreeCountry,
-    FigureTreeWorld
+    FigureTreeWorld,
+    Header,
+    Navbar
 } from "./components";
-import React from "react";
-import {useState} from "react";
+import React, {useState} from "react";
 import iucn_red_list from "./data/iucn_red_list.csv";
 import countryIucnCatRepartition from "./data/country_iucn_cat_repartition.json";
 import countrySpeciesRepartition from "./data/country_species_repartition.json";
@@ -34,21 +32,14 @@ function App() {
             <div id="content">
                 <div className='figures' id="map_related_figures">
                     <div>
-                        <FigureMap selectedCountry={selectedCountry} setSelectedCountry={setSelectedCountry} selectedYear={selectedYear} iucnRedListCSV={iucnRedListCSV}/>
+                        <FigureMap selectedCountry={selectedCountry} setSelectedCountry={setSelectedCountry}
+                                   selectedYear={selectedYear} iucnRedListCSV={iucnRedListCSV}/>
                     </div>
                     <div>
-                        <table>
-                            <tbody>
-                            <tr>
-                                <td>
-                                    <FigureDistrib countryIucnCatRepartition={countryIucnCatRepartition} selectedCountry={selectedCountry}/>
-                                </td>
-                                <td>
-                                    <FigureVulnerabilities countrySpeciesRepartition={countrySpeciesRepartition} selectedCountry={selectedCountry}/>
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
+                        <FigureDistrib countryIucnCatRepartition={countryIucnCatRepartition}
+                                       countrySpeciesRepartition={countrySpeciesRepartition}
+                                       selectedCountry={selectedCountry}/>
+
                     </div>
                 </div>
                 <div className='figures' id="protected_areas_figures">

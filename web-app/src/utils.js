@@ -337,3 +337,105 @@ export function createLegend(labelColorMap) {
 
     return svg.node();
 }
+
+// https://d3-graph-gallery.com/graph/barplot_stacked_basicWide.html
+export function createStackedBarChart(data, colorsMap) {
+
+    // Set the dimensions and margins of the graph
+    let margin = {top: 10, right: 30, bottom: 20, left: 50},
+        width = 460 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+
+    // Append the SVG object to the body of the page
+    const svg_base = d3
+        .create("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+    const svg = d3.select(svg_base.node());
+
+
+    // Extract the categories from the data
+    let categories = Object.keys(data);
+
+    // sort the categories by the total value
+    categories.sort(function (a, b) {
+        return data[b].reduce(function (sum, item) {
+            return sum + item.value;
+        }, 0) - data[a].reduce(function (sum, item) {
+            return sum + item.value;
+        }, 0);
+    });
+
+    categories = categories.slice(0, 5);
+
+    // Extract the subgroups and values for each category
+    let subgroups = ['CRITICAL', 'ENDANGERED', 'VULNERABLE', 'LEAST_CONCERN'];
+    let values = [];
+    categories.forEach(function (category) {
+        let categoryData = data[category];
+        categoryData.forEach(function (item) {
+            values.push(item.value);
+        });
+    });
+
+    // Add X axis
+    let x = d3
+        .scaleBand()
+        .domain(categories)
+        .range([0, width])
+        .padding([0.2]);
+    svg
+        .append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x).tickSizeOuter(0));
+
+    // Add Y axis
+    let y = d3.scaleLinear().domain([0, d3.max(values)]).range([height, 0]);
+    svg.append("g").call(d3.axisLeft(y));
+
+    // Stack the data
+    let stackedData = d3
+        .stack()
+        .keys(subgroups)
+        .value(function (d, key) {
+            let categoryData = data[d];
+            let value = 0;
+            categoryData.forEach(function (item) {
+                if (item.category === key) {
+                    value = item.value;
+                }
+            });
+            return value;
+        })(categories);
+
+    // Show the bars
+    svg
+        .append("g")
+        .selectAll("g")
+        // Enter in the stack data
+        .data(stackedData)
+        .enter()
+        .append("g")
+        .attr("fill", function (d) {
+            return colorsMap[d.key];
+        })
+        .selectAll("rect")
+        // Enter a second time to add all rectangles
+        .data(function (d) {
+            return d;
+        })
+        .enter()
+        .append("rect")
+        .attr("x", function (d) {
+            return x(d.data);
+        })
+        .attr("y", function (d) {
+            return y(d[1]);
+        })
+        .attr("height", function (d) {
+            return y(d[0]) - y(d[1]);
+        })
+        .attr("width", x.bandwidth());
+
+    return svg.node();
+}

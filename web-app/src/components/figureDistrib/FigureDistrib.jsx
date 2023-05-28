@@ -10,14 +10,6 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
     const graphRef = useRef(null);
     const graphLegendRef = useRef(null);
 
-
-    let sampleData = [
-        {label: 'CR', value: 123},
-        {label: 'EN', value: 10},
-        {label: 'VU', value: 233},
-        {label: 'LC', value: 89}
-    ]
-
     const colors = ['#d51415', '#f5a031', '#f8cd26', '#a0a0a0'];
 
     const legend = createLegend({
@@ -29,7 +21,6 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
 
 
     useEffect(() => {
-        console.log(countryIucnCatRepartition);
 
         graphRef.current.innerHTML = '';
         graphLegendRef.current.innerHTML = '';
@@ -44,13 +35,13 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
             return;
         }
 
-        let sampleData = [
+        let data = [
             {label: 'CR', value: d['CRITICAL']},
             {label: 'EN', value: d['ENDANGERED']},
             {label: 'VU', value: d['VULNERABLE']},
             {label: 'LC', value: d['TOT_KNOWN'] - d['CRITICAL'] - d['ENDANGERED'] - d['VULNERABLE']}
         ]
-        const bar = StackedBar(sampleData, {
+        const bar = StackedBar(data, {
             colors: colors,
         })
         graphRef.current.appendChild(bar);
@@ -58,10 +49,6 @@ const FigureDistrib = ({countryIucnCatRepartition, selectedCountry}) => {
         d3.select('.figureDistrib__card_info').text(selectedCountry);
 
     }, [selectedCountry]);
-    // useEffect(() => {
-    //     graphRef.current.innerHTML = '';
-    //     graphRef.current.appendChild(bar);
-    // });
 
 
     return (

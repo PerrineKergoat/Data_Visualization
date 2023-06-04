@@ -149,12 +149,11 @@ To help doing this we want to make some plots change according to the user's int
 
 All of this while of course keeping in mind the do's and don'ts of data visualization (hence for example the use of bar charts instead of pie charts).
 
-### Project prototype
-[Website](https://com-480-data-visualization.github.io/project-2023-lcp-data-wizards/)
-
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
+
+[Website](https://com-480-data-visualization.github.io/project-2023-lcp-data-wizards/)
 
 [Screencast]()
 

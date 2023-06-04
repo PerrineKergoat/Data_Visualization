@@ -14,3 +14,23 @@
     margin: auto;
     /*vertical-align: middle;*/
 }
+
+.node {
+    cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: #aaa;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: rgba(139, 0, 0, 0.328);
+  stroke-width: 1px;
+}

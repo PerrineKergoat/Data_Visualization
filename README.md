@@ -157,7 +157,7 @@ All of this while of course keeping in mind the do's and don'ts of data visualiz
 
 [Screencast]()
 
-[Process book]()
+[Process book](assets/Process_Book.pdf)
 
 ## Late policy
 

@@ -556,7 +556,7 @@ var i = 0,
     duration = 750,
     root;
 
-var tree = d3.layout.tree()
+var Tree = d3.layout.Tree()
     .size([height, width]);
 
 var diagonal = d3.svg.diagonal()
@@ -582,8 +582,8 @@ d3.select(self.frameElement).style("height", "500px");
 function update(source) {
 
     // Compute the new tree layout.
-    var nodes = tree.nodes(root).reverse(),
-        links = tree.links(nodes);
+    var nodes = Tree.nodes(root).reverse(),
+        links = Tree.links(nodes);
     
     // Normalize for fixed-depth.
     nodes.forEach(function(d) { d.y = d.depth * 250; });

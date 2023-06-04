@@ -155,7 +155,7 @@ All of this while of course keeping in mind the do's and don'ts of data visualiz
 
 [Website](https://com-480-data-visualization.github.io/project-2023-lcp-data-wizards/)
 
-[Screencast]()
+[Screencast](https://youtu.be/1riBHhXfUpg)
 
 [Process book](assets/Process_Book.pdf)
 

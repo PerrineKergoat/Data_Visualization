@@ -61,23 +61,7 @@ function App() {
                     </table>
                 </div>
                 <div className='figures' id="species_tree_figures">
-                    <table>
-                        <tbody>
-                        <tr>
-                            <td rowSpan="2">
-                                <FigureTree/>
-                            </td>
-                            <td>
-                                <FigureTreeWorld/>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <FigureTreeCountry/>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
+                    <FigureTree/>
                 </div>
             </div>
         </div>

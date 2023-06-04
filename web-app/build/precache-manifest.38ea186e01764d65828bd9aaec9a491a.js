@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b1e28b02e057b345636d",
-    "url": "/project-2023-lcp-data-wizards/static/css/main.3969d908.chunk.css"
+    "revision": "3b3a6dbea3ef8999416e",
+    "url": "/project-2023-lcp-data-wizards/static/css/main.c41d288a.chunk.css"
   },
   {
-    "revision": "b1e28b02e057b345636d",
-    "url": "/project-2023-lcp-data-wizards/static/js/main.b1e28b02.chunk.js"
+    "revision": "3b3a6dbea3ef8999416e",
+    "url": "/project-2023-lcp-data-wizards/static/js/main.3b3a6dbe.chunk.js"
   },
   {
-    "revision": "d14e660b7b04ab9dd5ee",
-    "url": "/project-2023-lcp-data-wizards/static/js/1.d14e660b.chunk.js"
+    "revision": "5512cfad496badaae261",
+    "url": "/project-2023-lcp-data-wizards/static/js/1.5512cfad.chunk.js"
   },
   {
     "revision": "45e0d8e1113f9e4d4f6b",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/project-2023-lcp-data-wizards/static/media/iucn_red_list.f5158aa8.csv"
   },
   {
-    "revision": "af4948f43482c3b22672a8d1da330a7b",
+    "revision": "ce49de73377981c36decc9ac889fa79e",
     "url": "/project-2023-lcp-data-wizards/index.html"
   }
 ];

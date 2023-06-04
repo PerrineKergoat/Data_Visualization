@@ -18,7 +18,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     const legendRef = useRef(null);
     // d3.range(10).map((x) => (x ** 0.5)/10)
 
-    const colorScale = d3.scaleSequentialQuantile().domain(d3.range(101).map((x) => (x ** 0.5)/10)).interpolator(d3.interpolateReds);
+    const colorScale = d3.scaleSequentialQuantile().domain(d3.range(101).map((x) => (x ** 0.5) / 10)).interpolator(d3.interpolateReds);
 
 
     const legend = MapLegend(colorScale, {
@@ -35,6 +35,7 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
     // create a map of country names and their corresponding colors from the csv
     // the map is {(countryName, year): color}
     const [countryColorMap, setCountryColorMap] = useState(null);
+    const [countryIndexMap, setCountryIndexMap] = useState(null);
     useEffect(() => {
 
         d3.csv(iucnRedListCSV).then((data) => {
@@ -46,14 +47,31 @@ const FigureMap = ({selectedCountry, setSelectedCountry, selectedYear, iucnRedLi
                 tmpMap.set((countryName + year), [d['Value'], color]);
             });
             setCountryColorMap(tmpMap);
+
+
+            const tmpIndexMap = new Map();
+            data.forEach((d) => {
+                let countryName = d.Country;
+                let year = d.Year;
+                let index = d['Value'];
+                tmpIndexMap.set((countryName + year), index);
+            });
+            setCountryIndexMap(tmpIndexMap);
+
         });
     }, []);
 
     function handleMouseClick(e, d) {
         // set the selected country
         setSelectedCountry(d.properties.name);
-        d3.select('.figureMap__card_info').text(d.properties.name + ': ' + e.target.getAttribute('iucn'));
+        d3.select('.figureMap__card_info').text(d.properties.name + ': ' + countryIndexMap.get((d.properties.name + selectedYear)));
     }
+
+    useEffect(() => {
+        if(selectedCountry !== null){
+            d3.select('.figureMap__card_info').text(selectedCountry + ': ' + countryIndexMap.get((selectedCountry + selectedYear)));
+        }
+    }, [selectedYear]);
 
 
     function update(geojson) {

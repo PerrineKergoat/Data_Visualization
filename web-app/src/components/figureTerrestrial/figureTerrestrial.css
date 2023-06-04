@@ -1,15 +1,16 @@
-.figureTerrestrial__card {
-    width: 90%;
-    padding: 10px 0px 10px 0px;
-    margin: 10px auto 10px auto;
-    border-radius: 30px;
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
+.figureTerrestrial {
+    width: 100%;
+    padding: 10px 10px 10px 10px;
 }
 
-#imgTerrestrial {
+.figureTerrestrial__title {
+    color: black;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.figureTerrestrial__card {
     width: 100%;
-    border-radius: 30px;
-    margin: auto;
+    margin: 10px 10px 10px 10px;
 }

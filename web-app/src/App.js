@@ -14,6 +14,8 @@ import React, {useState} from "react";
 import iucn_red_list from "./data/iucn_red_list.csv";
 import countryIucnCatRepartition from "./data/country_iucn_cat_repartition.json";
 import countrySpeciesRepartition from "./data/country_species_repartition.json";
+import terrestial from "./data/country_terrestrial_protected_area.json";
+import marine from "./data/country_marine_protected_area.json";
 
 function App() {
 
@@ -21,7 +23,6 @@ function App() {
     const [selectedCountry, setSelectedCountry] = useState(null);
 
     const [iucnRedListCSV] = useState(iucn_red_list);
-
 
     return (
         <div className="App">
@@ -43,14 +44,17 @@ function App() {
                     </div>
                 </div>
                 <div className='figures' id="protected_areas_figures">
+                    <h1 id="protected_areas_figures__title">Protected areas by year</h1>
                     <table>
                         <tbody>
                         <tr>
-                            <td>
-                                <FigureTerrestrial/>
+                            <td className='graphTD'>
+                                <FigureTerrestrial selectedCountry={selectedCountry} selectedYear={selectedYear} terrestrialJSON={terrestial}/>
                             </td>
-                            <td>
-                                <FigureMarine/>
+                        </tr>
+                        <tr>
+                            <td className='graphTD'>
+                                <FigureMarine selectedCountry={selectedCountry} selectedYear={selectedYear} marineJSON={marine} />
                             </td>
                         </tr>
                         </tbody>

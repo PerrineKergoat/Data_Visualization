@@ -3,6 +3,10 @@
     margin-top: 50px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #db382b;
     color: white;
@@ -24,4 +28,22 @@ a {
     background-color: #ffffff;
     border-radius: 50px;
     margin: 40px auto;
+}
+
+#protected_areas_figures__title {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+#protected_areas_figures {
+    width: 90%;
+    padding: 0 0 10px 0;
+    margin: 10px auto 10px auto;
+    display: inline-block;
+}
+
+.graphTD {
+    padding-top: 0;
+    padding-bottom: 0;
 }

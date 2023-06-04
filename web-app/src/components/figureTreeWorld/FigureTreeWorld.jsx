@@ -1,12 +1,12 @@
 import React from 'react';
 import treeWorld from '../../assets/treeWorld.jpg';
-import './figureTreeWorld.css';
+import './figureTreeWordl.css';
 
-const FigureTreeWorld = () => {
+const FigureTreeCountry = () => {
     return (
         <div className="figureTreeWorld" id="figureTreeWorld">
             <div className="figureTreeWorld__card">
-                <img src={treeWorld} alt="treeWorld" id="imgTreeWorld"/>
+                <img src={treeCountry} alt="treeWorld" id="imgTreeWorld" />
             </div>
         </div>
     );

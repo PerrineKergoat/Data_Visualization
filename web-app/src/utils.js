@@ -207,7 +207,7 @@ export function StackedBar(data, {
     const sel = d3.select(svg.node());
 
     // set up scales for horizontal placement
-    const xScale = d3.scaleLinear().domain([0, total]).range([0, 100]);
+    const xScale = d3.scaleLinear().domain([0, total]).range([5, 100]);
 
     const join = sel
         .selectAll("g")
@@ -342,15 +342,18 @@ export function createLegend(labelColorMap) {
 export function createStackedBarChart(data, colorsMap) {
 
     // Set the dimensions and margins of the graph
-    let margin = {top: 10, right: 30, bottom: 20, left: 50},
-        width = 460 - margin.left - margin.right,
-        height = 400 - margin.top - margin.bottom;
+    let margin = {top: 10, right: 10, bottom: 10, left: 10},
+        width = 700 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
 
     // Append the SVG object to the body of the page
     const svg_base = d3
         .create("svg")
+        .attr("viewBox", "0 0 700 500")
         .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+        // .attr("height", height + margin.top + margin.bottom)
+        .style("max-height", "100%")
+        .style("max-width", "100%");
     const svg = d3.select(svg_base.node());
 
 

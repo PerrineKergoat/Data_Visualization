@@ -102,7 +102,7 @@ const FigureDistrib = ({countryIucnCatRepartition, countrySpeciesRepartition, se
     return (
         <div className="figureDistrib" id="figureDistrib">
             <div className="figureDistrib__card">
-                <h3 className='figureDistrib__card_title'>Repartition in the IUCN Categories</h3>
+                <h1 className='figureDistrib__card_title'>Repartition in the IUCN Categories</h1>
                 <div className="figureDistrib__card_info">Select a country</div>
                 <table>
                     <tbody>

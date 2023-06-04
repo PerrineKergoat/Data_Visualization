@@ -1,22 +1,21 @@
 .figureDistrib__card {
     width: 100%;
-    margin: 10px auto 10px auto;
+    margin: 75px auto 10px auto;
 }
 
-#imgDistrib {
-    width: 100%;
-    height: 100%;
-    border-radius: 30px;
-    margin: auto;
-}
 
 .figureDistrib__card_info {
     height: 20px;
-    font-size: 14px;
+    font-size: 18px;
     color: black;
 }
 
 .figureDistrib__card_title {
     color: black;
     text-align: center;
+}
+
+.tick{
+    color: black;
+    font-weight: bold;
 }

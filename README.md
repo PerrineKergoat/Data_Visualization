@@ -6,8 +6,6 @@
 | Ludovic Burnier | 301308 |
 | Perrine Kergoat | 295892 |
 
-[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
-
 [Website](https://com-480-data-visualization.github.io/project-2023-lcp-data-wizards/)
 
 ## Milestone 1 (7th April, 5pm)

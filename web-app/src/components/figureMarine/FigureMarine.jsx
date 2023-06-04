@@ -4,20 +4,17 @@ import './figureMarine.css';
 
 const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
 
-    const margin = { top: 40, right: 50, bottom: 60, left: 50 },
+    const margin = { top: 40, right: 50, bottom: 60, left: 60 },
     width = 960 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom,
-    colorWorld = "DarkOrange",
-    colorCountry = "DarkRed";
-
-    console.log("marineJSON", marineJSON);
+    colorWorld = "DarkBlue",
+    colorCountry = "Blue";
 
     // import data from marineJSON
     const tmpMap = new Map();
     marineJSON.forEach((d) => {
         let countryName = d.Country;
         let data = d.Data;
-        console.log("data", data);
         const pointsList = [];
         data.forEach((d) => {
             const pointsMap = new Map();
@@ -48,12 +45,16 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
 
     const getXAxis = (ref) => {
         const xAxis = d3.axisBottom(getX);
-        d3.select(ref).call(xAxis.tickFormat(d3.format("d")));
+        d3.select(ref)
+        .attr("class", "x-axis")
+        .call(xAxis.tickFormat(d3.format("d")));
     };
 
     const getYAxis = (ref) => {
         const yAxis = d3.axisLeft(getY).tickSize(-width).tickPadding(7);
-        d3.select(ref).call(yAxis);
+        d3.select(ref)
+        .attr("class", "y-axis")
+        .call(yAxis);
     };
 
     const linePathWorld = d3
@@ -61,17 +62,6 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
                 .x((d) => getX(d.get('year')))
                 .y((d) => getY(d.get('value')))
                 .curve(d3.curveMonotoneX)(tmpMap.get("World"));
-
-    // Add legend for world
-    const legend = d3.select("#figureMarine")
-        .select(".figureMarine__card")
-        .append("text")
-        .attr("class", "legend")
-        .attr("x", 0)
-        .attr("y", 20)
-        .attr("transform", "translate(0," + margin.top + ")")
-        .attr("fill", colorWorld)
-        .text("World");
 
     useEffect(() => {
         if (selectedCountry !== null) {
@@ -81,10 +71,6 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
             .selectAll(".countryLine")
             .remove();
             if (tmpMap.has(selectedCountry)) {
-                console.log("selectedCountry: ", selectedCountry);
-                // log type of selectedCountry
-                console.log("type of selectedCountry: ", typeof selectedCountry);
-                console.log("tmpMap.get(selectedCountry): ", tmpMap.get(selectedCountry));
                 const linePathCountry = d3
                     .line()
                     .x((d) => getX(d.get('year')))
@@ -121,7 +107,7 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
                     .attr("class", "circle")
                     .attr("r", 5)
                     .attr("fill", colorCountry)
-                    .attr("transform", "translate(" + margin.left + ",0)")
+                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
                     .attr("cx", getX(selectedYear))
                     .attr("cy", getY(tmpMap.get(selectedCountry).find((d) => d.get('year') === selectedYear).get('value')));
             }
@@ -136,7 +122,7 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
                 .attr("cx", getX(selectedYear))
                 .attr("cy", getY(tmpMap.get("World").find((d) => d.get('year') === selectedYear).get('value')));
         }
-    }, [selectedYear]);
+    }, [selectedYear, selectedCountry]);
 
     // Add legend for selected country and world
     useEffect(() => {
@@ -144,17 +130,18 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
             // Remove previous legend if exists
             d3.select("#figureMarine")
             .select(".figureMarine__card")
-            .selectAll(".legendCountry")
+            .selectAll("#legendCountry")
             .remove();
             if (tmpMap.has(selectedCountry)) {
-                const legend = d3.select("#figureMarine")
+                const legendCountry = d3.select("#figureMarine")
                     .select(".figureMarine__card")
                     .append("text")
-                    .attr("class", "legendCountry")
+                    .attr("class", "legendMarine")
+                    .attr("id", "legendCountry")
                     .attr("x", 0)
-                    .attr("y", 0)
+                    .attr("y", 20)
                     .attr("fill", colorCountry)
-                    .attr("transform", "translate(0," + margin.top + ")")
+                    .attr("transform", "translate(" + ((width+margin.left)/2 + 30) + ", " + (height + margin.top + margin.bottom/3) + ")")
                     .text(selectedCountry);
             }
         }
@@ -162,7 +149,7 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
 
     return (        
         <div className="figureMarine" id="figureMarine">
-            <h5 className="figureMarine__title">Marine</h5>
+            <h3 className="figureMarine__title">Marine</h3>
             <svg
                 width="100%" height="100%"
                 className="figureMarine__card"
@@ -199,9 +186,20 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
             }
                 <text
                     transform={"rotate(-90)"}
-                    x={0 - (height + margin.top + margin.bottom) / 2 - 40} y={0 + margin.left/2 - 20} dy="1em"
-                    color='black'>
-                    {"Percent of land area"}
+                    x={0 - (height + margin.top + margin.bottom) / 2 - 55} y={0 + margin.left/2 - 20} dy="1em"
+                    color='black' className='axis-label'>
+                    {"Percent of marine area"}
+                </text>
+            {
+                // world legend
+            }
+                <text
+                    className="legendMarine"
+                    x={0} y={20}
+                    transform={`translate(${(width+margin.left)/2 - 30},${height + margin.top + margin.bottom/3})`}
+                    fill={colorWorld}
+                >
+                    {"World"}
                 </text>
             </svg>
         </div>

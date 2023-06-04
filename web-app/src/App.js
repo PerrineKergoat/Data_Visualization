@@ -45,14 +45,14 @@ function App() {
                 </div>
                 <div className='figures' id="protected_areas_figures">
                     <h1 id="protected_areas_figures__title">Protected areas by year</h1>
-                    <table>
+                    <table className='graphTable'>
                         <tbody>
-                        <tr>
+                        <tr className='graphTR'>
                             <td className='graphTD'>
                                 <FigureTerrestrial selectedCountry={selectedCountry} selectedYear={selectedYear} terrestrialJSON={terrestial}/>
                             </td>
                         </tr>
-                        <tr>
+                        <tr className='graphTR'>
                             <td className='graphTD'>
                                 <FigureMarine selectedCountry={selectedCountry} selectedYear={selectedYear} marineJSON={marine} />
                             </td>

@@ -1,6 +1,5 @@
 .figureTerrestrial {
-    width: 100%;
-    padding: 10px 10px 10px 10px;
+    width: 100%;    
 }
 
 .figureTerrestrial__title {
@@ -12,5 +11,29 @@
 
 .figureTerrestrial__card {
     width: 100%;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+.legendTerrestrial {
+    font-size: 16px;
+}
+
+.axis-label {
+    font-size: 14px;
+}
+
+.x-axis line {
+    stroke: gray;
+}
+
+.y-axis line {
+    stroke: gray;
+}
+
+.x-axis path {
+    stroke: gray;
+}
+
+.y-axis path {
+    stroke: gray;
 }

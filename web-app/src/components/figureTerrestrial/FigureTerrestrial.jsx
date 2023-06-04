@@ -7,8 +7,8 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
     const margin = { top: 40, right: 50, bottom: 60, left: 60 },
     width = 960 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom,
-    colorWorld = "DarkOrange",
-    colorCountry = "DarkRed";
+    colorWorld = "DarkGreen",
+    colorCountry = "Green";
 
     // import data from terrestrialJSON
     const tmpMap = new Map();
@@ -45,12 +45,16 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
 
     const getXAxis = (ref) => {
         const xAxis = d3.axisBottom(getX);
-        d3.select(ref).call(xAxis.tickFormat(d3.format("d")));
+        d3.select(ref)
+        .attr("class", "x-axis")
+        .call(xAxis.tickFormat(d3.format("d")));
     };
 
     const getYAxis = (ref) => {
         const yAxis = d3.axisLeft(getY).tickSize(-width).tickPadding(7);
-        d3.select(ref).call(yAxis);
+        d3.select(ref)
+        .attr("class", "y-axis")
+        .call(yAxis);
     };
 
     const linePathWorld = d3
@@ -67,10 +71,6 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
             .selectAll(".countryLine")
             .remove();
             if (tmpMap.has(selectedCountry)) {
-                console.log("selectedCountry: ", selectedCountry);
-                // log type of selectedCountry
-                console.log("type of selectedCountry: ", typeof selectedCountry);
-                console.log("tmpMap.get(selectedCountry): ", tmpMap.get(selectedCountry));
                 const linePathCountry = d3
                     .line()
                     .x((d) => getX(d.get('year')))
@@ -107,7 +107,7 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
                     .attr("class", "circle")
                     .attr("r", 5)
                     .attr("fill", colorCountry)
-                    .attr("transform", "translate(" + margin.left + ",0)")
+                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
                     .attr("cx", getX(selectedYear))
                     .attr("cy", getY(tmpMap.get(selectedCountry).find((d) => d.get('year') === selectedYear).get('value')));
             }
@@ -122,7 +122,7 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
                 .attr("cx", getX(selectedYear))
                 .attr("cy", getY(tmpMap.get("World").find((d) => d.get('year') === selectedYear).get('value')));
         }
-    }, [selectedYear]);
+    }, [selectedYear, selectedCountry]);
 
     // Add legend for selected country and world
     useEffect(() => {
@@ -130,17 +130,18 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
             // Remove previous legend if exists
             d3.select("#figureTerrestrial")
             .select(".figureTerrestrial__card")
-            .selectAll(".legendCountry")
+            .selectAll("#legendCountry")
             .remove();
             if (tmpMap.has(selectedCountry)) {
                 const legendCountry = d3.select("#figureTerrestrial")
                     .select(".figureTerrestrial__card")
                     .append("text")
-                    .attr("class", "legendCountry")
+                    .attr("id", "legendCountry")
+                    .attr("class", "legendTerrestrial")
                     .attr("x", 0)
-                    .attr("y", 0)
+                    .attr("y", 20)
                     .attr("fill", colorCountry)
-                    .attr("transform", "translate(0," + margin.top + ")")
+                    .attr("transform", "translate(" + ((width+margin.left)/2 + 30) + ", " + (height + margin.top + margin.bottom/3) + ")")
                     .text(selectedCountry);
             }
         }
@@ -148,7 +149,7 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
 
     return (        
         <div className="figureTerrestrial" id="figureTerrestrial">
-            <h5 className="figureTerrestrial__title">Terrestrial</h5>
+            <h3 className="figureTerrestrial__title">Terrestrial</h3>
             <svg
                 width="100%" height="100%"
                 className="figureTerrestrial__card"
@@ -185,17 +186,17 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
             }
                 <text
                     transform={"rotate(-90)"}
-                    x={0 - (height + margin.top + margin.bottom) / 2 - 40} y={0 + margin.left/2 - 20} dy="1em"
-                    color='black'>
+                    x={0 - (height + margin.top + margin.bottom) / 2 - 45} y={0 + margin.left/2 - 20} dy="1em"
+                    color='black' className="axis-label">
                     {"Percent of land area"}
                 </text>
             {
                 // world legend
             }
                 <text
-                    className="legend"
+                    className="legendTerrestrial"
                     x={0} y={20}
-                    transform={`translate(0,${margin.top})`}
+                    transform={`translate(${(width+margin.left)/2 - 30},${height + margin.top + margin.bottom/3})`}
                     fill={colorWorld}
                 >
                     {"World"}

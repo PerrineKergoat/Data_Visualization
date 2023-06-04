@@ -92,7 +92,7 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
 
     }, [selectedCountry]);
 
-    // Add circle for selected year
+    // Add circle for selected country and world
     useEffect(() => {
         if (selectedYear !== null) {
             // Remove previous circle if exists
@@ -101,26 +101,30 @@ const FigureMarine = ({selectedCountry, selectedYear, marineJSON}) => {
             .selectAll(".circle")
             .remove();
             if (tmpMap.has(selectedCountry)) {
+                if (tmpMap.get(selectedCountry).filter((d) => d.get('year') === selectedYear).length !== 0) {
+                    const circle = d3.select("#figureMarine")
+                        .select(".figureMarine__card")
+                        .append("circle")
+                        .attr("class", "circle")
+                        .attr("r", 5)
+                        .attr("fill", colorCountry)
+                        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+                        .attr("cx", getX(selectedYear))
+                        .attr("cy", getY(tmpMap.get(selectedCountry).find((d) => d.get('year') === selectedYear).get('value')));
+                }
+            }
+            if(tmpMap.get("World").filter((d) => d.get('year') === selectedYear).length !== 0) {
+                // Add circle for world
                 const circle = d3.select("#figureMarine")
                     .select(".figureMarine__card")
                     .append("circle")
                     .attr("class", "circle")
                     .attr("r", 5)
-                    .attr("fill", colorCountry)
+                    .attr("fill", colorWorld)
                     .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
                     .attr("cx", getX(selectedYear))
-                    .attr("cy", getY(tmpMap.get(selectedCountry).find((d) => d.get('year') === selectedYear).get('value')));
+                    .attr("cy", getY(tmpMap.get("World").find((d) => d.get('year') === selectedYear).get('value')));
             }
-            // Add circle for world
-            const circle = d3.select("#figureMarine")
-                .select(".figureMarine__card")
-                .append("circle")
-                .attr("class", "circle")
-                .attr("r", 5)
-                .attr("fill", colorWorld)
-                .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-                .attr("cx", getX(selectedYear))
-                .attr("cy", getY(tmpMap.get("World").find((d) => d.get('year') === selectedYear).get('value')));
         }
     }, [selectedYear, selectedCountry]);
 

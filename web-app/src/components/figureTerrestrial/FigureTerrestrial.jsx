@@ -101,27 +101,35 @@ const FigureTerrestrial = ({selectedCountry, selectedYear, terrestrialJSON}) => 
             .selectAll(".circle")
             .remove();
             if (tmpMap.has(selectedCountry)) {
+                console.log(tmpMap.get(selectedCountry).filter((d) => d.get('year') === selectedYear));
+                if (tmpMap.get(selectedCountry).filter((d) => d.get('year') === selectedYear).length !== 0) {
+                    const circle = d3.select("#figureTerrestrial")
+                        .select(".figureTerrestrial__card")
+                        .append("circle")
+                        .attr("class", "circle")
+                        .attr("r", 5)
+                        .attr("fill", colorCountry)
+                        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+                        .attr("cx", getX(selectedYear))
+                        .attr("cy", getY(tmpMap.get(selectedCountry).find((d) => d.get('year') === selectedYear).get('value')));
+                }
+            }
+            console.log(typeof selectedYear);
+            console.log(tmpMap.get('World').filter((d) => d.get('year') === selectedYear));
+            if(tmpMap.get("World").filter((d) => d.get('year') === selectedYear).length !== 0) {
+                // Add circle for world
                 const circle = d3.select("#figureTerrestrial")
                     .select(".figureTerrestrial__card")
                     .append("circle")
                     .attr("class", "circle")
                     .attr("r", 5)
-                    .attr("fill", colorCountry)
+                    .attr("fill", colorWorld)
                     .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
                     .attr("cx", getX(selectedYear))
-                    .attr("cy", getY(tmpMap.get(selectedCountry).find((d) => d.get('year') === selectedYear).get('value')));
+                    .attr("cy", getY(tmpMap.get("World").find((d) => d.get('year') === selectedYear).get('value')));
             }
-            // Add circle for world
-            const circle = d3.select("#figureTerrestrial")
-                .select(".figureTerrestrial__card")
-                .append("circle")
-                .attr("class", "circle")
-                .attr("r", 5)
-                .attr("fill", colorWorld)
-                .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-                .attr("cx", getX(selectedYear))
-                .attr("cy", getY(tmpMap.get("World").find((d) => d.get('year') === selectedYear).get('value')));
         }
+        console.log("selectedYear", selectedYear);
     }, [selectedYear, selectedCountry]);
 
     // Add legend for selected country and world

@@ -8,7 +8,8 @@ import {
     FigureTreeCountry,
     FigureTreeWorld,
     Header,
-    Navbar
+    Navbar,
+    Slider
 } from "./components";
 import React, {useState} from "react";
 import iucn_red_list from "./data/iucn_red_list.csv";
@@ -31,6 +32,9 @@ function App() {
                 <Header/>
             </div>
             <div id="content">
+                <div className='slider'>
+                    <Slider selectedYear={selectedYear} setSelectedYear={setSelectedYear}/>
+                </div>
                 <div className='figures' id="map_related_figures">
                     <div>
                         <FigureMap selectedCountry={selectedCountry} setSelectedCountry={setSelectedCountry}
